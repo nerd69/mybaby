@@ -1,143 +1,521 @@
 #EXTM3U
-#EXTINF:-1,UK:, Sky Cinema Comedy UHD
-http://gogobox.eu:8000/live/aftab/aftab/6737.ts 
-#EXTINF:-1,UK:, Sky Cinema Premiere UHD
-http://gogobox.eu:8000/live/aftab/aftab/6741.ts 
-#EXTINF:-1,UK:,  Sky Cinema Hits UHD
-http://gogobox.eu:8000/live/aftab/aftab/6736.ts 
-#EXTINF:-1,UK:, Sky Cinema Crime & Thriller UHD
-http://gogobox.eu:8000/live/aftab/aftab/6743.ts 
-#EXTINF:-1,UK:, Sky Cinema Action & Adventure UHD
-http://gogobox.eu:8000/live/aftab/aftab/6740.ts 
-#EXTINF:-1,UK:, Sky Cinema Christmas UHD
-http://gogobox.eu:8000/live/aftab/aftab/6738.ts 
-#EXTINF:-1,UK:, SKY CINEMA MODERN GREATS ( UK )
-http://gogobox.eu:8000/live/aftab/aftab/6733.ts 
-#EXTINF:-1,UK:, Sky Cinema SciFi & Horror UHD
-http://gogobox.eu:8000/live/aftab/aftab/6745.ts 
-#EXTINF:-1,UK:, Sky Cinema Select UHD ( UK )
-http://gogobox.eu:8000/live/aftab/aftab/6744.ts 
-#EXTINF:-1,UK:, SKY CINEMA LIVING ( UK )
-http://gogobox.eu:8000/live/aftab/aftab/6734.ts 
-#EXTINF:-1,UK:, SKY MOVIES 4 HD
-http://gogobox.eu:8000/live/aftab/aftab/6732.ts 
-#EXTINF:-1,UK:, Sky Cinema Family UHD
-http://gogobox.eu:8000/live/aftab/aftab/6742.ts 
-#EXTINF:-1,UK:, Sky Cinema Disney UHD
-http://gogobox.eu:8000/live/aftab/aftab/6739.ts 
-#EXTINF:-1,UK:, SONY MOVIES
-http://gogobox.eu:8000/live/aftab/aftab/6731.ts 
-#EXTINF:-1,UK|, SONY MOVIES +1
-http://gogobox.eu:8000/live/aftab/aftab/7027.ts 
-#EXTINF:-1,Sky Movies Premiere HD
-http://gogobox.eu:8000/live/aftab/aftab/5348.ts 
-#EXTINF:-1,Sky Movies Crime and Thriller HD
-http://gogobox.eu:8000/live/aftab/aftab/5351.ts 
-#EXTINF:-1,Uk, Sky Movies Action and Adventure HD
-http://gogobox.eu:8000/live/aftab/aftab/5352.ts 
-#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
-http://gogobox.eu:8000/live/aftab/aftab/5347.ts 
-#EXTINF:-1,Sky Movies Family HD
-http://gogobox.eu:8000/live/aftab/aftab/5349.ts 
-#EXTINF:-1,Sky Movies Disney HD
-http://gogobox.eu:8000/live/aftab/aftab/5350.ts 
-#EXTINF:-1,Sky Atlantic HD
-http://gogobox.eu:8000/live/aftab/aftab/6661.ts 
-#EXTINF:-1,UK|, TCM +1
-http://gogobox.eu:8000/live/aftab/aftab/7025.ts 
-#EXTINF:-1,BBC One HD
-http://gogobox.eu:8000/live/aftab/aftab/5341.ts 
-#EXTINF:-1,BBC One back up
-http://gogobox.eu:8000/live/aftab/aftab/7150.ts 
-#EXTINF:-1,BBC Two HD
-http://gogobox.eu:8000/live/aftab/aftab/5342.ts 
-#EXTINF:-1,BBC Two back up
-http://gogobox.eu:8000/live/aftab/aftab/7151.ts 
-#EXTINF:-1,ITV 1 HD
-http://gogobox.eu:8000/live/aftab/aftab/5343.ts 
-#EXTINF:-1,UK|, SKY 1 +1
-http://gogobox.eu:8000/live/aftab/aftab/7028.ts 
-#EXTINF:-1,Channel 4 HD
-http://gogobox.eu:8000/live/aftab/aftab/5344.ts 
-#EXTINF:-1,Channel 5 HD
-http://gogobox.eu:8000/live/aftab/aftab/5345.ts 
-#EXTINF:-1,UK:, Docubox HD
-http://gogobox.eu:8000/live/aftab/aftab/6735.ts 
-#EXTINF:-1,Animal Planet HD UK
-http://gogobox.eu:8000/live/aftab/aftab/5346.ts 
-#EXTINF:-1,UK|, EDEN +1
-http://gogobox.eu:8000/live/aftab/aftab/7026.ts 
-#EXTINF:-1,Sky Movies Thriller
-http://gogobox.eu:8000/live/aftab/aftab/260.ts 
-#EXTINF:-1,Sky Movies  Horror
-http://gogobox.eu:8000/live/aftab/aftab/559.ts 
-#EXTINF:-1,Sky Movies Christmas
-http://gogobox.eu:8000/live/aftab/aftab/554.ts 
-#EXTINF:-1,Sky Movies Showcase
-http://gogobox.eu:8000/live/aftab/aftab/261.ts 
-#EXTINF:-1,Sky Movies Select
-http://gogobox.eu:8000/live/aftab/aftab/262.ts 
-#EXTINF:-1,Sky Movies Family
-http://gogobox.eu:8000/live/aftab/aftab/263.ts 
-#EXTINF:-1,Sky Movies Disney
-http://gogobox.eu:8000/live/aftab/aftab/264.ts 
-#EXTINF:-1,Sky Movies Comedy
-http://gogobox.eu:8000/live/aftab/aftab/265.ts 
-#EXTINF:-1,Sky Movies Action & adventure
-http://gogobox.eu:8000/live/aftab/aftab/266.ts 
-#EXTINF:-1,Sky Movies  Premiere
-http://gogobox.eu:8000/live/aftab/aftab/267.ts 
-#EXTINF:-1,Sky Atlantic
-http://gogobox.eu:8000/live/aftab/aftab/631.ts 
-#EXTINF:-1,Sky Arts
-http://gogobox.eu:8000/live/aftab/aftab/632.ts 
-#EXTINF:-1,Film 4
-http://gogobox.eu:8000/live/aftab/aftab/273.ts 
-#EXTINF:-1,TRUE MOVIES 2
-http://gogobox.eu:8000/live/aftab/aftab/5947.ts 
-#EXTINF:-1,TRUE MOVIES 1
-http://gogobox.eu:8000/live/aftab/aftab/5946.ts 
-#EXTINF:-1,MOVIES 4 MEN
-http://gogobox.eu:8000/live/aftab/aftab/5931.ts 
-#EXTINF:-1,Sky Sport 1 HD
-http://gogobox.eu:8000/live/aftab/aftab/230.ts 
-#EXTINF:-1,Sky Sport 2 HD
-http://gogobox.eu:8000/live/aftab/aftab/229.ts 
-#EXTINF:-1,Sky Sport 3 HD
-http://gogobox.eu:8000/live/aftab/aftab/228.ts 
-#EXTINF:-1,Sky Sport 4 HD
-http://gogobox.eu:8000/live/aftab/aftab/227.ts 
-#EXTINF:-1,Sky Sport 5 HD
-http://gogobox.eu:8000/live/aftab/aftab/226.ts 
-#EXTINF:-1,Sky Sports 1 Sd
-http://gogobox.eu:8000/live/aftab/aftab/272.ts 
-#EXTINF:-1,Sky Sports 2 sd
-http://gogobox.eu:8000/live/aftab/aftab/271.ts 
-#EXTINF:-1,Sky Sports 3 sd
-http://gogobox.eu:8000/live/aftab/aftab/270.ts 
-#EXTINF:-1,Sky Sports 4 sd
-http://gogobox.eu:8000/live/aftab/aftab/269.ts 
-#EXTINF:-1,Sky Sport 5 SD
-http://gogobox.eu:8000/live/aftab/aftab/492.ts 
-#EXTINF:-1,Sky Sport F1 HD
-http://gogobox.eu:8000/live/aftab/aftab/622.ts 
-#EXTINF:-1,Sky Sports F1
-http://gogobox.eu:8000/live/aftab/aftab/539.ts 
-#EXTINF:-1,Sky Sports News HD
-http://gogobox.eu:8000/live/aftab/aftab/621.ts 
-#EXTINF:-1,HORROR CHANNEL
-http://gogobox.eu:8000/live/aftab/aftab/5926.ts 
-#EXTINF:-1,At The Races
-http://gogobox.eu:8000/live/aftab/aftab/4266.ts 
-#EXTINF:-1,HORSE & COUNTRY
-http://gogobox.eu:8000/live/aftab/aftab/5945.ts 
-#EXTINF:-1,Racing
-http://gogobox.eu:8000/live/aftab/aftab/634.ts 
-#EXTINF:-1,Mototrs TV
-http://gogobox.eu:8000/live/aftab/aftab/639.ts 
-#EXTINF:-1,Boxnation
-http://gogobox.eu:8000/live/aftab/aftab/231.ts 
-#EXTINF:-1,Premier Sport
-http://gogobox.eu:8000/live/aftab/aftab/221.ts 
-#EXTINF:-1,Setanta Sports
-http://gogobox.eu:8000/live/aftab/aftab/240.ts 
+#EXTINF:-1,UK:Sky Sport 2HD
+http://51.255.77.55:5050/live/bauer/bauer/864.ts
+#EXTINF:-1,UK:CBS Reality UK
+http://51.255.77.55:5050/live/bauer/bauer/828.ts
+#EXTINF:-1,UK: Yesterday UK
+http://51.255.77.55:5050/live/bauer/bauer/835.ts
+#EXTINF:-1,UK: VH1
+http://51.255.77.55:5050/live/bauer/bauer/865.ts
+#EXTINF:-1,UK:Sky Sports 5
+http://51.255.77.55:5050/live/bauer/bauer/854.ts
+#EXTINF:-1,UK: True Movies1
+http://51.255.77.55:5050/live/bauer/bauer/866.ts
+#EXTINF:-1,UK: True movies 2
+http://51.255.77.55:5050/live/bauer/bauer/867.ts
+#EXTINF:-1,UK: Syfy UK
+http://51.255.77.55:5050/live/bauer/bauer/868.ts
+#EXTINF:-1,UK: Sky Two
+http://51.255.77.55:5050/live/bauer/bauer/826.ts
+#EXTINF:-1,UK: Sky Sports News
+http://51.255.77.55:5050/live/bauer/bauer/852.ts
+#EXTINF:-1,UK: Sky Sports 4HD
+http://51.255.77.55:5050/live/bauer/bauer/855.ts
+#EXTINF:-1,UK: Sky Sports 2 Backup
+http://51.255.77.55:5050/live/bauer/bauer/878.ts
+#EXTINF:-1,UK: Sky Sports 1HD
+http://51.255.77.55:5050/live/bauer/bauer/879.ts
+#EXTINF:-1,UK: Sky Sport 3 Backup
+http://51.255.77.55:5050/live/bauer/bauer/880.ts
+#EXTINF:-1,UK: Sky Sport 1 Backup
+http://51.255.77.55:5050/live/bauer/bauer/881.ts
+#EXTINF:-1,UK: Sky One
+http://51.255.77.55:5050/live/bauer/bauer/827.ts
+#EXTINF:-1,UK: Sky News
+http://51.255.77.55:5050/live/bauer/bauer/882.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://51.255.77.55:5050/live/bauer/bauer/870.ts
+#EXTINF:-1,UK: Sky Movies Modern
+http://51.255.77.55:5050/live/bauer/bauer/871.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://51.255.77.55:5050/live/bauer/bauer/872.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://51.255.77.55:5050/live/bauer/bauer/873.ts
+#EXTINF:-1,UK: RTE Two
+http://51.255.77.55:5050/live/bauer/bauer/833.ts
+#EXTINF:-1,UK: Rte One UK
+http://51.255.77.55:5050/live/bauer/bauer/834.ts
+#EXTINF:-1,UK: Racing UK
+http://51.255.77.55:5050/live/bauer/bauer/883.ts
+#EXTINF:-1,UK: Quest
+http://51.255.77.55:5050/live/bauer/bauer/884.ts
+#EXTINF:-1,UK: Nicktoons
+http://51.255.77.55:5050/live/bauer/bauer/874.ts
+#EXTINF:-1,UK: nickelodeon
+http://51.255.77.55:5050/live/bauer/bauer/875.ts
+#EXTINF:-1,UK: Nick Junior Too
+http://51.255.77.55:5050/live/bauer/bauer/876.ts
+#EXTINF:-1,UK: Nick JR
+http://51.255.77.55:5050/live/bauer/bauer/877.ts
+#EXTINF:-1,UK: MTV Rock UK
+http://51.255.77.55:5050/live/bauer/bauer/885.ts
+#EXTINF:-1,UK: Motors tv
+http://51.255.77.55:5050/live/bauer/bauer/850.ts
+#EXTINF:-1,UK: More 4
+http://51.255.77.55:5050/live/bauer/bauer/829.ts
+#EXTINF:-1,UK: Man UTD
+http://51.255.77.55:5050/live/bauer/bauer/886.ts
+#EXTINF:-1,UK: LiverpooL FC
+http://51.255.77.55:5050/live/bauer/bauer/887.ts
+#EXTINF:-1,UK: ITV 4 HD
+http://51.255.77.55:5050/live/bauer/bauer/825.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://51.255.77.55:5050/live/bauer/bauer/824.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://51.255.77.55:5050/live/bauer/bauer/823.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://51.255.77.55:5050/live/bauer/bauer/822.ts
+#EXTINF:-1,UK: Gold UK
+http://51.255.77.55:5050/live/bauer/bauer/830.ts
+#EXTINF:-1,UK: Food Network
+http://51.255.77.55:5050/live/bauer/bauer/831.ts
+#EXTINF:-1,UK: Five
+http://51.255.77.55:5050/live/bauer/bauer/832.ts
+#EXTINF:-1,UK: Eurosport 2
+http://51.255.77.55:5050/live/bauer/bauer/888.ts
+#EXTINF:-1,UK: Eurosport 1
+http://51.255.77.55:5050/live/bauer/bauer/889.ts
+#EXTINF:-1,UK: E!
+http://51.255.77.55:5050/live/bauer/bauer/890.ts
+#EXTINF:-1,UK: Discovery Turbo UK
+http://51.255.77.55:5050/live/bauer/bauer/845.ts
+#EXTINF:-1,UK: Discovery Science UK
+http://51.255.77.55:5050/live/bauer/bauer/846.ts
+#EXTINF:-1,UK: Discovery History UK
+http://51.255.77.55:5050/live/bauer/bauer/847.ts
+#EXTINF:-1,UK: Dave UK
+http://51.255.77.55:5050/live/bauer/bauer/838.ts
+#EXTINF:-1,UK: Comedy Central
+http://51.255.77.55:5050/live/bauer/bauer/848.ts
+#EXTINF:-1,UK: Colors
+http://51.255.77.55:5050/live/bauer/bauer/849.ts
+#EXTINF:-1,UK: CNN
+http://51.255.77.55:5050/live/bauer/bauer/891.ts
+#EXTINF:-1,UK: chelsea tv
+http://51.255.77.55:5050/live/bauer/bauer/851.ts
+#EXTINF:-1,UK: Channel 5
+http://51.255.77.55:5050/live/bauer/bauer/836.ts
+#EXTINF:-1,UK: Channel 4
+http://51.255.77.55:5050/live/bauer/bauer/837.ts
+#EXTINF:-1,UK: cbs drama
+http://51.255.77.55:5050/live/bauer/bauer/839.ts
+#EXTINF:-1,UK: Cbs Action UK
+http://51.255.77.55:5050/live/bauer/bauer/840.ts
+#EXTINF:-1,UK: Boomerang UK
+http://51.255.77.55:5050/live/bauer/bauer/892.ts
+#EXTINF:-1,UK: BBC4 HD
+http://51.255.77.55:5050/live/bauer/bauer/821.ts
+#EXTINF:-1,UK: BBC3 HD
+http://51.255.77.55:5050/live/bauer/bauer/820.ts
+#EXTINF:-1,UK: BBC2 HD
+http://51.255.77.55:5050/live/bauer/bauer/819.ts
+#EXTINF:-1,UK: BBC1 HD
+http://51.255.77.55:5050/live/bauer/bauer/818.ts
+#EXTINF:-1,UK: At The Races UK
+http://51.255.77.55:5050/live/bauer/bauer/893.ts
+#EXTINF:-1,UK: Alibi
+http://51.255.77.55:5050/live/bauer/bauer/841.ts
+#EXTINF:-1,UK: 5 USA
+http://51.255.77.55:5050/live/bauer/bauer/842.ts
+#EXTINF:-1,UK: 3E
+http://51.255.77.55:5050/live/bauer/bauer/843.ts
+#EXTINF:-1,UK:  E4 UK
+http://51.255.77.55:5050/live/bauer/bauer/844.ts
+#EXTINF:-1,UK Sky Sports F1 HD
+http://51.255.77.55:5050/live/bauer/bauer/853.ts
+#EXTINF:-1,UK :Sky Sports 3HD
+http://51.255.77.55:5050/live/bauer/bauer/894.ts
+#EXTINF:-1,UK :MTV Hits
+http://51.255.77.55:5050/live/bauer/bauer/895.ts
+#EXTINF:-1,USA: CINEMAX 5 STARMAX
+http://server.internext.tv:8000/live/habib/habib/2403.ts
+#EXTINF:-1,USA: CINEMAX ACTOIN MAX EAST
+http://server.internext.tv:8000/live/habib/habib/2402.ts
+#EXTINF:-1,USA: CINEMAX EAST
+http://server.internext.tv:8000/live/habib/habib/2405.ts
+#EXTINF:-1,USA: CINEMAX MOREMAX
+http://server.internext.tv:8000/live/habib/habib/2404.ts
+#EXTINF:-1,USA: FOX SPORTS 3
+http://server.internext.tv:8000/live/habib/habib/2408.ts
+#EXTINF:-1,USA: FX HD
+http://server.internext.tv:8000/live/habib/habib/2400.ts
+#EXTINF:-1,USA: NBC SPORT
+http://server.internext.tv:8000/live/habib/habib/2407.ts
+#EXTINF:-1,USA: RT NEWS
+http://server.internext.tv:8000/live/habib/habib/2369.ts
+#EXTINF:-1,USA: TREE HOUSE CANADA
+http://server.internext.tv:8000/live/habib/habib/2410.ts
+#EXTINF:-1,USA: YTV CANADA
+http://server.internext.tv:8000/live/habib/habib/2411.ts
+#EXTINF:-1,USA: PBS HD
+http://server.internext.tv:8000/live/habib/habib/2401.ts
+#EXTINF:-1,USA: Y TV Canada
+http://server.internext.tv:8000/live/habib/habib/2136.ts
+#EXTINF:-1,USA: NBA TV NETWORK
+http://server.internext.tv:8000/live/habib/habib/2115.ts
+#EXTINF:-1,USA: Versus NBA HD
+http://server.internext.tv:8000/live/habib/habib/2114.ts
+#EXTINF:-1,USA: UC TV
+http://server.internext.tv:8000/live/habib/habib/2113.ts
+#EXTINF:-1,USA: Twit Tv
+http://server.internext.tv:8000/live/habib/habib/2112.ts
+#EXTINF:-1,USA: TSC
+http://server.internext.tv:8000/live/habib/habib/2111.ts
+#EXTINF:-1,USA: Tru HD
+http://server.internext.tv:8000/live/habib/habib/2132.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://server.internext.tv:8000/live/habib/habib/2110.ts
+#EXTINF:-1,USA: FIX TV HD
+http://server.internext.tv:8000/live/habib/habib/2108.ts
+#EXTINF:-1,USA: TBS HD
+http://server.internext.tv:8000/live/habib/habib/2131.ts
+#EXTINF:-1,USA: Super Ecran 4 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2141.ts
+#EXTINF:-1,USA: Super Ecran 3 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2140.ts
+#EXTINF:-1,USA: Super Ecran 2 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2139.ts
+#EXTINF:-1,USA: Super Ecran 1 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2138.ts
+#EXTINF:-1,USA: Starz Cinema HD
+http://server.internext.tv:8000/live/habib/habib/2130.ts
+#EXTINF:-1,USA: Starz Cinema
+http://server.internext.tv:8000/live/habib/habib/2128.ts
+#EXTINF:-1,USA: Slice ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2142.ts
+#EXTINF:-1,USA: SIlver Screen Classics ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2143.ts
+#EXTINF:-1,USA: RT Documentary
+http://server.internext.tv:8000/live/habib/habib/2107.ts
+#EXTINF:-1,USA: RT America HD
+http://server.internext.tv:8000/live/habib/habib/2105.ts
+#EXTINF:-1,USA: RT America
+http://server.internext.tv:8000/live/habib/habib/2106.ts
+#EXTINF:-1,USA: RDS 2 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2144.ts
+#EXTINF:-1,USA: RDI ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2145.ts
+#EXTINF:-1,USA: Poker Central
+http://server.internext.tv:8000/live/habib/habib/2104.ts
+#EXTINF:-1,USA: Peach Tree TV ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2146.ts
+#EXTINF:-1,USA: OLN ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2147.ts
+#EXTINF:-1,USA: NICKELODEON
+http://server.internext.tv:8000/live/habib/habib/2126.ts
+#EXTINF:-1,USA: AL JAZEERA English
+http://server.internext.tv:8000/live/habib/habib/1960.ts
+#EXTINF:-1,USA: Nasa TV HD
+http://server.internext.tv:8000/live/habib/habib/2103.ts
+#EXTINF:-1,USA: Movietime ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2148.ts
+#EXTINF:-1,USA: Motor Sports 7
+http://server.internext.tv:8000/live/habib/habib/2102.ts
+#EXTINF:-1,USA: Mello TV
+http://server.internext.tv:8000/live/habib/habib/2101.ts
+#EXTINF:-1,USA: HSN 1
+http://server.internext.tv:8000/live/habib/habib/2100.ts
+#EXTINF:-1,USA: History Channel ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2125.ts
+#EXTINF:-1,USA: CBN News
+http://server.internext.tv:8000/live/habib/habib/2123.ts
+#EXTINF:-1,USA: HBO Family
+http://server.internext.tv:8000/live/habib/habib/2122.ts
+#EXTINF:-1,USA: HBO US
+http://server.internext.tv:8000/live/habib/habib/2121.ts
+#EXTINF:-1,USA: CBSN News
+http://server.internext.tv:8000/live/habib/habib/2120.ts
+#EXTINF:-1,USA: GSN ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2149.ts
+#EXTINF:-1,USA: G4 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2150.ts
+#EXTINF:-1,USA: FYI ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2151.ts
+#EXTINF:-1,USA: Fox News HD
+http://server.internext.tv:8000/live/habib/habib/2152.ts
+#EXTINF:-1,USA: Fox 59 News
+http://server.internext.tv:8000/live/habib/habib/2099.ts
+#EXTINF:-1,USA: Florida Channel
+http://server.internext.tv:8000/live/habib/habib/2109.ts
+#EXTINF:-1,USA: Fight Network
+http://server.internext.tv:8000/live/habib/habib/2119.ts
+#EXTINF:-1,USA: CP24 ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2154.ts
+#EXTINF:-1,USA: Cottage Life ( Canada )
+http://server.internext.tv:8000/live/habib/habib/2155.ts 
+#EXTINF:-1,IN: ZEE TV
+http://51.255.77.55:5050/live/bauer/bauer/329.ts
+#EXTINF:-1,IN: star plus
+http://51.255.77.55:5050/live/bauer/bauer/328.ts
+#EXTINF:-1,IN: sony sab
+http://51.255.77.55:5050/live/bauer/bauer/327.ts
+#EXTINF:-1,IN: Sony max
+http://51.255.77.55:5050/live/bauer/bauer/326.ts
+#EXTINF:-1,LN: ZEE CINEMA
+http://51.255.77.55:5050/live/bauer/bauer/325.ts
+#EXTINF:-1,LN: SET MAX
+http://51.255.77.55:5050/live/bauer/bauer/324.ts
+#EXTINF:-1,LN: set india
+http://51.255.77.55:5050/live/bauer/bauer/323.ts
+#EXTINF:-1,LN: B4U movie
+http://51.255.77.55:5050/live/bauer/bauer/322.ts
+#EXTINF:-1,UK: Disney XD
+http://51.255.77.55:5050/live/bauer/bauer/346.ts
+#EXTINF:-1,UK: Disney Jr
+http://51.255.77.55:5050/live/bauer/bauer/347.ts
+#EXTINF:-1,UK: Disney Channel UK
+http://51.255.77.55:5050/live/bauer/bauer/348.ts
+#EXTINF:-1,UK: Discovery Channel UK
+http://51.255.77.55:5050/live/bauer/bauer/351.ts
+#EXTINF:-1,UK: Cartoon Network
+http://51.255.77.55:5050/live/bauer/bauer/349.ts
+#EXTINF:-1,UK: BT SPORT EUROPE TEST
+http://51.255.77.55:5050/live/bauer/bauer/345.ts
+#EXTINF:-1,UK: Animal Planet UK
+http://51.255.77.55:5050/live/bauer/bauer/350.ts
+#EXTINF:-1,UK: Sky Sport 5 UK
+http://51.255.77.55:5050/live/bauer/bauer/202.ts
+#EXTINF:-1,UK: Sky Sport 4 UK
+http://51.255.77.55:5050/live/bauer/bauer/203.ts
+#EXTINF:-1,UK: Sky Sport 3 UK
+http://51.255.77.55:5050/live/bauer/bauer/204.ts
+#EXTINF:-1,Uk: Sky Sport 2 UK
+http://51.255.77.55:5050/live/bauer/bauer/205.ts
+#EXTINF:-1,UK: Sky Sport 1 UK
+http://51.255.77.55:5050/live/bauer/bauer/206.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://51.255.77.55:5050/live/bauer/bauer/207.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror
+http://51.255.77.55:5050/live/bauer/bauer/208.ts
+#EXTINF:-1,UK: Sky Movies Premiere UK
+http://51.255.77.55:5050/live/bauer/bauer/209.ts
+#EXTINF:-1,UK: Sky Movies Modern HD
+http://51.255.77.55:5050/live/bauer/bauer/210.ts
+#EXTINF:-1,UK: Sky Movies Family UK
+http://51.255.77.55:5050/live/bauer/bauer/211.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://51.255.77.55:5050/live/bauer/bauer/212.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://51.255.77.55:5050/live/bauer/bauer/213.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://51.255.77.55:5050/live/bauer/bauer/214.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://51.255.77.55:5050/live/bauer/bauer/215.ts
+#EXTINF:-1,UK: Sky Living UK
+http://51.255.77.55:5050/live/bauer/bauer/216.ts
+#EXTINF:-1,UK: Sky Good Food
+http://51.255.77.55:5050/live/bauer/bauer/217.ts
+#EXTINF:-1,UK: Sky Family UK
+http://51.255.77.55:5050/live/bauer/bauer/218.ts
+#EXTINF:-1,UK: Sky Disney UK
+http://51.255.77.55:5050/live/bauer/bauer/219.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://51.255.77.55:5050/live/bauer/bauer/220.ts
+#EXTINF:-1,UK: Setanta Sport Irland 1 UK
+http://51.255.77.55:5050/live/bauer/bauer/221.ts
+#EXTINF:-1,UK: Premiere Sport
+http://51.255.77.55:5050/live/bauer/bauer/222.ts
+#EXTINF:-1,UK: National Geography Wild
+http://51.255.77.55:5050/live/bauer/bauer/223.ts
+#EXTINF:-1,UK: National Geographic UK
+http://51.255.77.55:5050/live/bauer/bauer/224.ts
+#EXTINF:-1,UK: BT Sport 2
+http://51.255.77.55:5050/live/bauer/bauer/225.ts
+#EXTINF:-1,UK: BT Sport 1
+http://51.255.77.55:5050/live/bauer/bauer/226.ts
+#EXTINF:-1,UK: Box Nation UK
+http://51.255.77.55:5050/live/bauer/bauer/227.ts
+#EXTINF:-1,SKY SPORT F1 HD (En)(O)
+http://51.255.77.55:5050/live/bauer/bauer/503.ts
+#EXTINF:-1,PT: TVI REALITY
+http://51.255.77.55:5050/live/bauer/bauer/563.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://51.255.77.55:5050/live/bauer/bauer/564.ts
+#EXTINF:-1,PT: TVI
+http://51.255.77.55:5050/live/bauer/bauer/574.ts
+#EXTINF:-1,PT: TVCine 4
+http://51.255.77.55:5050/live/bauer/bauer/573.ts
+#EXTINF:-1,PT: TVCine 3
+http://51.255.77.55:5050/live/bauer/bauer/572.ts
+#EXTINF:-1,PT: TVCine 2
+http://51.255.77.55:5050/live/bauer/bauer/571.ts
+#EXTINF:-1,PT: TVCine 1
+http://51.255.77.55:5050/live/bauer/bauer/570.ts
+#EXTINF:-1,PT: TV GLOBO
+http://51.255.77.55:5050/live/bauer/bauer/565.ts
+#EXTINF:-1,PT: SYFY
+http://51.255.77.55:5050/live/bauer/bauer/568.ts
+#EXTINF:-1,PT: SportTV 5
+http://51.255.77.55:5050/live/bauer/bauer/567.ts
+#EXTINF:-1,PT: Sporting tv
+http://51.255.77.55:5050/live/bauer/bauer/551.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://51.255.77.55:5050/live/bauer/bauer/566.ts
+#EXTINF:-1,PT: SIC KIDS
+http://51.255.77.55:5050/live/bauer/bauer/569.ts
+#EXTINF:-1,PT: SIC CARAS
+http://51.255.77.55:5050/live/bauer/bauer/552.ts
+#EXTINF:-1,PT: RTP Acores
+http://51.255.77.55:5050/live/bauer/bauer/550.ts
+#EXTINF:-1,PT: RTP 2
+http://51.255.77.55:5050/live/bauer/bauer/549.ts
+#EXTINF:-1,PT: RTP 1
+http://51.255.77.55:5050/live/bauer/bauer/548.ts
+#EXTINF:-1,PT: Odesseia
+http://51.255.77.55:5050/live/bauer/bauer/553.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://51.255.77.55:5050/live/bauer/bauer/554.ts
+#EXTINF:-1,PT: Motor Tv
+http://51.255.77.55:5050/live/bauer/bauer/555.ts
+#EXTINF:-1,PT: Hollywood
+http://51.255.77.55:5050/live/bauer/bauer/547.ts
+#EXTINF:-1,PT: Fox Life HD
+http://51.255.77.55:5050/live/bauer/bauer/546.ts
+#EXTINF:-1,PT: Fox HD
+http://51.255.77.55:5050/live/bauer/bauer/545.ts
+#EXTINF:-1,PT: Fox Crime
+http://51.255.77.55:5050/live/bauer/bauer/556.ts
+#EXTINF:-1,PT: Disney junior
+http://51.255.77.55:5050/live/bauer/bauer/557.ts
+#EXTINF:-1,PT: Disney Channel
+http://51.255.77.55:5050/live/bauer/bauer/558.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://51.255.77.55:5050/live/bauer/bauer/559.ts
+#EXTINF:-1,PT: CM TV
+http://51.255.77.55:5050/live/bauer/bauer/544.ts
+#EXTINF:-1,PT: Canal Panda
+http://51.255.77.55:5050/live/bauer/bauer/560.ts
+#EXTINF:-1,PT: Benfica tv1
+http://51.255.77.55:5050/live/bauer/bauer/543.ts
+#EXTINF:-1,PT: Benfica tv 2
+http://51.255.77.55:5050/live/bauer/bauer/542.ts
+#EXTINF:-1,PT: Axn White HD
+http://51.255.77.55:5050/live/bauer/bauer/541.ts
+#EXTINF:-1,PT: Axn Black HD
+http://51.255.77.55:5050/live/bauer/bauer/540.ts
+#EXTINF:-1,PT: 24 Kitchen
+http://51.255.77.55:5050/live/bauer/bauer/561.ts
+#EXTINF:-1,PT:  SIC
+http://51.255.77.55:5050/live/bauer/bauer/562.ts
+#EXTINF:-1,PO: Sport TV 4 HD
+http://51.255.77.55:5050/live/bauer/bauer/539.ts
+#EXTINF:-1,PO: Sport TV 3 HD
+http://51.255.77.55:5050/live/bauer/bauer/538.ts
+#EXTINF:-1,PO: Sport TV 2 HD
+http://51.255.77.55:5050/live/bauer/bauer/537.ts
+#EXTINF:-1,PO: Sport TV 1 HD
+http://51.255.77.55:5050/live/bauer/bauer/536.ts
+#EXTINF:-1,SPA:TNT
+http://51.255.77.55:5050/live/bauer/bauer/586.ts
+#EXTINF:-1,SPA:National GEO
+http://51.255.77.55:5050/live/bauer/bauer/590.ts
+#EXTINF:-1,SPA:MoviStar MotoGP
+http://51.255.77.55:5050/live/bauer/bauer/587.ts
+#EXTINF:-1,SPA:Fox Life
+http://51.255.77.55:5050/live/bauer/bauer/588.ts
+#EXTINF:-1,SPA:Fox
+http://51.255.77.55:5050/live/bauer/bauer/589.ts
+#EXTINF:-1,SPA:Comedy
+http://51.255.77.55:5050/live/bauer/bauer/592.ts
+#EXTINF:-1,SPA:CANAL HD
+http://51.255.77.55:5050/live/bauer/bauer/591.ts
+#EXTINF:-1,SPA:Canal Decasa
+http://51.255.77.55:5050/live/bauer/bauer/593.ts
+#EXTINF:-1,SPA:C Seriesxtra
+http://51.255.77.55:5050/live/bauer/bauer/594.ts
+#EXTINF:-1,SPA:C  Estrenos
+http://51.255.77.55:5050/live/bauer/bauer/595.ts
+#EXTINF:-1,SPA:C   DCINE
+http://51.255.77.55:5050/live/bauer/bauer/596.ts
+#EXTINF:-1,SPA: Canal  Toros
+http://51.255.77.55:5050/live/bauer/bauer/597.ts
+#EXTINF:-1,SPA: CANAL  FUTBOL
+http://51.255.77.55:5050/live/bauer/bauer/598.ts
+#EXTINF:-1,SPA-NAT GEO WILD
+http://51.255.77.55:5050/live/bauer/bauer/599.ts
+#EXTINF:-1,SPA-MOVISTAR F1
+http://51.255.77.55:5050/live/bauer/bauer/601.ts
+#EXTINF:-1,SPA-Hollywood Spain
+http://51.255.77.55:5050/live/bauer/bauer/600.ts
+#EXTINF:-1,SPA-disney jr
+http://51.255.77.55:5050/live/bauer/bauer/602.ts
+#EXTINF:-1,SPA-Cuatro
+http://51.255.77.55:5050/live/bauer/bauer/603.ts
+#EXTINF:-1,SPA-CANAL DEPORTE
+http://51.255.77.55:5050/live/bauer/bauer/604.ts
+#EXTINF:-1,SPA-canal  action
+http://51.255.77.55:5050/live/bauer/bauer/605.ts
+#EXTINF:-1,SPA-Canal   Liga
+http://51.255.77.55:5050/live/bauer/bauer/606.ts
+#EXTINF:-1,SPA-Canal   Dcine
+http://51.255.77.55:5050/live/bauer/bauer/607.ts
+#EXTINF:-1,SPA-Barca TV
+http://51.255.77.55:5050/live/bauer/bauer/608.ts
+#EXTINF:-1,SPA-AXN White Spain
+http://51.255.77.55:5050/live/bauer/bauer/609.ts
+#EXTINF:-1,SPA-AXN Spain
+http://51.255.77.55:5050/live/bauer/bauer/610.ts
+#EXTINF:-1,ES: TELECINCO
+http://51.255.77.55:5050/live/bauer/bauer/575.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://51.255.77.55:5050/live/bauer/bauer/576.ts
+#EXTINF:-1,ES: LA SEXTA
+http://51.255.77.55:5050/live/bauer/bauer/577.ts
+#EXTINF:-1,ES: LA 2
+http://51.255.77.55:5050/live/bauer/bauer/578.ts
+#EXTINF:-1,ES: LA 1
+http://51.255.77.55:5050/live/bauer/bauer/579.ts
+#EXTINF:-1,ES: FOX MOVIE HD
+http://51.255.77.55:5050/live/bauer/bauer/580.ts
+#EXTINF:-1,ES: CANAL Odesia
+http://51.255.77.55:5050/live/bauer/bauer/581.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://51.255.77.55:5050/live/bauer/bauer/582.ts
+#EXTINF:-1,ES: CANAL   1
+http://51.255.77.55:5050/live/bauer/bauer/583.ts
+#EXTINF:-1,ES: CALLE 13
+http://51.255.77.55:5050/live/bauer/bauer/584.ts
+#EXTINF:-1,Es: ANTENA3
+http://51.255.77.55:5050/live/bauer/bauer/585.ts
+#EXTINF:-1,US_NBA
+http://51.255.77.55:5050/live/bauer/bauer/664.ts
+#EXTINF:-1,US_HBO_ZONE
+http://51.255.77.55:5050/live/bauer/bauer/665.ts
+#EXTINF:-1,US_HBO_SIGNATURE
+http://51.255.77.55:5050/live/bauer/bauer/666.ts
+#EXTINF:-1,US_HBO_HD
+http://51.255.77.55:5050/live/bauer/bauer/667.ts
+#EXTINF:-1,US_ABC
+http://51.255.77.55:5050/live/bauer/bauer/668.ts
+#EXTINF:-1,USA_WWE_RAWHD
+http://51.255.77.55:5050/live/bauer/bauer/669.ts
+#EXTINF:-1,USA_TSN_4
+http://51.255.77.55:5050/live/bauer/bauer/673.ts
+#EXTINF:-1,USA_TSN_3
+http://51.255.77.55:5050/live/bauer/bauer/672.ts
+#EXTINF:-1,USA_TSN_2
+http://51.255.77.55:5050/live/bauer/bauer/671.ts
+#EXTINF:-1,USA_TSN_1
+http://51.255.77.55:5050/live/bauer/bauer/670.ts
+#EXTINF:-1,USA_NFL_Sport
+http://51.255.77.55:5050/live/bauer/bauer/674.ts
+#EXTINF:-1,USA_NBC_Sport
+http://51.255.77.55:5050/live/bauer/bauer/675.ts
+#EXTINF:-1,USA_Hallmark
+http://51.255.77.55:5050/live/bauer/bauer/676.ts
+#EXTINF:-1,USA_FOX_SPORT_2HD
+http://51.255.77.55:5050/live/bauer/bauer/677.ts
+#EXTINF:-1,USA_FOX_SPORT_1HD
+http://51.255.77.55:5050/live/bauer/bauer/678.ts
+#EXTINF:-1,USA_BEIN_SPORT_USA
+http://51.255.77.55:5050/live/bauer/bauer/679.ts
