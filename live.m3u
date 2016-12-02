@@ -1,109 +1,143 @@
 #EXTM3U
-#EXTINF:-1,UK True.Movie.1
-http://62.4.21.70:8000/live/akdim/akdim/89.ts
-#EXTINF:-1,UK_True_Movies_2
-http://62.4.21.70:8000/live/akdim/akdim/74.ts
-#EXTINF:-1,UK_Syfy_UK
-http://62.4.21.70:8000/live/akdim/akdim/96.ts
-#EXTINF:-1,UK_SKY.Art.1
-http://62.4.21.70:8000/live/akdim/akdim/106.ts
-#EXTINF:-1,UK_Sky_Two
-http://62.4.21.70:8000/live/akdim/akdim/76.ts
-#EXTINF:-1,UK_Sky.Sport.News.HD
-http://62.4.21.70:8000/live/akdim/akdim/107.ts
-#EXTINF:-1,UK_Sky.Sport.1.UK
-http://62.4.21.70:8000/live/akdim/akdim/112.ts
-#EXTINF:-1,UK_Sky.Sport.2.UK
-http://62.4.21.70:8000/live/akdim/akdim/111.ts
-#EXTINF:-1,UK_Sky.Sport.3.UK
-http://62.4.21.70:8000/live/akdim/akdim/110.ts
-#EXTINF:-1,UK:_CBS_Reality
-http://62.4.21.70:8000/live/akdim/akdim/2638.ts
-#EXTINF:-1,UK_sky.sport.4
-http://62.4.21.70:8000/live/akdim/akdim/109.ts
-#EXTINF:-1,UK Sky Sport 5 UK
-http://62.4.21.70:8000/live/akdim/akdim/108.ts
-#EXTINF:-1,UK_Sky_Sports_F1_UK
-http://62.4.21.70:8000/live/akdim/akdim/68.ts
-#EXTINF:-1,UK Setantasport
-http://62.4.21.70:8000/live/akdim/akdim/915.ts
-#EXTINF:-1,UK ESPN
-http://62.4.21.70:8000/live/akdim/akdim/914.ts
-#EXTINF:-1,UK BT Sport Europe
-http://62.4.21.70:8000/live/akdim/akdim/913.ts
-#EXTINF:-1,UK BT Sport 1
-http://62.4.21.70:8000/live/akdim/akdim/911.ts
-#EXTINF:-1,UK BT Sport 2
-http://62.4.21.70:8000/live/akdim/akdim/912.ts
-#EXTINF:-1,UK British Muslim
-http://62.4.21.70:8000/live/akdim/akdim/916.ts
-#EXTINF:-1,UK_Sky_One
-http://62.4.21.70:8000/live/akdim/akdim/69.ts
-#EXTINF:-1,UK_Sky.Movies.Thriller
-http://62.4.21.70:8000/live/akdim/akdim/95.ts
-#EXTINF:-1,UK_Sky.Movies.Sci-Fi.&.Horror
-http://62.4.21.70:8000/live/akdim/akdim/114.ts
-#EXTINF:-1,UK_Sky.Movies.Premiere.UK
-http://62.4.21.70:8000/live/akdim/akdim/115.ts
-#EXTINF:-1,UK_Sky.Movies.Modern.HD
-http://62.4.21.70:8000/live/akdim/akdim/116.ts
-#EXTINF:-1,UK_Sky.Movies.Family.UK
-http://62.4.21.70:8000/live/akdim/akdim/79.ts
-#EXTINF:-1,UK_Sky.Movies.Comedy.HD
-http://62.4.21.70:8000/live/akdim/akdim/118.ts
-#EXTINF:-1,UK_Sky.Movies.Action.&.Adventure
-http://62.4.21.70:8000/live/akdim/akdim/119.ts
-#EXTINF:-1,UK_Sky_Family_UK
-http://62.4.21.70:8000/live/akdim/akdim/121.ts
-#EXTINF:-1,UK_Sky_Atlantic
-http://62.4.21.70:8000/live/akdim/akdim/70.ts
-#EXTINF:-1,UK Rte One UK
-http://62.4.21.70:8000/live/akdim/akdim/88.ts
-#EXTINF:-1,UK_National.Geographic.UK
-http://62.4.21.70:8000/live/akdim/akdim/102.ts
-#EXTINF:-1,UK Movies-4men Uk
-http://62.4.21.70:8000/live/akdim/akdim/98.ts
-#EXTINF:-1,UK_ITV_1
-http://62.4.21.70:8000/live/akdim/akdim/84.ts
-#EXTINF:-1,UK_ITV_2
-http://62.4.21.70:8000/live/akdim/akdim/83.ts
-#EXTINF:-1,UK_ITV_3
-http://62.4.21.70:8000/live/akdim/akdim/82.ts
-#EXTINF:-1,UK_ITV_4
-http://62.4.21.70:8000/live/akdim/akdim/81.ts
-#EXTINF:-1,UK Five
-http://62.4.21.70:8000/live/akdim/akdim/99.ts
-#EXTINF:-1,UK_CBS_Reality_UK
-http://62.4.21.70:8000/live/akdim/akdim/78.ts
-#EXTINF:-1,UK_Film4_UK
-http://62.4.21.70:8000/live/akdim/akdim/100.ts
-#EXTINF:-1,UK Eurosport 1 UK
-http://62.4.21.70:8000/live/akdim/akdim/92.ts
-#EXTINF:-1,UK Eurosport 2 UK
-http://62.4.21.70:8000/live/akdim/akdim/91.ts
-#EXTINF:-1,UK_Discovery.Science.UK
-http://62.4.21.70:8000/live/akdim/akdim/104.ts
-#EXTINF:-1,UK_DISCOVERY.HOME.&.HEALTH
-http://62.4.21.70:8000/live/akdim/akdim/123.ts
-#EXTINF:-1,UK_Discovery_History_UK
-http://62.4.21.70:8000/live/akdim/akdim/124.ts
-#EXTINF:-1,UK_Discovery_Channel_UK
-http://62.4.21.70:8000/live/akdim/akdim/125.ts
-#EXTINF:-1,UK_cbs_reality
-http://62.4.21.70:8000/live/akdim/akdim/75.ts
-#EXTINF:-1,UK Box Nation UK
-http://62.4.21.70:8000/live/akdim/akdim/94.ts
-#EXTINF:-1,UK_BBC.One
-http://62.4.21.70:8000/live/akdim/akdim/130.ts
-#EXTINF:-1,UK_BBC.Two
-http://62.4.21.70:8000/live/akdim/akdim/86.ts
-#EXTINF:-1,UK_BBC_Three
-http://62.4.21.70:8000/live/akdim/akdim/85.ts
-#EXTINF:-1,UK_BBC_Four
-http://62.4.21.70:8000/live/akdim/akdim/101.ts
-#EXTINF:-1,UK_B4U_Movies
-http://62.4.21.70:8000/live/akdim/akdim/71.ts
-#EXTINF:-1,UK_Animal.Planet.UK
-http://62.4.21.70:8000/live/akdim/akdim/105.ts
-#EXTINF:-1: Snooker Legends
-http://live-823.gv2.edge.filmon.com/live/3325.high.stream/playlist.m3u8?id=0ad5aac39bb13fbedb5a13d8b63b7d803f2ea786a44faeab6d6da1820e5abb1ce7ba0e6130114409048bc8819b18641829e9e584dfe8451f292ca0fa7de21f38daae1d88c8aa89a29d684bd7399448a178f75f0ad7d93e7209ae98dea5644db263dd16dd98e867d848b21f94eb9f5d88c36a2d58f78126369855f4fc6badf06975ddec5351b06771edffbe8f52535c6bbc8a7816846ac66f
+#EXTINF:-1,UK:, Sky Cinema Comedy UHD
+http://gogobox.eu:8000/live/aftab/aftab/6737.ts 
+#EXTINF:-1,UK:, Sky Cinema Premiere UHD
+http://gogobox.eu:8000/live/aftab/aftab/6741.ts 
+#EXTINF:-1,UK:,  Sky Cinema Hits UHD
+http://gogobox.eu:8000/live/aftab/aftab/6736.ts 
+#EXTINF:-1,UK:, Sky Cinema Crime & Thriller UHD
+http://gogobox.eu:8000/live/aftab/aftab/6743.ts 
+#EXTINF:-1,UK:, Sky Cinema Action & Adventure UHD
+http://gogobox.eu:8000/live/aftab/aftab/6740.ts 
+#EXTINF:-1,UK:, Sky Cinema Christmas UHD
+http://gogobox.eu:8000/live/aftab/aftab/6738.ts 
+#EXTINF:-1,UK:, SKY CINEMA MODERN GREATS ( UK )
+http://gogobox.eu:8000/live/aftab/aftab/6733.ts 
+#EXTINF:-1,UK:, Sky Cinema SciFi & Horror UHD
+http://gogobox.eu:8000/live/aftab/aftab/6745.ts 
+#EXTINF:-1,UK:, Sky Cinema Select UHD ( UK )
+http://gogobox.eu:8000/live/aftab/aftab/6744.ts 
+#EXTINF:-1,UK:, SKY CINEMA LIVING ( UK )
+http://gogobox.eu:8000/live/aftab/aftab/6734.ts 
+#EXTINF:-1,UK:, SKY MOVIES 4 HD
+http://gogobox.eu:8000/live/aftab/aftab/6732.ts 
+#EXTINF:-1,UK:, Sky Cinema Family UHD
+http://gogobox.eu:8000/live/aftab/aftab/6742.ts 
+#EXTINF:-1,UK:, Sky Cinema Disney UHD
+http://gogobox.eu:8000/live/aftab/aftab/6739.ts 
+#EXTINF:-1,UK:, SONY MOVIES
+http://gogobox.eu:8000/live/aftab/aftab/6731.ts 
+#EXTINF:-1,UK|, SONY MOVIES +1
+http://gogobox.eu:8000/live/aftab/aftab/7027.ts 
+#EXTINF:-1,Sky Movies Premiere HD
+http://gogobox.eu:8000/live/aftab/aftab/5348.ts 
+#EXTINF:-1,Sky Movies Crime and Thriller HD
+http://gogobox.eu:8000/live/aftab/aftab/5351.ts 
+#EXTINF:-1,Uk, Sky Movies Action and Adventure HD
+http://gogobox.eu:8000/live/aftab/aftab/5352.ts 
+#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
+http://gogobox.eu:8000/live/aftab/aftab/5347.ts 
+#EXTINF:-1,Sky Movies Family HD
+http://gogobox.eu:8000/live/aftab/aftab/5349.ts 
+#EXTINF:-1,Sky Movies Disney HD
+http://gogobox.eu:8000/live/aftab/aftab/5350.ts 
+#EXTINF:-1,Sky Atlantic HD
+http://gogobox.eu:8000/live/aftab/aftab/6661.ts 
+#EXTINF:-1,UK|, TCM +1
+http://gogobox.eu:8000/live/aftab/aftab/7025.ts 
+#EXTINF:-1,BBC One HD
+http://gogobox.eu:8000/live/aftab/aftab/5341.ts 
+#EXTINF:-1,BBC One back up
+http://gogobox.eu:8000/live/aftab/aftab/7150.ts 
+#EXTINF:-1,BBC Two HD
+http://gogobox.eu:8000/live/aftab/aftab/5342.ts 
+#EXTINF:-1,BBC Two back up
+http://gogobox.eu:8000/live/aftab/aftab/7151.ts 
+#EXTINF:-1,ITV 1 HD
+http://gogobox.eu:8000/live/aftab/aftab/5343.ts 
+#EXTINF:-1,UK|, SKY 1 +1
+http://gogobox.eu:8000/live/aftab/aftab/7028.ts 
+#EXTINF:-1,Channel 4 HD
+http://gogobox.eu:8000/live/aftab/aftab/5344.ts 
+#EXTINF:-1,Channel 5 HD
+http://gogobox.eu:8000/live/aftab/aftab/5345.ts 
+#EXTINF:-1,UK:, Docubox HD
+http://gogobox.eu:8000/live/aftab/aftab/6735.ts 
+#EXTINF:-1,Animal Planet HD UK
+http://gogobox.eu:8000/live/aftab/aftab/5346.ts 
+#EXTINF:-1,UK|, EDEN +1
+http://gogobox.eu:8000/live/aftab/aftab/7026.ts 
+#EXTINF:-1,Sky Movies Thriller
+http://gogobox.eu:8000/live/aftab/aftab/260.ts 
+#EXTINF:-1,Sky Movies  Horror
+http://gogobox.eu:8000/live/aftab/aftab/559.ts 
+#EXTINF:-1,Sky Movies Christmas
+http://gogobox.eu:8000/live/aftab/aftab/554.ts 
+#EXTINF:-1,Sky Movies Showcase
+http://gogobox.eu:8000/live/aftab/aftab/261.ts 
+#EXTINF:-1,Sky Movies Select
+http://gogobox.eu:8000/live/aftab/aftab/262.ts 
+#EXTINF:-1,Sky Movies Family
+http://gogobox.eu:8000/live/aftab/aftab/263.ts 
+#EXTINF:-1,Sky Movies Disney
+http://gogobox.eu:8000/live/aftab/aftab/264.ts 
+#EXTINF:-1,Sky Movies Comedy
+http://gogobox.eu:8000/live/aftab/aftab/265.ts 
+#EXTINF:-1,Sky Movies Action & adventure
+http://gogobox.eu:8000/live/aftab/aftab/266.ts 
+#EXTINF:-1,Sky Movies  Premiere
+http://gogobox.eu:8000/live/aftab/aftab/267.ts 
+#EXTINF:-1,Sky Atlantic
+http://gogobox.eu:8000/live/aftab/aftab/631.ts 
+#EXTINF:-1,Sky Arts
+http://gogobox.eu:8000/live/aftab/aftab/632.ts 
+#EXTINF:-1,Film 4
+http://gogobox.eu:8000/live/aftab/aftab/273.ts 
+#EXTINF:-1,TRUE MOVIES 2
+http://gogobox.eu:8000/live/aftab/aftab/5947.ts 
+#EXTINF:-1,TRUE MOVIES 1
+http://gogobox.eu:8000/live/aftab/aftab/5946.ts 
+#EXTINF:-1,MOVIES 4 MEN
+http://gogobox.eu:8000/live/aftab/aftab/5931.ts 
+#EXTINF:-1,Sky Sport 1 HD
+http://gogobox.eu:8000/live/aftab/aftab/230.ts 
+#EXTINF:-1,Sky Sport 2 HD
+http://gogobox.eu:8000/live/aftab/aftab/229.ts 
+#EXTINF:-1,Sky Sport 3 HD
+http://gogobox.eu:8000/live/aftab/aftab/228.ts 
+#EXTINF:-1,Sky Sport 4 HD
+http://gogobox.eu:8000/live/aftab/aftab/227.ts 
+#EXTINF:-1,Sky Sport 5 HD
+http://gogobox.eu:8000/live/aftab/aftab/226.ts 
+#EXTINF:-1,Sky Sports 1 Sd
+http://gogobox.eu:8000/live/aftab/aftab/272.ts 
+#EXTINF:-1,Sky Sports 2 sd
+http://gogobox.eu:8000/live/aftab/aftab/271.ts 
+#EXTINF:-1,Sky Sports 3 sd
+http://gogobox.eu:8000/live/aftab/aftab/270.ts 
+#EXTINF:-1,Sky Sports 4 sd
+http://gogobox.eu:8000/live/aftab/aftab/269.ts 
+#EXTINF:-1,Sky Sport 5 SD
+http://gogobox.eu:8000/live/aftab/aftab/492.ts 
+#EXTINF:-1,Sky Sport F1 HD
+http://gogobox.eu:8000/live/aftab/aftab/622.ts 
+#EXTINF:-1,Sky Sports F1
+http://gogobox.eu:8000/live/aftab/aftab/539.ts 
+#EXTINF:-1,Sky Sports News HD
+http://gogobox.eu:8000/live/aftab/aftab/621.ts 
+#EXTINF:-1,HORROR CHANNEL
+http://gogobox.eu:8000/live/aftab/aftab/5926.ts 
+#EXTINF:-1,At The Races
+http://gogobox.eu:8000/live/aftab/aftab/4266.ts 
+#EXTINF:-1,HORSE & COUNTRY
+http://gogobox.eu:8000/live/aftab/aftab/5945.ts 
+#EXTINF:-1,Racing
+http://gogobox.eu:8000/live/aftab/aftab/634.ts 
+#EXTINF:-1,Mototrs TV
+http://gogobox.eu:8000/live/aftab/aftab/639.ts 
+#EXTINF:-1,Boxnation
+http://gogobox.eu:8000/live/aftab/aftab/231.ts 
+#EXTINF:-1,Premier Sport
+http://gogobox.eu:8000/live/aftab/aftab/221.ts 
+#EXTINF:-1,Setanta Sports
+http://gogobox.eu:8000/live/aftab/aftab/240.ts 
