@@ -1,85 +1,44 @@
 #EXTM3U
-
-#EXTINF:-1,Sky Sport 1 HD
-http://sonic-iptv.com:2500/live/lee/lee/1.m3u
-#EXTINF:-1,Sky Sport 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/2.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://sonic-iptv.com:2500/live/lee/lee/3.ts
-#EXTINF:-1,Sky Sport 4 HD
-http://sonic-iptv.com:2500/live/lee/lee/4.ts
-#EXTINF:-1,Sky Sport 5 HD
-http://sonic-iptv.com:2500/live/lee/lee/5.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://sonic-iptv.com:2500/live/lee/lee/7.m3u
-#EXTINF:-1,UK: Sky Sports 1
-http://sonic-iptv.com:2500/live/lee/lee/6.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/9.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://sonic-iptv.com:2500/live/lee/lee/8.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://sonic-iptv.com:2500/live/lee/lee/11.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://sonic-iptv.com:2500/live/lee/lee/10.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://sonic-iptv.com:2500/live/lee/lee/13.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://sonic-iptv.com:2500/live/lee/lee/12.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://sonic-iptv.com:2500/live/lee/lee/15.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://sonic-iptv.com:2500/live/lee/lee/14.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://sonic-iptv.com:2500/live/lee/lee/17.m3u
-#EXTINF:-1,UK: Sky Sports News HD
-http://sonic-iptv.com:2500/live/lee/lee/18.ts
-#EXTINF:-1,UK: Sky Sports Box Office
-http://sonic-iptv.com:2500/live/lee/lee/16.m3u
-#EXTINF:-1,UK: BT Sport 1 HD
-http://sonic-iptv.com:2500/live/lee/lee/19.m3u
-#EXTINF:-1,UK: BT Sport 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/20.ts
-#EXTINF:-1,UK: BT SPORTS 1HD
-http://sonic-iptv.com:2500/live/lee/lee/217.ts
-#EXTINF:-1,UK: BT SPORTS 2HD
-http://sonic-iptv.com:2500/live/lee/lee/216.ts
-#EXTINF:-1,UK: BT SPORTS 3 HD
-http://sonic-iptv.com:2500/live/lee/lee/215.ts
-#EXTINF:-1,UK: BT Sport Europe HD
-http://sonic-iptv.com:2500/live/lee/lee/21.ts
-#EXTINF:-1,UK: BT Sports Extra
-http://sonic-iptv.com:2500/live/lee/lee/214.ts
-#EXTINF:-1,UK: Euro Sports 1
-http://sonic-iptv.com:2500/live/lee/lee/22.ts
-#EXTINF:-1,UK: Euro Sports 2
-http://sonic-iptv.com:2500/live/lee/lee/23.ts
-#EXTINF:-1,UK: Boxnation
-http://sonic-iptv.com:2500/live/lee/lee/24.ts
-#EXTINF:-1,UK: RACING UK
-http://sonic-iptv.com:2500/live/lee/lee/266.ts
-#EXTINF:-1,UK: Chelsea TV
-http://sonic-iptv.com:2500/live/lee/lee/26.ts
-#EXTINF:-1,UK: BOX-Nation
-http://sonic-iptv.com:2500/live/lee/lee/218.ts
-#EXTINF:-1,UK: Setanta Sport
-http://sonic-iptv.com:2500/live/lee/lee/27.ts
-#EXTINF:-1,UK: PREMIERE SPORT
-http://sonic-iptv.com:2500/live/lee/lee/29.ts
-#EXTINF:-1,UK: LIVERPOOL FC
-http://sonic-iptv.com:2500/live/lee/lee/267.ts
-#EXTINF:-1,UK:MIO_STADIUM_1
-http://sonic-iptv.com:2500/live/lee/lee/81.ts
-#EXTINF:-1,UK:MIO_STADIUM_2
-http://sonic-iptv.com:2500/live/lee/lee/82.ts
-#EXTINF:-1,UK:MIO_STADIUM_3
-http://sonic-iptv.com:2500/live/lee/lee/83.ts
-#EXTINF:-1,UK:MIO_STADIUM_4
-http://sonic-iptv.com:2500/live/lee/lee/84.ts
-#EXTINF:-1,USA : BTN SPORTS HD
-http://sonic-iptv.com:2500/live/lee/lee/44.ts
-#EXTINF:-1,USA : Bein USA HD
-http://sonic-iptv.com:2500/live/lee/lee/45.ts
+#EXTINF:-1,UK: Sky Thriller
+http://sonic-iptv.com:2500/live/lee/lee/179.ts
+#EXTINF:-1,UK: National-Geo-HD
+http://sonic-iptv.com:2500/live/lee/lee/195.ts
+#EXTINF:-1,UK: Nat Geographic HD
+http://sonic-iptv.com:2500/live/lee/lee/196.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://sonic-iptv.com:2500/live/lee/lee/273.ts
+#EXTINF:-1,US: ABC News HD
+http://sonic-iptv.com:2500/live/lee/lee/527.ts
+#EXTINF:-1,UK: MUTV
+http://sonic-iptv.com:2500/live/lee/lee/25.ts
+#EXTINF:-1,UK: MOVIE 4 MEN
+http://sonic-iptv.com:2500/live/lee/lee/270.ts
+#EXTINF:-1,UK: M2O Music
+http://sonic-iptv.com:2500/live/lee/lee/199.ts
+#EXTINF:-1,UK: Hum Europe
+http://sonic-iptv.com:2500/live/lee/lee/372.ts
+#EXTINF:-1,UK: HEART TV
+http://sonic-iptv.com:2500/live/lee/lee/526.ts
+#EXTINF:-1,UK: FOX News
+http://sonic-iptv.com:2500/live/lee/lee/231.ts
+#EXTINF:-1,UK: FOX
+http://sonic-iptv.com:2500/live/lee/lee/523.ts
+#EXTINF:-1,UK: FOOD HD
+http://sonic-iptv.com:2500/live/lee/lee/521.ts
+#EXTINF:-1,UK: Disney XD
+http://sonic-iptv.com:2500/live/lee/lee/260.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://sonic-iptv.com:2500/live/lee/lee/207.ts
+#EXTINF:-1,UK: Disney Junior
+http://sonic-iptv.com:2500/live/lee/lee/261.ts
+#EXTINF:-1,UK: Disney Channel HD
+http://sonic-iptv.com:2500/live/lee/lee/208.ts
+#EXTINF:-1,UK: Disney Channel
+http://sonic-iptv.com:2500/live/lee/lee/262.ts
+#EXTINF:-1,UK: Cbeebies
+http://sonic-iptv.com:2500/live/lee/lee/525.ts
+#EXTINF:-1,UK  RTE NEWS
+http://sonic-iptv.com:2500/live/lee/lee/250.ts
 #EXTINF:-1,USA: TSN1 HD
 http://sonic-iptv.com:2500/live/lee/lee/39.ts
 #EXTINF:-1,USA: TSN 2 HD
@@ -238,40 +197,72 @@ http://sonic-iptv.com:2500/live/lee/lee/210.ts
 http://sonic-iptv.com:2500/live/lee/lee/211.ts
 #EXTINF:-1,UK: Discovery Investigation
 http://sonic-iptv.com:2500/live/lee/lee/276.ts
-#EXTINF:-1,UK: Film 4
-http://sonic-iptv.com:2500/live/lee/lee/206.ts
-#EXTINF:-1,UK: True Movies 1 HD
-http://sonic-iptv.com:2500/live/lee/lee/268.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/269.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://sonic-iptv.com:2500/live/lee/lee/191.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://sonic-iptv.com:2500/live/lee/lee/271.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://sonic-iptv.com:2500/live/lee/lee/182.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://sonic-iptv.com:2500/live/lee/lee/183.ts
-#EXTINF:-1,UK: MOVIES SHOW CASE
-http://sonic-iptv.com:2500/live/lee/lee/524.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://sonic-iptv.com:2500/live/lee/lee/180.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://sonic-iptv.com:2500/live/lee/lee/184.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://sonic-iptv.com:2500/live/lee/lee/188.ts
-#EXTINF:-1,UK: Sky Movies Scifi / Horror HD
-http://sonic-iptv.com:2500/live/lee/lee/272.ts
-#EXTINF:-1,UK: Sky Movies ScFi-Horror HD
-http://sonic-iptv.com:2500/live/lee/lee/181.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://sonic-iptv.com:2500/live/lee/lee/190.ts
-#EXTINF:-1,UK: Sky Movies Drama and Romance HD
-http://sonic-iptv.com:2500/live/lee/lee/185.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://sonic-iptv.com:2500/live/lee/lee/186.ts
-#EXTINF:-1,UK: SKY MOVIES CRIME
-http://sonic-iptv.com:2500/live/lee/lee/187.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://sonic-iptv.com:2500/live/lee/lee/7.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://sonic-iptv.com:2500/live/lee/lee/6.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://sonic-iptv.com:2500/live/lee/lee/9.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://sonic-iptv.com:2500/live/lee/lee/8.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://sonic-iptv.com:2500/live/lee/lee/11.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://sonic-iptv.com:2500/live/lee/lee/10.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://sonic-iptv.com:2500/live/lee/lee/13.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://sonic-iptv.com:2500/live/lee/lee/12.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://sonic-iptv.com:2500/live/lee/lee/15.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://sonic-iptv.com:2500/live/lee/lee/14.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://sonic-iptv.com:2500/live/lee/lee/17.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://sonic-iptv.com:2500/live/lee/lee/18.ts
+#EXTINF:-1,UK: Sky Sports Box Office
+http://sonic-iptv.com:2500/live/lee/lee/16.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://sonic-iptv.com:2500/live/lee/lee/19.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://sonic-iptv.com:2500/live/lee/lee/20.ts
+#EXTINF:-1,UK: BT SPORTS 1HD
+http://sonic-iptv.com:2500/live/lee/lee/217.ts
+#EXTINF:-1,UK: BT SPORTS 2HD
+http://sonic-iptv.com:2500/live/lee/lee/216.ts
+#EXTINF:-1,UK: BT SPORTS 3 HD
+http://sonic-iptv.com:2500/live/lee/lee/215.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://sonic-iptv.com:2500/live/lee/lee/21.ts
+#EXTINF:-1,UK: BT Sports Extra
+http://sonic-iptv.com:2500/live/lee/lee/214.ts
+#EXTINF:-1,UK: Euro Sports 1
+http://sonic-iptv.com:2500/live/lee/lee/22.ts
+#EXTINF:-1,UK: Euro Sports 2
+http://sonic-iptv.com:2500/live/lee/lee/23.ts
+#EXTINF:-1,UK: Boxnation
+http://sonic-iptv.com:2500/live/lee/lee/24.ts
+#EXTINF:-1,UK: RACING UK
+http://sonic-iptv.com:2500/live/lee/lee/266.ts
+#EXTINF:-1,UK: Chelsea TV
+http://sonic-iptv.com:2500/live/lee/lee/26.ts
+#EXTINF:-1,UK: BOX-Nation
+http://sonic-iptv.com:2500/live/lee/lee/218.ts
+#EXTINF:-1,UK: Setanta Sport
+http://sonic-iptv.com:2500/live/lee/lee/27.ts
+#EXTINF:-1,UK: PREMIERE SPORT
+http://sonic-iptv.com:2500/live/lee/lee/29.ts
+#EXTINF:-1,UK: LIVERPOOL FC
+http://sonic-iptv.com:2500/live/lee/lee/267.ts
+#EXTINF:-1,UK:MIO_STADIUM_1
+http://sonic-iptv.com:2500/live/lee/lee/81.ts
+#EXTINF:-1,UK:MIO_STADIUM_2
+http://sonic-iptv.com:2500/live/lee/lee/82.ts
+#EXTINF:-1,UK:MIO_STADIUM_3
+http://sonic-iptv.com:2500/live/lee/lee/83.ts
+#EXTINF:-1,UK:MIO_STADIUM_4
+http://sonic-iptv.com:2500/live/lee/lee/84.ts
 #EXTINF:-1,USA-AFN Sports HD
 http://sonic-iptv.com:2500/live/lee/lee/1338.ts
 #EXTINF:-1,USA-AFN Sports 2
@@ -294,53 +285,4 @@ http://sonic-iptv.com:2500/live/lee/lee/519.ts
 http://sonic-iptv.com:2500/live/lee/lee/518.ts
 #EXTINF:-1,USA : DIY NETWORK HD**
 http://sonic-iptv.com:2500/live/lee/lee/517.ts
-#EXTINF:-1,USA: AL JAZEERA English
-http://sonic-iptv.com:2500/live/lee/lee/1136.ts
-#EXTINF:-1,USA : NBA TV HD
-http://sonic-iptv.com:2500/live/lee/lee/1000.ts
-#EXTINF:-1,USA : E! HD
-http://sonic-iptv.com:2500/live/lee/lee/998.ts
-#EXTINF:-1,USA : AMC HD
-http://sonic-iptv.com:2500/live/lee/lee/997.ts
-#EXTINF:-1,US: A&E HD
-http://sonic-iptv.com:2500/live/lee/lee/996.ts
-#EXTINF:-1,UK: Sky Thriller
-http://sonic-iptv.com:2500/live/lee/lee/179.ts
-#EXTINF:-1,UK: National-Geo-HD
-http://sonic-iptv.com:2500/live/lee/lee/195.ts
-#EXTINF:-1,UK: Nat Geographic HD
-http://sonic-iptv.com:2500/live/lee/lee/196.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://sonic-iptv.com:2500/live/lee/lee/273.ts
-#EXTINF:-1,US: ABC News HD
-http://sonic-iptv.com:2500/live/lee/lee/527.ts
-#EXTINF:-1,UK: MUTV
-http://sonic-iptv.com:2500/live/lee/lee/25.ts
-#EXTINF:-1,UK: MOVIE 4 MEN
-http://sonic-iptv.com:2500/live/lee/lee/270.ts
-#EXTINF:-1,UK: M2O Music
-http://sonic-iptv.com:2500/live/lee/lee/199.ts
-#EXTINF:-1,UK: Hum Europe
-http://sonic-iptv.com:2500/live/lee/lee/372.ts
-#EXTINF:-1,UK: HEART TV
-http://sonic-iptv.com:2500/live/lee/lee/526.ts
-#EXTINF:-1,UK: FOX News
-http://sonic-iptv.com:2500/live/lee/lee/231.ts
-#EXTINF:-1,UK: FOX
-http://sonic-iptv.com:2500/live/lee/lee/523.ts
-#EXTINF:-1,UK: FOOD HD
-http://sonic-iptv.com:2500/live/lee/lee/521.ts
-#EXTINF:-1,UK: Disney XD
-http://sonic-iptv.com:2500/live/lee/lee/260.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://sonic-iptv.com:2500/live/lee/lee/207.ts
-#EXTINF:-1,UK: Disney Junior
-http://sonic-iptv.com:2500/live/lee/lee/261.ts
-#EXTINF:-1,UK: Disney Channel HD
-http://sonic-iptv.com:2500/live/lee/lee/208.ts
-#EXTINF:-1,UK: Disney Channel
-http://sonic-iptv.com:2500/live/lee/lee/262.ts
-#EXTINF:-1,UK: Cbeebies
-http://sonic-iptv.com:2500/live/lee/lee/525.ts
-#EXTINF:-1,UK  RTE NEWS
-http://sonic-iptv.com:2500/live/lee/lee/250.ts
+
