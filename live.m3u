@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,UK: Sky Thriller
-http://sonic-iptv.com:2500/live/lee/lee/179.hls
+http://sonic-iptv.com:2500/live/lee/lee/179.m3u
 #EXTINF:-1,UK: National-Geo-HD
 http://sonic-iptv.com:2500/live/lee/lee/195.ts
 #EXTINF:-1,UK: Nat Geographic HD
@@ -198,11 +198,11 @@ http://sonic-iptv.com:2500/live/lee/lee/211.ts
 #EXTINF:-1,UK: Discovery Investigation
 http://sonic-iptv.com:2500/live/lee/lee/276.ts
 #EXTINF:-1,UK: Sky Sports 1 HD
-http://sonic-iptv.com:2500/live/lee/lee/7.hls
+http://sonic-iptv.com:2500/live/lee/lee/7.m3u
 #EXTINF:-1,UK: Sky Sports 1
 http://sonic-iptv.com:2500/live/lee/lee/6.ts
 #EXTINF:-1,UK: Sky Sports 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/9.hls
+http://sonic-iptv.com:2500/live/lee/lee/9.m3u
 #EXTINF:-1,UK: Sky Sports 2
 http://sonic-iptv.com:2500/live/lee/lee/8.ts
 #EXTINF:-1,UK: Sky Sports 3 HD
@@ -218,7 +218,7 @@ http://sonic-iptv.com:2500/live/lee/lee/15.ts
 #EXTINF:-1,UK: Sky Sports 5
 http://sonic-iptv.com:2500/live/lee/lee/14.ts
 #EXTINF:-1,UK: Sky Sports F1 HD
-http://sonic-iptv.com:2500/live/lee/lee/17.hls
+http://sonic-iptv.com:2500/live/lee/lee/17.m3u
 #EXTINF:-1,UK: Sky Sports News HD
 http://sonic-iptv.com:2500/live/lee/lee/18.ts
 #EXTINF:-1,UK: Sky Sports Box Office
