@@ -202,7 +202,7 @@ http://sonic-iptv.com:2500/live/lee/lee/7.hls
 #EXTINF:-1,UK: Sky Sports 1
 http://sonic-iptv.com:2500/live/lee/lee/6.ts
 #EXTINF:-1,UK: Sky Sports 2 HD
-http://sonic-iptv.com:2500/live/lee/lee/9
+http://sonic-iptv.com:2500/live/lee/lee/9=hls
 #EXTINF:-1,UK: Sky Sports 2
 http://sonic-iptv.com:2500/live/lee/lee/8.ts
 #EXTINF:-1,UK: Sky Sports 3 HD
