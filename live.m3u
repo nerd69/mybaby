@@ -1,2137 +1,1339 @@
 #EXTM3U
-#EXTINF:-1,ARENA SPORT 3
-http://51.254.197.40:25461/live/david/david/8843.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://51.254.197.40:25461/live/david/david/8844.m3u8
-#EXTINF:-1,EN: BEINSPORT 11
-http://51.254.197.40:25461/live/david/david/8837.m3u8
-#EXTINF:-1,EN: BEINSPORT 12
-http://51.254.197.40:25461/live/david/david/8838.m3u8
-#EXTINF:-1,PL: Polsat-Cafe-HD
-http://51.254.197.40:25461/live/david/david/8836.m3u8
-#EXTINF:-1,Pol: Polsat-Play-HD
-http://51.254.197.40:25461/live/david/david/8835.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://51.254.197.40:25461/live/david/david/8841.m3u8
-#EXTINF:-1,AR: BEIN  NEWS
-http://51.254.197.40:25461/live/david/david/8840.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://51.254.197.40:25461/live/david/david/8842.m3u8
-#EXTINF:-1,EN: BEINSPORT 13
-http://51.254.197.40:25461/live/david/david/8839.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://51.254.197.40:25461/live/david/david/8845.m3u8
-#EXTINF:-1,PL: Canal HD
-http://51.254.197.40:25461/live/david/david/8823.m3u8
-#EXTINF:-1,PL: CINEMAX HD
-http://51.254.197.40:25461/live/david/david/8831.m3u8
-#EXTINF:-1,PL: UNIVERSAL HD
-http://51.254.197.40:25461/live/david/david/8822.m3u8
-#EXTINF:-1,PL: CANAL SPORT 2 HD
-http://51.254.197.40:25461/live/david/david/8828.m3u8
-#EXTINF:-1,PL: Polsat-Sport-Extra-HD
-http://51.254.197.40:25461/live/david/david/8834.m3u8
-#EXTINF:-1,PL: ALE KINO HD
-http://51.254.197.40:25461/live/david/david/8827.m3u8
-#EXTINF:-1,PL: POLSAT 2 HD
-http://51.254.197.40:25461/live/david/david/8832.m3u8
-#EXTINF:-1,PL: Animal Planet HD
-http://51.254.197.40:25461/live/david/david/8826.m3u8
-#EXTINF:-1,PL: TVP SPORT HD
-http://51.254.197.40:25461/live/david/david/8821.m3u8
-#EXTINF:-1,PL: TVP HD
-http://51.254.197.40:25461/live/david/david/8820.m3u8
-#EXTINF:-1,PL:TVP2 HD
-http://51.254.197.40:25461/live/david/david/8819.m3u8
-#EXTINF:-1,PL: Canal Sport
-http://51.254.197.40:25461/live/david/david/8830.m3u8
-#EXTINF:-1,PL: Polsat-Sport-HD
-http://51.254.197.40:25461/live/david/david/8833.m3u8
-#EXTINF:-1,PL: CANAL SPORT HD
-http://51.254.197.40:25461/live/david/david/8829.m3u8
-#EXTINF:-1,PL: ELEVEN HD
-http://51.254.197.40:25461/live/david/david/8825.m3u8
-#EXTINF:-1,PL: ELEVEN SPORTS HD
-http://51.254.197.40:25461/live/david/david/8824.m3u8
-#EXTINF:-1,UK : SKY BOX OFFICE 2 (PPV)
-http://51.254.197.40:25461/live/david/david/8053.m3u8
-#EXTINF:-1,UK : SKY BOX OFFICE 1 ( PPV )
-http://51.254.197.40:25461/live/david/david/8054.m3u8
-#EXTINF:-1,Sky Cinema Harry Potter HD
-http://51.254.197.40:25461/live/david/david/8308.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://51.254.197.40:25461/live/david/david/8309.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://51.254.197.40:25461/live/david/david/8310.m3u8
-#EXTINF:-1,MIO Stadium 105
-http://51.254.197.40:25461/live/david/david/8194.m3u8
-#EXTINF:-1,MIO Stadium 104
-http://51.254.197.40:25461/live/david/david/8193.m3u8
-#EXTINF:-1,ITV Choice
-http://51.254.197.40:25461/live/david/david/8209.m3u8
-#EXTINF:-1,ITV 1 Backup
-http://51.254.197.40:25461/live/david/david/8210.m3u8
-#EXTINF:-1,IN: Zee Tv HD
-http://51.254.197.40:25461/live/david/david/7259.m3u8
-#EXTINF:-1,IN: Zee Tamil
-http://51.254.197.40:25461/live/david/david/7307.m3u8
-#EXTINF:-1,IN: Zee Marathi USA
-http://51.254.197.40:25461/live/david/david/7313.m3u8
-#EXTINF:-1,IN: Zee Marathi HD
-http://51.254.197.40:25461/live/david/david/7315.m3u8
-#EXTINF:-1,IN: Zee Cinema International
-http://51.254.197.40:25461/live/david/david/7253.m3u8
-#EXTINF:-1,IN: UTV Action
-http://51.254.197.40:25461/live/david/david/7251.m3u8
-#EXTINF:-1,IN: Star Sports 2
-http://51.254.197.40:25461/live/david/david/7347.m3u8
-#EXTINF:-1,IN: Sony TV HD
-http://51.254.197.40:25461/live/david/david/7255.m3u8
-#EXTINF:-1,IN: Sony Six HD ( India )
-http://51.254.197.40:25461/live/david/david/7250.m3u8
-#EXTINF:-1,IN: Sony Six HD
-http://51.254.197.40:25461/live/david/david/7249.m3u8
-#EXTINF:-1,IN: Sony PIX HD
-http://51.254.197.40:25461/live/david/david/7274.m3u8
-#EXTINF:-1,IN: Sab TV HD India
-http://51.254.197.40:25461/live/david/david/7276.m3u8
-#EXTINF:-1,IN: Neo Sports
-http://51.254.197.40:25461/live/david/david/7283.m3u8
-#EXTINF:-1,IN: NDTV 24x7 News
-http://51.254.197.40:25461/live/david/david/7284.m3u8
-#EXTINF:-1,IN: National Geographic HD Hindi
-http://51.254.197.40:25461/live/david/david/7263.m3u8
-#EXTINF:-1,IN: Entertainment 24
-http://51.254.197.40:25461/live/david/david/7261.m3u8
-#EXTINF:-1,IN: Discovery HD Hindi
-http://51.254.197.40:25461/live/david/david/7258.m3u8
-#EXTINF:-1,IN: DD Sports
-http://51.254.197.40:25461/live/david/david/7321.m3u8
-#EXTINF:-1,IN: Colors TV India
-http://51.254.197.40:25461/live/david/david/7252.m3u8
-#EXTINF:-1,IN: Colors TV HD ( Entertainment )
-http://51.254.197.40:25461/live/david/david/7312.m3u8
-#EXTINF:-1,IN: ABP News
-http://51.254.197.40:25461/live/david/david/7286.m3u8
-#EXTINF:-1,IN: Aaj Tak News
-http://51.254.197.40:25461/live/david/david/7285.m3u8
-#EXTINF:-1,Fine Living Network
-http://51.254.197.40:25461/live/david/david/8211.m3u8
-#EXTINF:-1,DisneyJunior
-http://51.254.197.40:25461/live/david/david/8206.m3u8
-#EXTINF:-1,Discovery Shed UK
-http://51.254.197.40:25461/live/david/david/8213.m3u8
-#EXTINF:-1,Discovery Home&Health
-http://51.254.197.40:25461/live/david/david/8214.m3u8
-#EXTINF:-1,Discovery History
-http://51.254.197.40:25461/live/david/david/8215.m3u8
-#EXTINF:-1,Discovery
-http://51.254.197.40:25461/live/david/david/8216.m3u8
-#EXTINF:-1,Channel 5 HD
-http://51.254.197.40:25461/live/david/david/8212.m3u8
-#EXTINF:-1,BT SPORTS 3hd
-http://51.254.197.40:25461/live/david/david/8204.m3u8
-#EXTINF:-1,Box Nation
-http://51.254.197.40:25461/live/david/david/8205.m3u8
-#EXTINF:-1,Boomerang
-http://51.254.197.40:25461/live/david/david/8207.m3u8
-#EXTINF:-1,ZEE TELEGU
-http://51.254.197.40:25461/live/david/david/6304.m3u8
-#EXTINF:-1,Telegu:tv 69 news
-http://51.254.197.40:25461/live/david/david/6303.m3u8
-#EXTINF:-1,Telegu:SVBC
-http://51.254.197.40:25461/live/david/david/6302.m3u8
-#EXTINF:-1,Telegu:MAGNA TV
-http://51.254.197.40:25461/live/david/david/6296.m3u8
-#EXTINF:-1,Telegu:MAA TV
-http://51.254.197.40:25461/live/david/david/6306.m3u8
-#EXTINF:-1,Telegu:MAA MOVIES USA
-http://51.254.197.40:25461/live/david/david/6308.m3u8
-#EXTINF:-1,Telegu:MAA MOVIES
-http://51.254.197.40:25461/live/david/david/6309.m3u8
-#EXTINF:-1,Telegu:MAA GOLD
-http://51.254.197.40:25461/live/david/david/6310.m3u8
-#EXTINF:-1,Telegu:JAI TELUNGANA
-http://51.254.197.40:25461/live/david/david/6312.m3u8
-#EXTINF:-1,Telegu:GEMINI movies
-http://51.254.197.40:25461/live/david/david/6313.m3u8
-#EXTINF:-1,Telegu: Tv6 news
-http://51.254.197.40:25461/live/david/david/6317.m3u8
-#EXTINF:-1,Tamil:ZEE TAMIL
-http://51.254.197.40:25461/live/david/david/6319.m3u8
-#EXTINF:-1,Tamil:VASANTH TV
-http://51.254.197.40:25461/live/david/david/6335.m3u8
-#EXTINF:-1,Tamil:vanavil plus
-http://51.254.197.40:25461/live/david/david/6362.m3u8
-#EXTINF:-1,Tamil:Thanthi tv
-http://51.254.197.40:25461/live/david/david/6320.m3u8
-#EXTINF:-1,Tamil:Sun tv
-http://51.254.197.40:25461/live/david/david/6331.m3u8
-#EXTINF:-1,Tamil:raj tv uk
-http://51.254.197.40:25461/live/david/david/6297.m3u8
-#EXTINF:-1,Tamil:RAJ TV
-http://51.254.197.40:25461/live/david/david/6346.m3u8
-#EXTINF:-1,Tamil:RAJ DIGITAL PLUS
-http://51.254.197.40:25461/live/david/david/6347.m3u8
-#EXTINF:-1,Tamil:Puthuyugam tv
-http://51.254.197.40:25461/live/david/david/6336.m3u8
-#EXTINF:-1,Tamil:Peppers tv
-http://51.254.197.40:25461/live/david/david/6353.m3u8
-#EXTINF:-1,Tamil:NEWS 7
-http://51.254.197.40:25461/live/david/david/6349.m3u8
-#EXTINF:-1,Tamil:MALAI Murasu tv
-http://51.254.197.40:25461/live/david/david/6342.m3u8
-#EXTINF:-1,Tamil:MADHIMUGAM
-http://51.254.197.40:25461/live/david/david/6350.m3u8
-#EXTINF:-1,Tamil:KTV
-http://51.254.197.40:25461/live/david/david/6295.m3u8
-#EXTINF:-1,Tamil:ISAI ARUVI
-http://51.254.197.40:25461/live/david/david/6358.m3u8
-#EXTINF:-1,Tamil:channel ufx
-http://51.254.197.40:25461/live/david/david/6333.m3u8
-#EXTINF:-1,Tamil:ARRA TV
-http://51.254.197.40:25461/live/david/david/6352.m3u8
-#EXTINF:-1,Tamil:ANGEL TV HD
-http://51.254.197.40:25461/live/david/david/6361.m3u8
-#EXTINF:-1,Tamil:1 yes tv
-http://51.254.197.40:25461/live/david/david/6339.m3u8
-#EXTINF:-1,Tamil: SUPER TV
-http://51.254.197.40:25461/live/david/david/6348.m3u8
-#EXTINF:-1,Tamil: SKTAT TV
-http://51.254.197.40:25461/live/david/david/6344.m3u8
-#EXTINF:-1,SUN LIFE
-http://51.254.197.40:25461/live/david/david/6330.m3u8
-#EXTINF:-1,STAR VIJOY
-http://51.254.197.40:25461/live/david/david/6343.m3u8
-#EXTINF:-1,STAR UTSAV HD
-http://51.254.197.40:25461/live/david/david/6299.m3u8
-#EXTINF:-1,SARAS TV
-http://51.254.197.40:25461/live/david/david/6363.m3u8
-#EXTINF:-1,Polimer news
-http://51.254.197.40:25461/live/david/david/6340.m3u8
-#EXTINF:-1,MOON TV
-http://51.254.197.40:25461/live/david/david/6324.m3u8
-#EXTINF:-1,Malym:REPORTER TV
-http://51.254.197.40:25461/live/david/david/6284.m3u8
-#EXTINF:-1,Malym:MEDIA ONE
-http://51.254.197.40:25461/live/david/david/6287.m3u8
-#EXTINF:-1,Malym:Mathrubumi news
-http://51.254.197.40:25461/live/david/david/6291.m3u8
-#EXTINF:-1,Malym:kappa tv
-http://51.254.197.40:25461/live/david/david/6283.m3u8
-#EXTINF:-1,lakshya tv
-http://51.254.197.40:25461/live/david/david/6991.m3u8
-#EXTINF:-1,CNBC BAZAAR GUJRATI
-http://51.254.197.40:25461/live/david/david/6990.m3u8
-#EXTINF:-1,Malym:Amrita tv
-http://51.254.197.40:25461/live/david/david/6294.m3u8
-#EXTINF:-1,Ktv HD
-http://51.254.197.40:25461/live/david/david/6328.m3u8
-#EXTINF:-1,Kalaigner TV
-http://51.254.197.40:25461/live/david/david/6332.m3u8
-#EXTINF:-1,JAYA PLUS
-http://51.254.197.40:25461/live/david/david/6355.m3u8
-#EXTINF:-1,JAYA MOVIES
-http://51.254.197.40:25461/live/david/david/6356.m3u8
-#EXTINF:-1,Jaya max
-http://51.254.197.40:25461/live/david/david/6305.m3u8
-#EXTINF:-1,DHEERAN TV
-http://51.254.197.40:25461/live/david/david/6325.m3u8
-#EXTINF:-1,Chutti tv
-http://51.254.197.40:25461/live/david/david/6329.m3u8
-#EXTINF:-1,PB: ZEE PUNJABI
-http://51.254.197.40:25461/live/david/david/6263.m3u8
-#EXTINF:-1,PB: SIKH CHANNEL
-http://51.254.197.40:25461/live/david/david/6264.m3u8
-#EXTINF:-1,PB: SANJH TV
-http://51.254.197.40:25461/live/david/david/6266.m3u8
-#EXTINF:-1,PB: PTC PUNJABI
-http://51.254.197.40:25461/live/david/david/6268.m3u8
-#EXTINF:-1,PB: PTC NEWS
-http://51.254.197.40:25461/live/david/david/6269.m3u8
-#EXTINF:-1,PB: PTC CHAK DE
-http://51.254.197.40:25461/live/david/david/6270.m3u8
-#EXTINF:-1,PB: MH1 NEWS
-http://51.254.197.40:25461/live/david/david/6271.m3u8
-#EXTINF:-1,PB: JUS PUNJABI
-http://51.254.197.40:25461/live/david/david/6272.m3u8
-#EXTINF:-1,PB: JUS ONE TV
-http://51.254.197.40:25461/live/david/david/6273.m3u8
-#EXTINF:-1,PB: GARV PUNJAB
-http://51.254.197.40:25461/live/david/david/6265.m3u8
-#EXTINF:-1,PB: DESI CHANNEL
-http://51.254.197.40:25461/live/david/david/6277.m3u8
-#EXTINF:-1,PB: CHAKDE TV
-http://51.254.197.40:25461/live/david/david/6279.m3u8
-#EXTINF:-1,PB: BRITASIA
-http://51.254.197.40:25461/live/david/david/6280.m3u8
-#EXTINF:-1,PB: ALPHA ETC PUNJABI
-http://51.254.197.40:25461/live/david/david/6276.m3u8
-#EXTINF:-1,PB: AKAAL CHANNEL
-http://51.254.197.40:25461/live/david/david/6281.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 1 HD HR
-http://51.254.197.40:25461/live/david/david/6161.m3u8
-#EXTINF:-1,VIP : CELTIC FC TV ( LIVE ON MATCHES )
-http://51.254.197.40:25461/live/david/david/6221.m3u8
-#EXTINF:-1,VIP : ASTRO SPORTS HD 2
-http://51.254.197.40:25461/live/david/david/6214.m3u8
-#EXTINF:-1,etv gujarati news
-http://51.254.197.40:25461/live/david/david/5960.m3u8
-#EXTINF:-1,colors gujarati
-http://51.254.197.40:25461/live/david/david/5978.m3u8
-#EXTINF:-1,|AL| TRING SPORT NEWS
-http://51.254.197.40:25461/live/david/david/6187.m3u8
-#EXTINF:-1,|AL| TRING SPORT 4 HD
-http://51.254.197.40:25461/live/david/david/6186.m3u8
-#EXTINF:-1,|AL| TRING SPORT 3 HD
-http://51.254.197.40:25461/live/david/david/6185.m3u8
-#EXTINF:-1,|AL| TRING SPORT 2 HD
-http://51.254.197.40:25461/live/david/david/6184.m3u8
-#EXTINF:-1,|AL| TRING SPORT 1 HD
-http://51.254.197.40:25461/live/david/david/6183.m3u8
-#EXTINF:-1,|AL| SUPER SPORT 4 HD
-http://51.254.197.40:25461/live/david/david/6180.m3u8
-#EXTINF:-1,|AL| SUPER SPORT 2 HD
-http://51.254.197.40:25461/live/david/david/6178.m3u8
-#EXTINF:-1,|AL| SPORT KLUB 3 HD
-http://51.254.197.40:25461/live/david/david/6175.m3u8
-#EXTINF:-1,|AL| SPORT KLUB 2 HD
-http://51.254.197.40:25461/live/david/david/6174.m3u8
-#EXTINF:-1,|AL| SPORT KLUB 1 HD
-http://51.254.197.40:25461/live/david/david/6173.m3u8
-#EXTINF:-1,|AL| K SPORT 1
-http://51.254.197.40:25461/live/david/david/6171.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 5 Srb
-http://51.254.197.40:25461/live/david/david/6170.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 5 HD HR
-http://51.254.197.40:25461/live/david/david/6169.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 4 Srb
-http://51.254.197.40:25461/live/david/david/6168.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 4 HD HR
-http://51.254.197.40:25461/live/david/david/6167.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 3 Srb
-http://51.254.197.40:25461/live/david/david/6166.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 3 HD HR
-http://51.254.197.40:25461/live/david/david/6165.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 2 Srb
-http://51.254.197.40:25461/live/david/david/6164.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 2 HD HR
-http://51.254.197.40:25461/live/david/david/6163.m3u8
-#EXTINF:-1,|AL| ARENA SPORT 1 Srb
-http://51.254.197.40:25461/live/david/david/6162.m3u8
-#EXTINF:-1,IN: UTV Movies International
-http://51.254.197.40:25461/live/david/david/5773.m3u8
-#EXTINF:-1,IN: Times Now News
-http://51.254.197.40:25461/live/david/david/5826.m3u8
-#EXTINF:-1,IN: Star Sports 4
-http://51.254.197.40:25461/live/david/david/5893.m3u8
-#EXTINF:-1,IN: Star Sports 3
-http://51.254.197.40:25461/live/david/david/5892.m3u8
-#EXTINF:-1,IN: Star Sports 1
-http://51.254.197.40:25461/live/david/david/5890.m3u8
-#EXTINF:-1,IN: Star Pravaah US Marathi
-http://51.254.197.40:25461/live/david/david/5830.m3u8
-#EXTINF:-1,IN: Sony Set Max
-http://51.254.197.40:25461/live/david/david/5775.m3u8
-#EXTINF:-1,IN: Sab Tv
-http://51.254.197.40:25461/live/david/david/5777.m3u8
-#EXTINF:-1,UK: Rishtey
-http://51.254.197.40:25461/live/david/david/5778.m3u8
-#EXTINF:-1,IN: Peace TV Urdu
-http://51.254.197.40:25461/live/david/david/5770.m3u8
-#EXTINF:-1,IN: NDTV News English
-http://51.254.197.40:25461/live/david/david/5834.m3u8
-#EXTINF:-1,IN: National Geographic Hindi
-http://51.254.197.40:25461/live/david/david/5776.m3u8
-#EXTINF:-1,IN: Media One Malayalam
-http://51.254.197.40:25461/live/david/david/5838.m3u8
-#EXTINF:-1,IN: Enterr 10
-http://51.254.197.40:25461/live/david/david/5814.m3u8
-#EXTINF:-1,UK: Colors UK
-http://51.254.197.40:25461/live/david/david/5816.m3u8
-#EXTINF:-1,IN: Colors TV APAC
-http://51.254.197.40:25461/live/david/david/5768.m3u8
-#EXTINF:-1,IN: Chakde TV Punjabi
-http://51.254.197.40:25461/live/david/david/5836.m3u8
-#EXTINF:-1,IN: Cartoon Network Hindi
-http://51.254.197.40:25461/live/david/david/5774.m3u8
-#EXTINF:-1,IN: Animal Planet
-http://51.254.197.40:25461/live/david/david/5779.m3u8
-#EXTINF:-1,IN: And Picture HD ( India )
-http://51.254.197.40:25461/live/david/david/5837.m3u8
-#EXTINF:-1,IN: And Picture HD
-http://51.254.197.40:25461/live/david/david/5822.m3u8
-#EXTINF:-1,IN: Alpha ETC Punjabi
-http://51.254.197.40:25461/live/david/david/5844.m3u8
-#EXTINF:-1,IN: Akaal Punjabi
-http://51.254.197.40:25461/live/david/david/5851.m3u8
-#EXTINF:-1,IN: 5aab TV Punjabi
-http://51.254.197.40:25461/live/david/david/5845.m3u8
-#EXTINF:-1,USA : WWE Network HD
-http://51.254.197.40:25461/live/david/david/5722.m3u8
-#EXTINF:-1,USA : WWE HD*
-http://51.254.197.40:25461/live/david/david/5738.m3u8
-#EXTINF:-1,USA : WILLOW CRICKET HD*
-http://51.254.197.40:25461/live/david/david/5739.m3u8
-#EXTINF:-1,USA : USA NETWORK HD*
-http://51.254.197.40:25461/live/david/david/5740.m3u8
-#EXTINF:-1,USA : NFL NETWORK HD
-http://51.254.197.40:25461/live/david/david/5743.m3u8
-#EXTINF:-1,USA : Fox Sports 2 HD
-http://51.254.197.40:25461/live/david/david/5745.m3u8
-#EXTINF:-1,USA : Fox Sports 1 HD
-http://51.254.197.40:25461/live/david/david/5746.m3u8
-#EXTINF:-1,USA : ESPN HD 2**
-http://51.254.197.40:25461/live/david/david/5747.m3u8
-#EXTINF:-1,USA : BTN SPORTS HD**
-http://51.254.197.40:25461/live/david/david/5752.m3u8
-#EXTINF:-1,US: USA Network HD
-http://51.254.197.40:25461/live/david/david/5754.m3u8
-#EXTINF:-1,UK : TV3 HD
-http://51.254.197.40:25461/live/david/david/5706.m3u8
-#EXTINF:-1,UK : TV3
-http://51.254.197.40:25461/live/david/david/5707.m3u8
-#EXTINF:-1,UK : RTE TWO
-http://51.254.197.40:25461/live/david/david/5709.m3u8
-#EXTINF:-1,UK: RTE 1 HD
-http://51.254.197.40:25461/live/david/david/5710.m3u8
-#EXTINF:-1,UK : RTE JUNIOR
-http://51.254.197.40:25461/live/david/david/5708.m3u8
-#EXTINF:-1,UFC Fight pass
-http://51.254.197.40:25461/live/david/david/5717.m3u8
-#EXTINF:-1,TV3 IE
-http://51.254.197.40:25461/live/david/david/5712.m3u8
-#EXTINF:-1,TV-3 HD
-http://51.254.197.40:25461/live/david/david/5713.m3u8
-#EXTINF:-1,Sky sports news backup
-http://51.254.197.40:25461/live/david/david/5718.m3u8
-#EXTINF:-1,SKY SPORTS 5 IRE
-http://51.254.197.40:25461/live/david/david/5701.m3u8
-#EXTINF:-1,SKY SPORTS 4 IRE
-http://51.254.197.40:25461/live/david/david/5702.m3u8
-#EXTINF:-1,SKY SPORTS 3 IRE
-http://51.254.197.40:25461/live/david/david/5703.m3u8
-#EXTINF:-1,SKY SPORTS 2 IRE
-http://51.254.197.40:25461/live/david/david/5704.m3u8
-#EXTINF:-1,SKY SPORTS 1 IRE
-http://51.254.197.40:25461/live/david/david/5705.m3u8
-#EXTINF:-1,RTE Two
-http://51.254.197.40:25461/live/david/david/5714.m3u8
-#EXTINF:-1,RTE One
-http://51.254.197.40:25461/live/david/david/5715.m3u8
-#EXTINF:-1,3e
-http://51.254.197.40:25461/live/david/david/5716.m3u8
-#EXTINF:-1,UK:Sky Movies Premiere HD
-http://51.254.197.40:25461/live/david/david/5658.m3u8
-#EXTINF:-1,UK:Sky Movies Comedy HD
-http://51.254.197.40:25461/live/david/david/5657.m3u8
-#EXTINF:-1,UK: True Movies 1 HD
-http://51.254.197.40:25461/live/david/david/5647.m3u8
-#EXTINF:-1,UK: Sky Movies Select HD
-http://51.254.197.40:25461/live/david/david/5653.m3u8
-#EXTINF:-1,UK: Sky Movies Family HD
-http://51.254.197.40:25461/live/david/david/5654.m3u8
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://51.254.197.40:25461/live/david/david/5656.m3u8
-#EXTINF:-1,UK: ITV HD
-http://51.254.197.40:25461/live/david/david/5687.m3u8
-#EXTINF:-1,Sky Cinema Select HD
-http://51.254.197.40:25461/live/david/david/4868.m3u8
-#EXTINF:-1,Sky Cinema SciFi & Horror HD
-http://51.254.197.40:25461/live/david/david/4869.m3u8
-#EXTINF:-1,Sky Cinema Premiere HD
-http://51.254.197.40:25461/live/david/david/4870.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://51.254.197.40:25461/live/david/david/4871.m3u8
-#EXTINF:-1,Sky Cinema Drama n Romance HD
-http://51.254.197.40:25461/live/david/david/4874.m3u8
-#EXTINF:-1,Sky Cinema Disney HD
-http://51.254.197.40:25461/live/david/david/4875.m3u8
-#EXTINF:-1,Sky Cinema Crime & Thriller HD
-http://51.254.197.40:25461/live/david/david/4876.m3u8
-#EXTINF:-1,Sky Cinema Action & Adventure HD
-http://51.254.197.40:25461/live/david/david/4878.m3u8
-#EXTINF:-1,IN: Star Plus Ind
-http://51.254.197.40:25461/live/david/david/4844.m3u8
-#EXTINF:-1,IN: And TV Music HD
-http://51.254.197.40:25461/live/david/david/4841.m3u8
-#EXTINF:-1,UK: Euro Sports 2
-http://51.254.197.40:25461/live/david/david/4810.m3u8
-#EXTINF:-1,BeIN Sport 5 HD
-http://51.254.197.40:25461/live/david/david/4722.m3u8
-#EXTINF:-1,uk: Sky Movies Thriller HD
-http://51.254.197.40:25461/live/david/david/3304.m3u8
-#EXTINF:-1,IN: TV9 Gujrati
-http://51.254.197.40:25461/live/david/david/3233.m3u8
-#EXTINF:-1,IN: Star Plus HD
-http://51.254.197.40:25461/live/david/david/3222.m3u8
-#EXTINF:-1,PK: Urdu 1
-http://51.254.197.40:25461/live/david/david/2595.m3u8
-#EXTINF:-1,PK: Saudi Sunnah
-http://51.254.197.40:25461/live/david/david/2618.m3u8
-#EXTINF:-1,PK: PTV Sports
-http://51.254.197.40:25461/live/david/david/2613.m3u8
-#EXTINF:-1,PK: PTV Prime
-http://51.254.197.40:25461/live/david/david/2609.m3u8
-#EXTINF:-1,PK: Ptv home
-http://51.254.197.40:25461/live/david/david/2601.m3u8
-#EXTINF:-1,PK: Madni Channel
-http://51.254.197.40:25461/live/david/david/2598.m3u8
-#EXTINF:-1,PK: Hum TV
-http://51.254.197.40:25461/live/david/david/2597.m3u8
-#EXTINF:-1,PK: Dunya TV
-http://51.254.197.40:25461/live/david/david/2620.m3u8
-#EXTINF:-1,PK: Dunya News Live
-http://51.254.197.40:25461/live/david/david/2614.m3u8
-#EXTINF:-1,PK: Ary Zindagi
-http://51.254.197.40:25461/live/david/david/2606.m3u8
-#EXTINF:-1,PK: Ary Zauq
-http://51.254.197.40:25461/live/david/david/2605.m3u8
-#EXTINF:-1,PK: ARY Qtv
-http://51.254.197.40:25461/live/david/david/2619.m3u8
-#EXTINF:-1,PK: ARY News HD
-http://51.254.197.40:25461/live/david/david/2621.m3u8
-#EXTINF:-1,PK: ARY NEws
-http://51.254.197.40:25461/live/david/david/2615.m3u8
-#EXTINF:-1,PK: Ary Digital
-http://51.254.197.40:25461/live/david/david/2612.m3u8
-#EXTINF:-1,PK: 92 NEws
-http://51.254.197.40:25461/live/david/david/2616.m3u8
-#EXTINF:-1,Nirmana News
-rtmp://113.20.19.54/gtplnirmananewslivetv/gtplnirmananewslivetv1
-#EXTINF:-1,IN: Zee Marathi
-http://51.254.197.40:25461/live/david/david/2115.m3u8
-#EXTINF:-1,IN: Zee Cinema HD
-http://51.254.197.40:25461/live/david/david/2054.m3u8
-#EXTINF:-1,IN: Ten Cricket
-http://51.254.197.40:25461/live/david/david/2152.m3u8
-#EXTINF:-1,IN: Surya TV Malayalam
-http://51.254.197.40:25461/live/david/david/2108.m3u8
-#EXTINF:-1,IN: Star Plus SD
-http://51.254.197.40:25461/live/david/david/2076.m3u8
-#EXTINF:-1,IN: Star Movies HD
-http://51.254.197.40:25461/live/david/david/2068.m3u8
-#EXTINF:-1,IN: sikh Channel Punjabi
-http://51.254.197.40:25461/live/david/david/2090.m3u8
-#EXTINF:-1,IN: SAB TV UK
-http://51.254.197.40:25461/live/david/david/2069.m3u8
-#EXTINF:-1,IN: Jus Punjabi
-http://51.254.197.40:25461/live/david/david/2100.m3u8
-#EXTINF:-1,IN: Jus One TV Punjabi
-http://51.254.197.40:25461/live/david/david/2101.m3u8
-#EXTINF:-1,IN: Hamdard TV Punjabi
-http://51.254.197.40:25461/live/david/david/2103.m3u8
-#EXTINF:-1,IN: Desi TV Punjabi
-http://51.254.197.40:25461/live/david/david/2104.m3u8
-#EXTINF:-1,IN: Colors TV HD
-http://51.254.197.40:25461/live/david/david/2079.m3u8
-#EXTINF:-1,IN: Astha Bhajan
-http://51.254.197.40:25461/live/david/david/2120.m3u8
-#EXTINF:-1,IN: And TV HD
-http://51.254.197.40:25461/live/david/david/2060.m3u8
-#EXTINF:-1,Yesterday  1
-http://51.254.197.40:25461/live/david/david/1805.m3u8
-#EXTINF:-1,Watch
-http://51.254.197.40:25461/live/david/david/1806.m3u8
-#EXTINF:-1,True Entertainment
-http://51.254.197.40:25461/live/david/david/1807.m3u8
-#EXTINF:-1,Travel Channel 1 UK
-http://51.254.197.40:25461/live/david/david/1808.m3u8
-#EXTINF:-1,TG4
-http://51.254.197.40:25461/live/david/david/1809.m3u8
-#EXTINF:-1,TCM  1 UK
-http://51.254.197.40:25461/live/david/david/1810.m3u8
-#EXTINF:-1,TCM
-http://51.254.197.40:25461/live/david/david/1811.m3u8
-#EXTINF:-1,SyFy
-http://51.254.197.40:25461/live/david/david/1812.m3u8
-#EXTINF:-1,Spike UK
-http://51.254.197.40:25461/live/david/david/1813.m3u8
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://51.254.197.40:25461/live/david/david/1683.m3u8
-#EXTINF:-1,SKY SPORTS F1 HD
-http://51.254.197.40:25461/live/david/david/1684.m3u8
-#EXTINF:-1,Sky Sports F1
-http://51.254.197.40:25461/live/david/david/1686.m3u8
-#EXTINF:-1,SKY SPORTS 5 HD
-http://51.254.197.40:25461/live/david/david/1688.m3u8
-#EXTINF:-1,Sky Sports 5
-http://51.254.197.40:25461/live/david/david/1689.m3u8
-#EXTINF:-1,SKY SPORTS 4 HD
-http://51.254.197.40:25461/live/david/david/1690.m3u8
-#EXTINF:-1,Sky Sports 4
-http://51.254.197.40:25461/live/david/david/1692.m3u8
-#EXTINF:-1,SKY SPORTS 3 HD
-http://51.254.197.40:25461/live/david/david/1693.m3u8
-#EXTINF:-1,Sky Sports 3
-http://51.254.197.40:25461/live/david/david/1694.m3u8
-#EXTINF:-1,SKY SPORTS 2 HD
-http://51.254.197.40:25461/live/david/david/1695.m3u8
-#EXTINF:-1,Sky Sports 2
-http://51.254.197.40:25461/live/david/david/1696.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://51.254.197.40:25461/live/david/david/1697.m3u8
-#EXTINF:-1,Sky News HD
-http://51.254.197.40:25461/live/david/david/1772.m3u8
-#EXTINF:-1,Sky Living 1 UK
-http://51.254.197.40:25461/live/david/david/1814.m3u8
-#EXTINF:-1,Sky Atlantic
-http://51.254.197.40:25461/live/david/david/1815.m3u8
-#EXTINF:-1,Sky Arts
-http://51.254.197.40:25461/live/david/david/1816.m3u8
-#EXTINF:-1,Sky 2
-http://51.254.197.40:25461/live/david/david/1817.m3u8
-#EXTINF:-1,Sky 1
-http://51.254.197.40:25461/live/david/david/1818.m3u8
-#EXTINF:-1,Setanta Sports 1 / Premier Sports
-http://51.254.197.40:25461/live/david/david/1699.m3u8
-#EXTINF:-1,Setanta Ireland
-http://51.254.197.40:25461/live/david/david/1700.m3u8
-#EXTINF:-1,RTE News
-http://51.254.197.40:25461/live/david/david/1775.m3u8
-#EXTINF:-1,Real Lives
-http://51.254.197.40:25461/live/david/david/1819.m3u8
-#EXTINF:-1,Quest
-http://51.254.197.40:25461/live/david/david/1820.m3u8
-#EXTINF:-1,Pick
-http://51.254.197.40:25461/live/david/david/1821.m3u8
-#EXTINF:-1,NickToons
-http://51.254.197.40:25461/live/david/david/1759.m3u8
-#EXTINF:-1,Nick UK
-http://51.254.197.40:25461/live/david/david/1760.m3u8
-#EXTINF:-1,Nick Junior
-http://51.254.197.40:25461/live/david/david/1761.m3u8
-#EXTINF:-1,National Geographic UK
-http://51.254.197.40:25461/live/david/david/1876.m3u8
-#EXTINF:-1,Nat Geo Wild UK
-http://51.254.197.40:25461/live/david/david/1877.m3u8
-#EXTINF:-1,mov4men
-http://51.254.197.40:25461/live/david/david/1803.m3u8
-#EXTINF:-1,Motors UK
-http://51.254.197.40:25461/live/david/david/1822.m3u8
-#EXTINF:-1,More 4
-http://51.254.197.40:25461/live/david/david/1823.m3u8
-#EXTINF:-1,London Live UK
-http://51.254.197.40:25461/live/david/david/1824.m3u8
-#EXTINF:-1,ITV HD
-http://51.254.197.40:25461/live/david/david/1826.m3u8
-#EXTINF:-1,ITV Encore
-http://51.254.197.40:25461/live/david/david/1827.m3u8
-#EXTINF:-1,ITV Be
-http://51.254.197.40:25461/live/david/david/1829.m3u8
-#EXTINF:-1,ITV 4
-http://51.254.197.40:25461/live/david/david/1830.m3u8
-#EXTINF:-1,ITV 3
-http://51.254.197.40:25461/live/david/david/1831.m3u8
-#EXTINF:-1,ITV 2
-http://51.254.197.40:25461/live/david/david/1832.m3u8
-#EXTINF:-1,ITV
-http://51.254.197.40:25461/live/david/david/1834.m3u8
-#EXTINF:-1,ID UK
-http://51.254.197.40:25461/live/david/david/1835.m3u8
-#EXTINF:-1,Horror Channel UK
-http://51.254.197.40:25461/live/david/david/1836.m3u8
-#EXTINF:-1,Home
-http://51.254.197.40:25461/live/david/david/1837.m3u8
-#EXTINF:-1,History UK
-http://51.254.197.40:25461/live/david/david/1838.m3u8
-#EXTINF:-1,H2 UK
-http://51.254.197.40:25461/live/david/david/1840.m3u8
-#EXTINF:-1,Gold
-http://51.254.197.40:25461/live/david/david/1841.m3u8
-#EXTINF:-1,Food Network UK
-http://51.254.197.40:25461/live/david/david/1842.m3u8
-#EXTINF:-1,Film 4 UK
-http://51.254.197.40:25461/live/david/david/1804.m3u8
-#EXTINF:-1,Euronews
-http://51.254.197.40:25461/live/david/david/1778.m3u8
-#EXTINF:-1,Eleven Sports
-http://51.254.197.40:25461/live/david/david/1680.m3u8
-#EXTINF:-1,Eleven
-http://51.254.197.40:25461/live/david/david/1679.m3u8
-#EXTINF:-1,Eden
-http://51.254.197.40:25461/live/david/david/1844.m3u8
-#EXTINF:-1,E4
-http://51.254.197.40:25461/live/david/david/1845.m3u8
-#EXTINF:-1,E! Entertainment
-http://51.254.197.40:25461/live/david/david/1846.m3u8
-#EXTINF:-1,Drama UK
-http://51.254.197.40:25461/live/david/david/1847.m3u8
-#EXTINF:-1,DMAX
-http://51.254.197.40:25461/live/david/david/1848.m3u8
-#EXTINF:-1,Discovery Turbo
-http://51.254.197.40:25461/live/david/david/1878.m3u8
-#EXTINF:-1,Discovery Science
-http://51.254.197.40:25461/live/david/david/1880.m3u8
-#EXTINF:-1,Dave
-http://51.254.197.40:25461/live/david/david/1849.m3u8
-#EXTINF:-1,Crime Investigation
-http://51.254.197.40:25461/live/david/david/1850.m3u8
-#EXTINF:-1,Comedy Extra
-http://51.254.197.40:25461/live/david/david/1851.m3u8
+#EXTINF:-1,BBC1
+http://109.236.92.136:1935/live/bbc1.stream/playlist.m3u8
+#EXTINF:-1,BBC2
+http://109.236.92.136:1935/live/bbc2.stream/playlist.m3u8
+#EXTINF:-1,BBC3
+http://109.236.92.136:1935/live/bbc3.stream/playlist.m3u8
+#EXTINF:-1,BBC4
+http://109.236.92.136:1935/live/bbc4.stream/playlist.m3u8
+#EXTINF:0,NAT GEO
+http://109.236.92.136:1935/live/natgeo9.stream/playlist.m3u8
+#EXTINF:0,CW
+http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8
+#EXTINF:0,Destination America
+http://109.236.92.136:1935/live/destination.stream/playlist.m3u8
+#EXTINF:0,A&E
+http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8
+#EXTINF:0,sky 1UK
+http://109.236.92.136:1935/live/sky1.stream/playlist.m3u8
+#EXTINF:0,sky 2
+http://109.236.92.136:1935/live/sky2.stream/playlist.m3u8
+#EXTINF:0,sky atlantic
+http://109.236.92.136:1935/live/skyatlantic.stream/playlist.m3u8
+#EXTINF:0,sky movies action
+http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies drama
+http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies comedy
+http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
+#EXTINF:0,sky movies family
+http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
+#EXTINF:0,sky movies scifi
+http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
+#EXTINF:0,Sky Living
+http://109.236.92.136:1935/live/skyliving.stream/master.m3u8
+#EXTINF:0,Sky arts 1
+http://109.236.92.136:1935/live/skyarts1.stream/playlist.m3u8
+#EXTINF:0,Sky arts 2
+http://109.236.92.136:1935/live/skyarts2.stream/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,BBC 1
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/332.ts
+#EXTINF:0,BBC 2
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/333.ts
+#EXTINF:0,BBC 3
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/319.ts
+#EXTINF:0,BBC 4
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/334.ts
+#EXTINF:0,BBC Entertainment
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/323.ts
+#EXTINF:0,Sky News
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/204.ts
+#EXTINF:0,Channel 4
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1560.ts
+#EXTINF:0,Channel 5
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1561.ts
+#EXTINF:0,Dmax
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1565.ts
+#EXTINF:0,E4
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1566.ts
+#EXTINF:0,Five
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/331.ts
+#EXTINF:0,iTV 1
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/328.ts
+#EXTINF:0,iTV 2
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/329.ts
+#EXTINF:0,iTV 3
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/330.ts
+#EXTINF:0,ITV 4
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/464.ts
+#EXTINF:0,RTE One
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1569.ts
+#EXTINF:0,SyFy
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/17.ts
+#EXTINF:0,Animal Planet
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/192.ts
+#EXTINF:0,Discovery Channel
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/195.ts
+#EXTINF:0,Discovery History
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/193.ts
+#EXTINF:0,Discovery Science
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1563.ts
+#EXTINF:0,History
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1567.ts
+#EXTINF:0,Investigation Discovery
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/196.ts
+#EXTINF:0,National Geographic Channel
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/194.ts
+#EXTINF:0,National Geographic Wild
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1568.ts
+#EXTINF:0,Disney Junior
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1564.ts
+#EXTINF:0,Cartoon Network
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/359.ts
+#EXTINF:0,Nick Jr
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1581.ts
+#EXTINF:0,MTV Dance
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/349.ts
+#EXTINF:0,MTV Hits
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/347.ts
+#EXTINF:0,MTV Music
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1580.ts
+#EXTINF:0,MTV Rocks
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/348.ts
+#EXTINF:0,VH1 Classic
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/350.ts
+#EXTINF:0,Box Nation
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/458.ts
+#EXTINF:0,BT Sport 1
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/206.ts
+#EXTINF:0,BT Sport 2
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/207.ts
+#EXTINF:0,BT Sport Europe
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/988.ts
+#EXTINF:0,Chelsea TV
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1576.ts
+#EXTINF:0,Liverpool TV
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1785.ts
+#EXTINF:0,BT Sport ESPN
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/316.ts
+#EXTINF:0,Eurosport
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/985.ts
+#EXTINF:0,Eurosport 2
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/986.ts
+#EXTINF:0,Motors TV
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1579.ts
+#EXTINF:0,Premier Sports
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/313.ts
+#EXTINF:0,Setanta Sports
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1594.ts
+#EXTINF:0,Sky Sports 1 HD
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/209.ts
+#EXTINF:0,Sky Sports 2
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/210.ts
+#EXTINF:0,Sky Sports 3
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/211.ts
+#EXTINF:0,Sky Sports 4
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/212.ts
+#EXTINF:0,Sky Sports 5
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/213.ts
+#EXTINF:0,Sky Sports F1
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/214.ts
+#EXTINF:0,Sky Sport News
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1571.ts
+#EXTINF:0,Gold Channel
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/191.ts
+#EXTINF:0,Sky Art
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1570.ts
+#EXTINF:0,Sky Atlantic
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1575.ts
+#EXTINF:0,Sky Atlantic +1
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1574.ts
+#EXTINF:0,Sky Living
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/327.ts
+#EXTINF:0,Sky Movies Drama & Romance
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/565.ts
+#EXTINF:0,Sky One
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1582.ts
+#EXTINF:0,Sky Movies Action and Adventure
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/199.ts
+#EXTINF:0,Sky Movies Comedy
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/201.ts
+#EXTINF:0,Sky Movies Crime and Thriller
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/200.ts
+#EXTINF:0,Sky Movies Disney
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/1577.ts
+#EXTINF:0,Sky Movies Family
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/202.ts
+#EXTINF:0,Sky Movies Greats
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/569.ts
+#EXTINF:0,Sky Movies Premiere
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/198.ts
+#EXTINF:0,Sky Movies Sci-Fi and Horror
+http://iptv.jinbox.nl:1339/live/esadhasanovic/esadhasanovic10skype/203.ts
+
+#EXTM3U English
+#EXTINF:0, A&E HD
+http://goo.gl/X9DAx3
+#EXTINF:0, abc
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0, ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0, aerostar tv
+http://www.dailymotion.com/video/x2ghbzf
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, animalplanet
+http://luxtivi.k18.us/animalplanet.m3u8
+#EXTINF:0, Animax
+rtmp://110.5.111.166/live/mvanimaxx01
+#EXTINF:0, Ankh
+rtmp://ankhstream.com/hls/ankh
+#EXTINF:0, AP
+http://195.250.60.41:9987/udp/239.100.202.37:3001
+#EXTINF:0, Arab UK
+http://startimes.mine.nu:8080/get.php?username=startimes&password=08012016&type=m3u
+#EXTINF:0, Arab UK FR
+http://electro-tunis.biz:8000/get.php?username=6023&password=6023&type=m3u
+#EXTINF:0, Atlanta Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/235.m3u8
+#EXTINF:0, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0, BBC World
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0, bbc1
+http://www.bbc.co.uk/iplayer/tv/bbc_one_london/watchlive
+#EXTINF:0, Big playlist
+http://iptv-volkan.ddns.net:8000/get.php?username=persian.eagle&password=persian.eagle&type=m3u&output=mpegts
+#EXTINF:0, Bloomberg TV
+http://x4012c4000.edge.core-cdn.net/40000mb/live/4012hbbtv/bloomberg.ts
+#EXTINF:0, British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0, British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0, BT Sport 1
+http://luxtivi.k18.us/btsport1.m3u8
+#EXTINF:0, C TV
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+#EXTINF:0, C-SPAN
+rtmp://$OPT:rtmp-raw=rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true timeout=10
+#EXTINF:0, C-SPAN 2
+rtmp://$OPT:rtmp-raw=rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true timeout=10
+#EXTINF:0, CBEEBIES BBC Four
+rtmp://live1.gv.edge.filmon.com:8086/live/103.high.stream
+#EXTINF:0, cbs
+http://goo.gl/fNGGEU
+#EXTINF:0, CBS2
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0, CCTV News
+http://cctv.lsops.net/live/cctv_en_hls.smil/CCTV News.m3u8
+#EXTINF:0, ChelTV
+rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
+#EXTINF:0, Cinemax
+http://seenow.us/channel.php?n=z00014
+#EXTINF:0, CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:0, CNN
+rtmp://fms42.mediadirect.ro:1935/live3/_definst_?id=91480487&publisher=2&siteId=0&user_id=0&token=013e721c9ddca5059e646a5d22ed683d78950cd3e382e58a/cnn_low
+#EXTINF:0, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/5.m3u8
+#EXTINF:0, CNN Int.
+http://109.233.194.252:5556/udp/224.21.21.60:1234
+#EXTINF:0, CNN US
+http://85.25.246.141:8081/News/CNNHD/playlist.m3u8
+#EXTINF:0, Comedy Central UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?auth=test+test
+#EXTINF:0, CONSUMING FIRE RADIO
+http://212.48.88.39:8070
+#EXTINF:0, Cricket Channel Live
+http://embed.p2pcast.net/
+#EXTINF:0, CW TV
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:0, Dubai One
+http://38.99.146.36:7777/DubaiOne_HD.m3u8
+#EXTINF:0, EN
+http://newone15.ddns.net:8000/get.php?username=potatoes&password=potatoes&type=m3u
+#EXTINF:0, erfzulgaming
+http://www.twitch.tv/erfzulgaming
+#EXTINF:0, ESPN (USA)
+http://bit.do/2X22
+#EXTINF:0, ESPN UK
+http://bstream.starsplanet.org:8000/live/simona1/simona1/1589.ts
+#EXTINF:0, Euronews
+http://ca-edge-4.cdn2.streamago.tv/streamagoedge/1915/808/Euronews.m3u8
+#EXTINF:0, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0, Eurosport (EN)
+http://109.95.47.249:1919/udp/239.0.0.33:4000
+#EXTINF:0, ExYU UK
+http://portal.rapidiptv.com:8080/get.php?username=belkhirabdou1&password=belkhirabdou1&type=m3u
+#EXTINF:0, Family Guy
+http://213.254.202.17/flv/52fe9eb169566/testat123?0.8399861175566912
+#EXTINF:0, FASHION BOX
+http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+#EXTINF:0, FashionBox HD
+http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
+#EXTINF:0, FIGHTBOX
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+#EXTINF:0, FILMON
+http://www.filmon.com/index/popout?channel_id=26&quality=low
+#EXTINF:0, FILMON LIVE
+http://www.filmon.com/index/popout?channel_id=2621&quality=low
+#EXTINF:0, Fort Lauderdale TV
+mms://live.fortlauderdale.gov/live
+#EXTINF:0, fox 12 oregon
+http://new.livestream.com/accounts/6908462/events/2706967
+#EXTINF:0, FOX 5 NEW YORK NEWS
+rtmp://cp156347.live.edgefcs.net/live/WNYW_N1@27995
+#EXTINF:0, FOX Crime
+rtmp://206.190.139.28/live playpath=foxcrime600?id=9078 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/foxcrime600/1/580/460
+#EXTINF:0, Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://110.5.111.62/live/ playpath=mvstarx01 swfUrl=http://miru.akulihat.com/2/player/player.swf live=1 pageUrl=http://miru.akulihat.com/2/index2.php?id=5&title=MOVIE
+#EXTINF:0, fox movies
+http://27.254.84.3:1935/live/tdifox.stream/zgs.m3u8
+#EXTINF:0, Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live playpath=f4rfoxmovies?id=71067 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ conn=S:OK –live
+#EXTINF:0, Fox Movies
+http://38.99.146.36:7777/FoxMovies_HD.m3u8
+#EXTINF:0, Fox News
+http://50.7.69.186:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0, Fox Soccer Plus HD
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:0, FOX TV
+rtmp://$OPT:rtmp-raw=rtmp://37.220.36.8:1935/stream playpath=fox2.stream swfurl=http://www.zonytvcom.info/saki2/player/player-licensed.swf pageurl=http://zonytvcom.info/saki2/embed.php?live=fox2stream
+#EXTINF:0, FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/39.m3u8
+#EXTINF:0, Fun little movies
+rtmp://204.107.26.229:8086/live/1727.high.stream
+#EXTINF:0, Global TV (ca)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+#EXTINF:0, hbo comedy
+http://goo.gl/luvfqF
+#EXTINF:0, history
+http://84.22.33.22:8028
+#EXTINF:0, History Channel UK
+http://212.250.46.44:8085/udp/239.100.0.129:3001
+#EXTINF:0, In Goa 24x7
+rtmp://stream.mslive.in:1961/live/gub152
+#EXTINF:0, IPTV
+http://minitv.mine.nu:80/get.php?username=tablet&password=tablet&type=m3u
+#EXTINF:0, Italy Germany Playlist
+http://tvservice.broke-it.net:8000/get.php?username=banan&password=banan&type=m3u&output=mpegts
+#EXTINF:0, itv 1
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv1tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=star_pravah&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, itv 2
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv2tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, ITV 3
+http://wpc.573d.edgecastcdn.net:80/00573D/live/enc0001/a-itv3/m3u8/a-itv3-1.m3u8
+#EXTINF:0, itv 4
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv4tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=itv_4&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, ITV1
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+#EXTINF:0, ITV2
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+#EXTINF:0, ITV3
+rtmp://mi1.gv.filmon.com:8086/live/26.high.stream
+#EXTINF:0, ITV3
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+#EXTINF:0, iTV4 (UK)
+rtmp://mi1.gv.filmon.com:8086/live/101.high.stream
+#EXTINF:0, khong hieu
+http://translate.google.com.vn/#en/vi/Stream Databases for Network Measurements
+#EXTINF:0, Lifetime UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Lifetime_UK?auth=test+test
+#EXTINF:0, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0, Marina Prior - Both Sides Now (Deluxe Version) (2012)
+https://play.spotify.com/user/jaredgalczynski1/collection/album/27rX0AyoCWdvqKEQJrjKMi
+#EXTINF:0, mine
+rtmp://$OPT:rtmp-raw=rtmp://194.116.150.47/live/ playpath=visitx.stream2
+#EXTINF:0, Mix
+http://skyiptv.ddns.net:8000/get.php?username=unit1535&password=84859788&type=m3u
+#EXTINF:0, Mix
+http://iptvfull.ddns.net:3389/get.php?username=gianluca&password=gianluca&type=m3u
+#EXTINF:0, Mix
+http://iptvswarbejo.dyndns.tv:80/get.php?username=maxspeed&password=maxspeed&type=m3u
+#EXTINF:0, Mix
+http://skyiptv.ddns.net:8000/get.php?username=alb&password=alb&type=m3u
+#EXTINF:0, MiX
+http://2streamingiptv.ddns.net:18001/get.php?username=bianco2&password=bianco2&type=m3u
+#EXTINF:0, Mix
+http://cp.dmbshare.net:8000/get.php?username=cotton&password=cotton&type=m3u
+#EXTINF:0, Mix
+http://iptv333.mine.nu:8000/get.php?username=esad&password=esad&type=m3u
+#EXTINF:0, MIX M3U
+http://62.210.102.248:8000/get.php?username=volkan1&password=saturdaytest&type=m3u
+#EXTINF:0, Mix M3U
+http://portal.rapidiptv.com:8080/get.php?username=usiptv&password=Bye95WSwSR&type=m3u
+#EXTINF:0, Mix m3u
+http://iptv.ndasat.com:88/get.php?username=jacki&password=jacki&type=m3u
+#EXTINF:0, Modern Greats
+rtmp://195.154.220.115:1935/private/greats
+#EXTINF:0, More4
+rtmp://mi1.gv.filmon.com:8086/live/97.high.stream
+#EXTINF:0, Motorz
+rtmp://mi2.gv.filmon.com:8086/live/262.high.stream
+#EXTINF:0, MTV
+http://seenow.us/channel.php?n=z00028
+#EXTINF:0, NBA TV
+http://198.27.94.105/hls/nba____2.m3u8
+#EXTINF:0, nbc
+http://www.playfooty.tv/play/embed.php?u=nbc1569&vw=600&vh=430
+#EXTINF:0, NBC 4 New York
+http://portal.rapidiptv.com:8080/live/Maki/maki/8137.ts
+#EXTINF:0, NBC Golf
+http://zainiptv.zapto.org:1935/zain3/nbcgolf.stream/playlist.m3u8
+#EXTINF:0, NBC4
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0, NBP
+rtmp://edge2.tikilive.com:1935/rtmp_tikilive/36221/mainstream
+#EXTINF:0, NDTV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0, News 12 Long Island
+http://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000/playlist.m3u8
+#EXTINF:0, NHK World
+http://rm-edge-7.cdn2.streamago.tv/streamagoedge/1053/225/NHK World.m3u8
+#EXTINF:0, Nile Sat + UK
+http://tv.dyndns.tv:8000/get.php?username=francy&password=francy&type=m3u
+#EXTINF:0, Pentagon Channel
+rtmp://$OPT:rtmp-raw=rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl="http://www.pentagonchannel.mil/swf/flvPlayer.swf" pageUrl="http://www.pentagonchannel.mil/library.html" swfVfy=true live=true timeout=10
+#EXTINF:0, Pick UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK_+1?auth=test+test
+#EXTINF:0, Playlist
+http://iptv.is-very-nice.org:9705/get.php?username=satsupreme&password=cccam-server.us&type=m3u
+#EXTINF:0, playlist
+http://streamitv.dyndns.org:19001/get.php?username=ferdinando1&password=ferdinando1&type=m3u
+#EXTINF:0, playlist
+http://streamitv.dyndns.org:19001/get.php?username=taip&password=taip&type=m3u
+#EXTINF:0, playlist
+http://91.121.100.18:8000/get.php?username=majid&password=majid&type=m3u
+#EXTINF:0, playlist
+http://5.196.83.164:8000/get.php?username=flora&password=flora&type=m3u
+#EXTINF:0, playlist
+http://tvservice.broke-it.net:8000/get.php?username=je78nyICCW&password=NOJXywa8Ah&type=m3u
+#EXTINF:0, playlist
+http://galaxyiptv.zapto.org:18000/get.php?username=adonis&password=adonis&type=m3u
+#EXTINF:0, Playlist
+http://209.126.110.78:8080/get.php?username=Miguel&password=Miguel&type=m3u
+#EXTINF:0, Popcorn TV
+rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
+#EXTINF:0, Premier Sports
+http://auth.torrent-tv.ru/a/6972/bXdQYjVGZTQxbEpxUkVGOUtSQ3BwblJxaVdZU2paZTN6Z01hK1IveEsvcU02Q2JLTlErS1gzOUh0ZGpibXgxYw
+#EXTINF:0, Prime TV
+rtsp://46.249.213.93/broadcast/primetv-tablet.3gp
+#EXTINF:0, QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:0, RDS 1 (Canada)
+http://t.co/wGa8q0PDJC
+#EXTINF:0, RlIqP2TNOL
+rtmp://origin.tikilive.com/show_tikilive/36158
+#EXTINF:0, RT (English)
+rtsp://46.249.213.93/broadcast/rt-news-tablet.3gp
+#EXTINF:0, rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+#EXTINF:0, SCI
+http://goo.gl/XnxSeP
+#EXTINF:0, secuencia radio
+http:// 95.154.254.83:14209
+#EXTINF:0, set
+rtmpe://strm.ukcast.tv/redirect playpath=chhhhc5 swfUrl=http://ukcast.tv/player/player.swf
+#EXTINF:0, showtime
+http://goo.gl/diJ4x5
+#EXTINF:0, Sky #action
+http://s1.livetvindia.co.in/live/SportsTv/SffAGeatIndakkL/110.ts?.1234
+#EXTINF:0, Sky 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1?auth=test+test
+#EXTINF:0, Sky 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_2_UK?auth=test+test
+#EXTINF:0, Sky Arts
+http://37.59.16.4:1935/global/skyarts1.stream/playlist.m3u8
+#EXTINF:0, Sky Arts 2
+http://185.56.30.127:8082/TV4250
+#EXTINF:0, Sky Greats
+http://s1.livetvindia.co.in/live/SportsTv/SffAGeatIndakkL/109.ts?.1234
+#EXTINF:0, Sky Horror
+http://liveontv.k30.us/skyhorror.m3u8
+#EXTINF:0, Sky Living UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Living_UK?auth=test+test
+#EXTINF:0, Sky Movies Action
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Disney
+http://liveontv.k30.us/skymoviesdesney.m3u8
+#EXTINF:0, Sky Movies Modern Greats
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movgreats swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Premier
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movprem swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Showcase UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Showcase_HD?auth=test+test
+#EXTINF:0, Sky Movies Thriller
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movthriller swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky News
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:0, Sky News
+http://ca-edge-3.cdn2.streamago.tv/streamagoedge/34961/28964/Sky News.m3u8
+#EXTINF:0, Sky News
+rtmp://195.154.220.115:1935/private/skynews2014
+#EXTINF:0, Sky One
+http://luxtivi.k18.us/sky1.m3u8
+#EXTINF:0, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
+#EXTINF:0, Sky One UK
+rtmp://46.246.124.22:1935/private/_definst_/ playpath=skyone swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:0, Sky Sport 1
+rtmp://195.154.220.115:1935/private/sky12014
+#EXTINF:0, Sky Sport 2
+rtmp://195.154.220.115:1935/private/sky22014
+#EXTINF:0, Sky Sport 3
+rtmp://195.154.220.115:1935/private/sky32014
+#EXTINF:0, Sky Sport 4
+rtmp://195.154.220.115:1935/private/sky42014
+#EXTINF:0, Sky Sport F1
+rtmp://195.154.220.115:1935/private/skyf12014
+#EXTINF:0, Sky Sports 1
+http://127.0.0.1:6878/ace/getstream?id=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&ErolPazarcik;;;
+#EXTINF:0, Sky Sports F1
+http://luxtivi.k18.us/skyssportf1.m3u8
+#EXTINF:0, Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0, sky2
+rtmp://198.50.226.53:1935/send/_definst_/sky2
+#EXTINF:0, Skysports1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.85/live/skysports1fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:0, Skytest
+rtmp://$OPT:rtmp-raw=rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com/radio
+#EXTINF:0, Sony Channel
+rtmp://$OPT:rtmp-raw=rtmp://204.45.157.234/flash/16096 live=1 pageUrl=http://sawlive.tv/
+#EXTINF:0, Sony Movie Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK?auth=test+test
+#EXTINF:0, SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0, SYFY
+http://fw01.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:0, TBN
+rtmp://$OPT:rtmp-raw=rtmp://stream1.trinetsolutions.com/tbn/ playpath=tbnworld_high.sdp swfUrl="http://www.tbn.org/flash/tbn_player2_fullscreen.swf" pageUrl="http://www.tbn.org" timeout=10
+#EXTINF:0, TEN ACTION
+http://www.p2pcast.net/ten-action-live-stream-online.php
+#EXTINF:0, tensports
+http://192.99.24.176:8080/tensports/tensp01/index.m3u8
+#EXTINF:0, terisag
+http://viewer.dacast.com/broadcaster/1254/c/1538
+#EXTINF:0, The Office
+http://vaughnlive.tv/111aaacharkoffice
+#EXTINF:0, The Soundtrack Channel
+rtmp://204.107.26.229:8086/live/350.high.stream
+#EXTINF:0, TLC
+http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
+#EXTINF:0, TNT
+http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e721_wcif.sdp/e721_wcif.sdp-mr2548k.m3u8
+#EXTINF:0, TRAVEL CHANNEL HD
+http://fw01.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8
+#EXTINF:0, Tru TV
+http://cdn.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
+#EXTINF:0, TSN 1 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0, TSN 2 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0, TSN 3 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0, TSN 4 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0, TSN 5 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:0, TURBO
+http://103.22.181.87:1935/livetv/TURBO.stream/chengye.m3u8?uttasak,12345
+#EXTINF:0, TV MIAMI MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:0, TV MIAMI MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:0, tv2
+http://212.250.46.41:9987/udp/239.100.0.84:3001
+#EXTINF:0, TV2 Iceland
+rtmp://$OPT:rtmp-raw=rtmp://utsending.visir.is/live/ playpath=vlc.sdp swfUrl=http://visir.is/jwplayer/player59.swf pageUrl=http://visir.is/section/MEDIA99&fileid=LVE
+#EXTINF:0, tvanime24
+rtmp://50.7.78.138:443/live?l6ckHRaWJdyJCJKVpeg5zDP4Sw9CPv8T
+#EXTINF:0, UK
+http://85.25.43.84:8000/get.php?username=UhWJi6MLyr&password=j4P7LhzKVz&type=m3u
+#EXTINF:0, UK +...
+http://89.163.148.31:8000/get.php?username=cotton&password=cotton&type=m3u
+#EXTINF:0, UK Channels
+http://pies.ddns.net:8000/get.php?username=aaa&password=bbb&type=m3u
+#EXTINF:0, UK FR ES
+http://iptv-volkan.ddns.net:8000/get.php?username=Javier&password=Javier&type=m3u
+#EXTINF:0, UK Gold
+rtmp://www.vlctest.eu.pn@198.50.226.53:1935/send/ukgold
+#EXTINF:0, Universal Channel
+rtmp://$OPT:rtmp-raw=rtmp://176.36.121.6/live/LIVETV/UNIVERSAL_FL
+#EXTINF:0, Urban Music Network
+rtmp://204.107.26.230:8086/live/347.high.stream
+#EXTINF:0, US
+http://satloveriptv.com:8090/get.php?username=mexicano&password=mexciano&type=m3u
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=skypeaniptv&password=7000&type=m3u&output=hls
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=cardshareskype&password=5500&type=m3u&output=hls
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=skypeglobtv&password=NhBvtYkJfRxQzSeW&type=m3u&output=hls
+#EXTINF:0, USA
+http://62.210.248.96:11000/get.php?username=sh&password=sh&type=m3u
+#EXTINF:0, usa network
+http://www.ilive.to/view/46461/CNN-live-stream-chann
+#EXTINF:0, Various
+http://selling-team.net:8000/get.php?username=MATO&password=MATO&type=m3u
+#EXTINF:0, VERIA LIVING
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/135.m3u8
+#EXTINF:0, Vevo HD1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0, Vevo HD2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0, Vevo HD3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0, WARNER TV
+rtmp://$OPT:rtmp-raw=rtmp://206.190.140.20/live/warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/halilou/1/585/385 conn=S:OK --live
+#EXTINF:0, Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:0, WealthTV HD
+http://fw01.livem3u8.me.totiptv.com/live/ce9a1585f45d4379970b95308df3f879.m3u8
+#EXTINF:0, What America Thinks
+rtmp://204.107.26.229:8086/live/1759.high.stream
+#EXTINF:0, World
+http://top-iptv.zapto.org:8000/get.php?username=adem&password=adem&type=m3u
+#EXTINF:0, World
+http://iptv.electro-clair.net:8000/get.php?username=zizo&password=zizo&type=m3u
+#EXTINF:0, world
+http://multiuso.no-ip.org:8000/get.php?username=cagnolino&password=sullamaglia&type=m3u
+#EXTINF:0, World
+http://213.136.90.30:8000/get.php?username=christop&password=christop&type=m3u&output=mpegts
+#EXTINF:0, World
+http://tv.kitboxtv.com:8000/get.php?username=amine&password=amine&type=m3u
+#EXTINF:0, World
+http://expertmediatv.ddns.net:14440/get.php?username=Porsche&password=Porsche&type=m3u
+#EXTINF:0, World
+http://iptv333.mine.nu:8000/get.php?username=jonny&password=jonny&type=m3u
+#EXTINF:0, World 2
+http://cdn.step-tv.com:8000/get.php?username=nadal&password=nadal&type=m3u
+#EXTINF:0, World channels
+http://portal.rapidiptv.com:8080/get.php?username=VOEd6DhK4B&password=JTjLkcs5Ia&type=m3u
+#EXTINF:0, World channels
+http://iptvstream.dyndns.tv:8000/get.php?username=DavidS&password=DavidS&type=m3u
+#EXTINF:0, world iptv
+http://iptv.x200.in:8000/get.php?username=majid&password=majid&type=m3u
+#EXTINF:0, World IPTV
+http://zizo-rtmp.ddns.net:8000/get.php?username=Alexa&password=Alexa&type=m3u
+#EXTINF:0, World M3U
+http://176.31.237.228:8000/get.php?username=best55877&password=iptv4477&type=m3u
+#EXTINF:0, World M3U
+http://iptv.ndasat.com:88/get.php?username=000001&password=000001&type=m3u
+#EXTINF:0, World M3U
+http://37.187.165.95:34555/get.php?username=ago&password=ago&type=m3u
+#EXTINF:0, World M3U
+http://cp.dmbshare.net:8000/get.php?username=kris&password=kris&type=m3u
+#EXTINF:0, World mix
+http://iptvdream.dynns.com:2500/get.php?username=facebook1&password=facebook2&type=m3u
+#EXTINF:0, World of...
+rtmp://204.107.26.229:8086/live/1016.high.stream
+#EXTINF:0, WWE
+rtmp://77.50.145.30/live
+
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+
+ 
+
+#EXTINF:-1,UK : SKY Animal Planet
+
+http://iptv.x200.in:8000/live/majid/majid/796.ts
+
+#EXTINF:-1, Box Nation HD
+
+http://iptv.x200.in:8000/live/majid/majid/348.ts
+
+#EXTINF:-1, SKY SPORT NEWS
+
+http://iptv.x200.in:8000/live/majid/majid/771.ts
+
+#EXTINF:-1, DISCOVERY SHED
+
+http://iptv.x200.in:8000/live/majid/majid/772.ts
+
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+
+http://iptv.x200.in:8000/live/majid/majid/776.ts
+
+#EXTINF:-1, DISCOVERY HISTORY
+
+http://iptv.x200.in:8000/live/majid/majid/775.ts
+
+#EXTINF:-1, http://sat-master.org DISCOVERY
+
+http://iptv.x200.in:8000/live/majid/majid/769.ts
+
+#EXTINF:-1, Sky Sport 5 UK
+
+http://iptv.x200.in:8000/live/majid/majid/60.ts
+
+#EXTINF:-1, Sky Sport 4 UK
+
+http://iptv.x200.in:8000/live/majid/majid/59.ts
+
+#EXTINF:-1, Sky Sport 3 UK
+
+http://iptv.x200.in:8000/live/majid/majid/58.ts
+
+#EXTINF:-1, Sky Sport 2 UK
+
+http://iptv.x200.in:8000/live/majid/majid/57.ts
+
+#EXTINF:-1, Sky Sport 1 UK
+
+http://iptv.x200.in:8000/live/majid/majid/56.ts
+
+#EXTINF:-1,UK:Sky Sport F1 UK
+
+http://iptv.x200.in:8000/live/majid/majid/55.ts
+
+#EXTINF:-1, Sky Movies Sci-Fi & Horror
+
+http://iptv.x200.in:8000/live/majid/majid/290.ts
+
+#EXTINF:-1, Sky Movies Premiere HD
+
+http://iptv.x200.in:8000/live/majid/majid/284.ts
+
+#EXTINF:-1, Sky Movies Modern HD
+
+http://iptv.x200.in:8000/live/majid/majid/289.ts
+
+#EXTINF:-1, Sky Movies Drama HD
+
+http://iptv.x200.in:8000/live/majid/majid/286.ts
+
+#EXTINF:-1, Sky Movies Comedy HD
+
+http://iptv.x200.in:8000/live/majid/majid/285.ts
+
+#EXTINF:-1, Sky Movies Action HD
+
+http://iptv.x200.in:8000/live/majid/majid/283.ts
+
+#EXTINF:-1, SKYUK FLAVA
+
+http://iptv.x200.in:8000/live/majid/majid/292.ts
+
+#EXTINF:-1, SKYUK TV 3
+
+http://iptv.x200.in:8000/live/majid/majid/106.ts
+
+#EXTINF:-1, SKYUK Travel Channel
+
+http://iptv.x200.in:8000/live/majid/majid/107.ts
+
+#EXTINF:-1, SKYUK The Vault
+
+http://iptv.x200.in:8000/live/majid/majid/108.ts
+
+#EXTINF:-1, SKYUK At The Races
+
+http://iptv.x200.in:8000/live/majid/majid/117.ts
+
+#EXTINF:-1, SKYUK Quest
+
+http://iptv.x200.in:8000/live/majid/majid/118.ts
+
+#EXTINF:-1, SKYUK Nicktoons
+
+http://iptv.x200.in:8000/live/majid/majid/119.ts
+
+#EXTINF:-1, SKYUK Nickelodeon
+
+http://iptv.x200.in:8000/live/majid/majid/120.ts
+
+#EXTINF:-1, SKYUK MUTV
+
+http://iptv.x200.in:8000/live/majid/majid/121.ts
+
+#EXTINF:-1, SKYUK Disney XD
+
+http://iptv.x200.in:8000/live/majid/majid/131.ts
+
+#EXTINF:-1, SKYUK Colors
+
+http://iptv.x200.in:8000/live/majid/majid/133.ts
+
+#EXTINF:-1, SKYUK True Movies 2
+
+http://iptv.x200.in:8000/live/majid/majid/139.ts
+
+#EXTINF:-1, SKYUK Cartoon Network
+
+http://iptv.x200.in:8000/live/majid/majid/140.ts
+
+#EXTINF:-1, RTE Two
+
+http://iptv.x200.in:8000/live/majid/majid/103.ts
+
+#EXTINF:-1, RTE One
+
+http://iptv.x200.in:8000/live/majid/majid/102.ts
+
+#EXTINF:-1, Sky One
+
+http://iptv.x200.in:8000/live/majid/majid/98.ts
+
+#EXTINF:-1, Itv 4
+
+http://iptv.x200.in:8000/live/majid/majid/90.ts
+
+#EXTINF:-1, http://sat-master.org Itv 3
+
+http://iptv.x200.in:8000/live/majid/majid/89.ts
+
+#EXTINF:-1, Itv 2
+
+http://iptv.x200.in:8000/live/majid/majid/88.ts
+
+#EXTINF:-1, Itv
+
+http://iptv.x200.in:8000/live/majid/majid/87.ts
+
+#EXTINF:-1, BBC 4
+
+http://iptv.x200.in:8000/live/majid/majid/86.ts
+
+#EXTINF:-1, BBC 3
+
+http://iptv.x200.in:8000/live/majid/majid/85.ts
+
+#EXTINF:-1, BBC 2
+
+http://iptv.x200.in:8000/live/majid/majid/84.ts
+
+#EXTINF:-1, BBC 1
+
+http://iptv.x200.in:8000/live/majid/majid/83.ts
+
+#EXTINF:-1, SKYUK MOTORS TV
+
+http://iptv.x200.in:8000/live/majid/majid/46.ts
+
+#EXTINF:-1, SKYUK Premier Sports
+
+http://iptv.x200.in:8000/live/majid/majid/51.ts
+
+#EXTINF:-1, SKYUK Nat Geo Wild
+
+http://iptv.x200.in:8000/live/majid/majid/47.ts
+
+#EXTINF:-1, SKYUK Nat Geo
+
+http://iptv.x200.in:8000/live/majid/majid/48.ts
+
+#EXTINF:-1, SKYUK History
+
+http://iptv.x200.in:8000/live/majid/majid/50.ts
+
+#EXTINF:-1, SKYUK Food Network
+
+http://iptv.x200.in:8000/live/majid/majid/81.ts
+
+#EXTINF:-1, SKYUK Five
+
+http://iptv.x200.in:8000/live/majid/majid/52.ts
+
+#EXTINF:-1, SKYUK Film 4
+
+http://iptv.x200.in:8000/live/majid/majid/80.ts
+
+#EXTINF:-1, SKYUK Disney Junior
+
+http://iptv.x200.in:8000/live/majid/majid/73.ts
+
+#EXTINF:-1, SKYUK Disney Channel
+
+http://iptv.x200.in:8000/live/majid/majid/74.ts
+
+#EXTINF:-1, SKYUK Discovery Science
+
+http://iptv.x200.in:8000/live/majid/majid/75.ts
+
+#EXTINF:-1, SKYUK Discovery Investigation
+
+http://iptv.x200.in:8000/live/majid/majid/76.ts
+
+#EXTINF:-1, SKYUK Discovery History
+
+http://iptv.x200.in:8000/live/majid/majid/77.ts
+
+#EXTINF:-1, SKYUK Animal Planet
+
+http://iptv.x200.in:8000/live/majid/majid/79.ts
+
+#EXTINF:-1, SKYUK 5 USA
+
+http://iptv.x200.in:8000/live/majid/majid/53.ts
+
+#EXTINF:-1, SKYUK 5 STAR
+
+http://iptv.x200.in:8000/live/majid/majid/54.ts
+
+#EXTINF:-1, Sky Select UK
+
+http://iptv.x200.in:8000/live/majid/majid/64.ts
+
+#EXTINF:-1, Sky Family UK
+
+http://iptv.x200.in:8000/live/majid/majid/67.ts
+
+#EXTINF:-1, Setanta Sport
+
+http://iptv.x200.in:8000/live/majid/majid/72.ts
+
+#EXTINF:-1, BT Sport 2
+
+http://iptv.x200.in:8000/live/majid/majid/62.ts
+
+#EXTINF:-1, BT Sport 1
+
+http://iptv.x200.in:8000/live/majid/majid/61.ts
+
+#EXTINF:-1, MTV ROCKS
+
+http://iptv.x200.in:8000/live/majid/majid/869.ts
+
+#EXTINF:-1, MTV HITS
+
+http://iptv.x200.in:8000/live/majid/majid/870.ts
+
+#EXTINF:-1, MTV DANCE
+
+http://iptv.x200.in:8000/live/majid/majid/871.ts
+
+#EXTINF:-1, SKYArt 1
+
+http://iptv.x200.in:8000/live/majid/majid/795.ts
+
+#EXTINF:-1, Sky Living
+
+http://iptv.x200.in:8000/live/majid/majid/794.ts
+
+#EXTINF:-1,Thai: CTH Stadium 4 HD
+
+http://iptv.x200.in:8000/live/majid/majid/395.ts
+
+#EXTINF:-1,Thai: CTH Stadium 3 HD
+
+http://iptv.x200.in:8000/live/majid/majid/396.ts
+
+#EXTINF:-1,Thai: CTH Stadium 2 HD
+
+http://iptv.x200.in:8000/live/majid/majid/397.ts
+
+#EXTINF:-1,Thai: CTH Stadium 1 HD
+
+http://iptv.x200.in:8000/live/majid/majid/398.ts
+
+#EXTINF:-1, Channel 5
+
+http://iptv.x200.in:8000/live/majid/majid/798.ts
+
+#EXTINF:-1, Channel 4
+
+http://iptv.x200.in:8000/live/majid/majid/797.ts
+
+#EXTM3U
+ 
+ 
+#EXTINF:-0,[COLOR blue]Lista criada por Cylon721@Pt[/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-0,[COLOR red]CANAIS PORTUGUESES[/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:0,RTP1
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3465.m3u8
+#EXTINF:-0,RTP2
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3464.m3u8
+#EXTINF:-0,SIC
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3459.m3u8
+#EXTINF:-0,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:0,CMTV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3488.m3u8
+#EXTINF:0,RTP3
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3463.m3u8
+#EXTINF:0,SIC NOTICIAS
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3460.m3u8
+#EXTINF:-0,SIC CARAS
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3461.m3u8
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
+#EXTINF:0,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:0,MOTORES TV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3474.m3u8
+#EXTINF:0,DISNEY JUNIOR
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3484.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3485.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3491.m3u8
+#EXTINF:0,PANDA
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3468.m3u8
+#EXTINF:0,NICLELODEON
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3470.m3u8
+#EXTINF:0,BABY TV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3497.m3u8
+#EXTINF:0,ODISSEIA
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3469.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3471.m3u8
+#EXTINF:0,HISTORIA
+http://185.26.175.200:5000/udp/239.200.1.20:10000
+#EXTINF:0,DISCOVERY CHANNEL
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3487.m3u8
+#EXTINF:0,NAT GEO WILD
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3472.m3u8
+#EXTINF:0,DISCOVERY SHOWCASE
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3486.m3u8
+#EXTINF:0,FOX
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3480.m3u8
+#EXTINF:0,FOX CRIME
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3479.m3u8
+#EXTINF:0,FOX LIFE
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3478.m3u8
+#EXTINF:0,FOX MOVIES
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3477.m3u8
+#EXTINF:0,FOX NEWS
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
+#EXTINF:0,AXN
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3498.m3u8
+#EXTINF:0,SYFY
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3451.m3u8
+#EXTINF:0,CINEMUNDO
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3489.m3u8
+#EXTINF:0,HOLLYWOOD
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3475.m3u8
+#EXTINF:0,MOV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3473.m3u8
+#EXTINF:0,TVCINE 1
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3449.m3u8
+#EXTINF:0,TVCINE 2
+hhttp://cp.dmbshare.net:8000/live/cengiz/cengiz/3448.m3u8
+#EXTINF:0,TVCINE 3
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3447.m3u8
+#EXTINF:0,TVCINE 4
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3446.m3u8
+#EXTINF:0,TVCINE SERIES
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3444.m3u8
+#EXTINF:0, CACA E PESCA
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3494.m3u8
+#EXTINF:0, TOROS TV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3450.m3u8
+ 
+#EXTINF:-0,[COLOR red]CANAIS DESPORTO[/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:0,SPORT TV1
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3457.m3u8
+#EXTINF:0,SPORT TV1 [COLOR red]       link alternativo[/COLOR]
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:0,SPORT TV2
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3456.m3u8
+#EXTINF:0,SPORT TV3
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3458.m3u8
+#EXTINF:0,SPORT TV4
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3455.m3u8
+#EXTINF:0,SPORT TV5
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3454.m3u8
+#EXTINF:0,SPORT TV3/BENFICA TV
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:0,SPORTV AMERICAS
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3453.m3u8
+#EXTINF:0,BENFICA TV1
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
+#EXTINF:0,BENFICA TV 2
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3495.m3u8
+#EXTINF:0,TELEKANAL (RUS)
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:0,SPORTING TV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
+#EXTINF:0,PORTO CANAL
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3467.m3u8
+#EXTINF:0,REAL MADRID
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3466.m3u8
+#EXTINF:0,EUROSPORT
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3482.m3u8
+ 
+#EXTINF:-0,[COLOR red]CANAIS ESPANHOIS[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,TVE 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1,TVE 2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:-1,TV GALICIA
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:-1,LA SEXTA
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1,RUSSIA TODAY
+http://api.iptv.ink/pl.m3u8?ch=84555053
+#EXTINF:-1,CUATRO
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
+#EXTINF:-1,ANDALUCIA
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
+#EXTINF:-1,TV MARBELLA
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,HUELVA COSTA
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1,ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
+#EXTINF:-1,CANAL 10
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,INFORMACION TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
+#EXTINF:-1,TELE ANTILLHAS
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
+#EXTINF:-1,ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,PX
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN + HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,PX HD
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox NatGeo HD
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Sony
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,A&E HD
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
 #EXTINF:-1,Comedy Central
-http://51.254.197.40:25461/live/david/david/1852.m3u8
-#EXTINF:-1,Channel 5 UK
-http://51.254.197.40:25461/live/david/david/1853.m3u8
-#EXTINF:-1,Channel 4 UK
-http://51.254.197.40:25461/live/david/david/1855.m3u8
-#EXTINF:-1,Channel 4 HD
-http://51.254.197.40:25461/live/david/david/1856.m3u8
-#EXTINF:-1,Challenge
-http://51.254.197.40:25461/live/david/david/1857.m3u8
-#EXTINF:-1,CBS Reality 1 UK
-http://51.254.197.40:25461/live/david/david/1858.m3u8
-#EXTINF:-1,CBS Drama
-http://51.254.197.40:25461/live/david/david/1859.m3u8
-#EXTINF:-1,CBS Action
-http://51.254.197.40:25461/live/david/david/1860.m3u8
-#EXTINF:-1,CBeebies
-http://51.254.197.40:25461/live/david/david/1766.m3u8
-#EXTINF:-1,CBBC
-http://51.254.197.40:25461/live/david/david/1767.m3u8
-#EXTINF:-1,Cartoonito
-http://51.254.197.40:25461/live/david/david/1768.m3u8
-#EXTINF:-1,Cartoon Network UK
-http://51.254.197.40:25461/live/david/david/1769.m3u8
-#EXTINF:-1,BT Sports Extra 1
-http://51.254.197.40:25461/live/david/david/1701.m3u8
-#EXTINF:-1,BT SPORTS EUROPE HD
-http://51.254.197.40:25461/live/david/david/1702.m3u8
-#EXTINF:-1,BT SPORTS 2 HD
-http://51.254.197.40:25461/live/david/david/1757.m3u8
-#EXTINF:-1,BT SPORTS 1 HD
-http://51.254.197.40:25461/live/david/david/1758.m3u8
-#EXTINF:-1,BT Sport EUROPE
-http://51.254.197.40:25461/live/david/david/1703.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://51.254.197.40:25461/live/david/david/1704.m3u8
-#EXTINF:-1,BT Sport 2
-http://51.254.197.40:25461/live/david/david/1705.m3u8
-#EXTINF:-1,BT Sport 1
-http://51.254.197.40:25461/live/david/david/1706.m3u8
-#EXTINF:-1,British Eurosport2
-http://51.254.197.40:25461/live/david/david/1707.m3u8
-#EXTINF:-1,British Eurosport
-http://51.254.197.40:25461/live/david/david/1708.m3u8
-#EXTINF:-1,BeIN Sport 9 HD
-http://51.254.197.40:25461/live/david/david/1715.m3u8
-#EXTINF:-1,BEIN SPORT 8 HD
-http://51.254.197.40:25461/live/david/david/1716.m3u8
-#EXTINF:-1,BEIN SPORT 7 HDa
-http://51.254.197.40:25461/live/david/david/1717.m3u8
-#EXTINF:-1,BEIN SPORT 6 HD
-http://51.254.197.40:25461/live/david/david/1718.m3u8
-#EXTINF:-1,BEIN SPORT 4 HD
-http://51.254.197.40:25461/live/david/david/1720.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD
-http://51.254.197.40:25461/live/david/david/1721.m3u8
-#EXTINF:-1,BEIN SPORT 2 HD
-http://51.254.197.40:25461/live/david/david/1722.m3u8
-#EXTINF:-1,BEIN SPORT 15 HD
-http://51.254.197.40:25461/live/david/david/1723.m3u8
-#EXTINF:-1,BEIN SPORT 13 HD
-http://51.254.197.40:25461/live/david/david/1725.m3u8
-#EXTINF:-1,BEIN SPORT 11 HD
-http://51.254.197.40:25461/live/david/david/1727.m3u8
-#EXTINF:-1,BEIN SPORT 10 HD
-http://51.254.197.40:25461/live/david/david/1728.m3u8
-#EXTINF:-1,BEIN SPORT 1 HD
-http://51.254.197.40:25461/live/david/david/1729.m3u8
-#EXTINF:-1,BBC Two UK
-http://51.254.197.40:25461/live/david/david/1861.m3u8
-#EXTINF:-1,BBC Two Scotland
-http://51.254.197.40:25461/live/david/david/1862.m3u8
-#EXTINF:-1,BBC Two HD
-http://51.254.197.40:25461/live/david/david/1863.m3u8
-#EXTINF:-1,BBC Three HD
-http://51.254.197.40:25461/live/david/david/1864.m3u8
-#EXTINF:-1,BBC One London
-http://51.254.197.40:25461/live/david/david/1869.m3u8
-#EXTINF:-1,BBC One HD
-http://51.254.197.40:25461/live/david/david/1870.m3u8
-#EXTINF:-1,BBC News UK
-http://51.254.197.40:25461/live/david/david/1782.m3u8
-#EXTINF:-1,Al Jazeera News English
-http://51.254.197.40:25461/live/david/david/1783.m3u8
-#EXTINF:-1,ABC News
-http://51.254.197.40:25461/live/david/david/1784.m3u8
-#EXTINF:-1,UK: Box Nation
-http://51.254.197.40:25461/live/david/david/712.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://51.254.197.40:25461/live/david/david/240.m3u8
-#EXTINF:-1,ek on kar
-http://51.254.197.40:25461/live/david/david/1485.m3u8
-#EXTINF:-1,Bloomberg TV INDIA
-http://51.254.197.40:25461/live/david/david/830.m3u8
-#EXTINF:-1,Bernama TV
-http://51.254.197.40:25461/live/david/david/828.m3u8
-#EXTINF:-1,ABP asmita gujarati
-http://51.254.197.40:25461/live/david/david/825.m3u8
-#EXTINF:-1,IN: & Picture HD
-http://51.254.197.40:25461/live/david/david/8798.m3u8
-#EXTINF:-1,IN: &TV HD
-http://51.254.197.40:25461/live/david/david/8799.m3u8
-#EXTINF:-1,IN: Sony Six
-http://51.254.197.40:25461/live/david/david/8803.m3u8
-#EXTINF:-1,IN: TEN 1 HD
-http://51.254.197.40:25461/live/david/david/8800.m3u8
-#EXTINF:-1,IN: TEN ACTION
-http://51.254.197.40:25461/live/david/david/8806.m3u8
-#EXTINF:-1,IN: TEN Golf HD
-http://51.254.197.40:25461/live/david/david/8801.m3u8
-#EXTINF:-1,IN: TEN SPORTS
-http://51.254.197.40:25461/live/david/david/8807.m3u8
-#EXTINF:-1,IN: Zee BollyWood HD
-http://51.254.197.40:25461/live/david/david/8796.m3u8
-#EXTINF:-1,IN: Zee TV SD
-http://51.254.197.40:25461/live/david/david/8805.m3u8
-#EXTINF:-1,IN:Zee Tv HD
-http://51.254.197.40:25461/live/david/david/8797.m3u8
-#EXTINF:-1,BBC Four UK
-http://51.254.197.40:25461/live/david/david/9122.m3u8
-#EXTINF:-1,BBC one red button
-http://51.254.197.40:25461/live/david/david/9121.m3u8
-#EXTINF:-1,DisneyChnl
-http://51.254.197.40:25461/live/david/david/9119.m3u8
-#EXTINF:-1,Heart TV UK
-http://51.254.197.40:25461/live/david/david/9120.m3u8
-#EXTINF:-1,UK : SKY SPORTS BOX OFFICE PPV
-http://51.254.197.40:25461/live/david/david/8965.m3u8
-#EXTINF:-1, Heer Ranjha Full Movie With Arabic Subtitles
-http://51.254.197.40:25461/movie/david/david/9221.mp4
-#EXTINF:-1, Hero Full Movie With Arabic Subtitles
-http://51.254.197.40:25461/movie/david/david/9222.mp4
-#EXTINF:-1,1920 London (2016) 576p x276 DesiSCR - DDR
-http://51.254.197.40:25461/movie/david/david/9334.mp4
-#EXTINF:-1,3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9223.mp4
-#EXTINF:-1,3D.Safari.Africa.2011.720p.BluRay.H264.AAC-RARBG
-http://51.254.197.40:25461/movie/david/david/9352.mp4
-#EXTINF:-1,Aadmi _ Full Hindi Movie _ Mithun Chakraborty, Gauthami _ HD(1)
-http://51.254.197.40:25461/movie/david/david/9224.mp4
-#EXTINF:-1,Aan_ Men at Work _ Full Movie _ Akshay Kumar, Sunil Shetty, Lara Dutta _ HD 1080p
-http://51.254.197.40:25461/movie/david/david/9225.mp4
-#EXTINF:-1,Ab Tak Chhappan 2 (2015) Hindi - 720p HDRiP - 999MB - Zaeem
-http://51.254.197.40:25461/movie/david/david/9226.mp4
-#EXTINF:-1,Ae Dil Hai Muskil (2016) 1CD DesiScr x264 M2Tv
-http://51.254.197.40:25461/movie/david/david/9336.mp4
-#EXTINF:-1,Agneepath 1990 DVDRip XviD E-SuB xRG
-http://51.254.197.40:25461/movie/david/david/9227.mp4
-#EXTINF:-1,Agneepath 2012 Hindi 720p BRRip CharmeLeon Silver RG
-http://51.254.197.40:25461/movie/david/david/9228.mp4
-#EXTINF:-1,Awara Paagal Deewana full movie with ENG subtitles - Akshay Kumar
-http://51.254.197.40:25461/movie/david/david/9230.mp4
-#EXTINF:-1,Azaan (2011) - DvDrip - XviD - ESub - DDR
-http://51.254.197.40:25461/movie/david/david/9231.mp4
-#EXTINF:-1,Azhar.2016.720p.DVDRip.x264_SaberFun.CO
-http://51.254.197.40:25461/movie/david/david/9232.mp4
-#EXTINF:-1,Azhar.2016.Hindi.1080p.BluRay.6CH.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9233.mp4
-#EXTINF:-1,Baaghi.2016.BluRay.720p.1.2GB.x264_MeliMedia.INFO
-http://51.254.197.40:25461/movie/david/david/9234.mp4
-#EXTINF:-1,Baby (2015) Hindi 720p BluRay x264 AAC 5.1 E-Sub - Telly Star
-http://51.254.197.40:25461/movie/david/david/9235.mp4
-#EXTINF:-1,Baghban.2003 Hindi Full Movie Blu Ray 720p
-http://51.254.197.40:25461/movie/david/david/9236.mp4
-#EXTINF:-1,Bajirao.Mastani.2015.720p.BluRay.x264.Hindi.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9237.mp4
-#EXTINF:-1,Bajrangi.Bhaijaan.2015.720p.BRRip.x264.Hindi.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9238.mp4
-#EXTINF:-1,Bang Bang (2014) DTHrip x264 [DDR]
-http://51.254.197.40:25461/movie/david/david/9239.mp4
-#EXTINF:-1,Banjo.2016.720p.Untouched.HDTV.x264.AAC-DDR
-http://51.254.197.40:25461/movie/david/david/9337.mp4
-#EXTINF:-1,Batman v Superman Dawn of Justice 2016 3D THEATRICAL 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9354.mp4
-#EXTINF:-1,Beauty.And.The.Beast.1991.3D.1080p.BRRip.Half-OU.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9355.mp4
-#EXTINF:-1,Beta
-http://51.254.197.40:25461/movie/david/david/9240.mp4
-#EXTINF:-1,Beyond.The.Mask.2015.1080p.6CH.x265.HEVC_MeliMedia.INFO
-http://51.254.197.40:25461/movie/david/david/9356.mp4
-#EXTINF:-1,Bhaiya Ji Big Brother (2016) _ Sunny Deol _ Priyanka Chopra _ Danny _ Farida Jalal _ Full HD Movie
-http://51.254.197.40:25461/movie/david/david/9241.mp4
-#EXTINF:-1,Bhaiya Ji Big Brother Movie
-http://51.254.197.40:25461/movie/david/david/9242.mp4
-#EXTINF:-1,Big Brother (2007) _ Sunny Deol _ Priyanka Chopra _ Danny Denzongpa _ Full HD Movie
-http://51.254.197.40:25461/movie/david/david/9243.mp4
-#EXTINF:-1,Bol Bachchan 2012 Hindi 720p BRRip x264 AAC 5.1...Hon3y.mkv
-http://51.254.197.40:25461/movie/david/david/9244.mp4
-#EXTINF:-1,Boy.And.The.World.2013.BluRay.1080p_MeliMedia.INFO
-http://51.254.197.40:25461/movie/david/david/9357.mp4
-#EXTINF:-1,Businessman No.1 (2016) South Dubbed Hindi Movies 2016 Full Movie HD _ Mahesh Babu _ Kajal Aggarwal
-http://51.254.197.40:25461/movie/david/david/9245.mp4
-#EXTINF:-1,Captain.America.Civil.War.2016.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9358.mp4
-#EXTINF:-1,Chennai Express 2013 720p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9246.mp4
-#EXTINF:-1,Clinger.2015.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9359.mp4
-#EXTINF:-1,Coolie movie
-http://51.254.197.40:25461/movie/david/david/9247.mp4
-#EXTINF:-1,Criminal (2016) 720p Blu-ray x264 AAC 5.1 Hindi ESub -DDR
-http://51.254.197.40:25461/movie/david/david/9248.mp4
-#EXTINF:-1,Dabangg 2 2012 Hindi 720p Dvdrip x264...Hon3y
-http://51.254.197.40:25461/movie/david/david/9249.mp4
-#EXTINF:-1,Dabangg 2010 720p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9250.mp4
-#EXTINF:-1,Dabangg 3 _ Jigar Kaleja _ 2016 _ Hindi Dubbed From Telugu _ Mahesh Babu _Anushka Shetty _
-http://51.254.197.40:25461/movie/david/david/9251.mp4
-#EXTINF:-1,Dayavan 1988 Full Hindi Movie _ Vinod Khanna, Madhuri Dixit, Feroz Khan, Aditya Pancholi
-http://51.254.197.40:25461/movie/david/david/9252.mp4
-#EXTINF:-1,Deadpool.2016.720p.HC.HDRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9360.mp4
-#EXTINF:-1,Dear.God.No!.2011.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9361.mp4
-#EXTINF:-1,Dhadkan (2000) Full Movie _ Akshay Kumar, Shilpa Shetty, Suniel Shetty, Mahima Chaudhry
-http://51.254.197.40:25461/movie/david/david/9253.mp4
-#EXTINF:-1,Dil Se Full Movie _ Hindi Movies Full Movie _ Shahrukh Khan Movies _ Latest Bollywood Movies
-http://51.254.197.40:25461/movie/david/david/9254.mp4
-#EXTINF:-1,Dil Toh Baccha Hai Ji (2010) - Superhit Comedy Movie - Ajay Devgan _ Emraan Hashmi _ Shruti Hassan
-http://51.254.197.40:25461/movie/david/david/9255.mp4
-#EXTINF:-1,Dil.Dhadakne.Do.2015.Hindi.720p.BluRay.x265.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9256.mp4
-#EXTINF:-1,Dilwale.2015.720p.BD.hevc.ddex-DDR
-http://51.254.197.40:25461/movie/david/david/9257.mp4
-#EXTINF:-1,Dishoom.2016.Hindi.720p.DESISCR.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9258.mp4
-#EXTINF:-1,Dishoom.2016.Hindi.720p.HDRiP.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9338.mp4
-#EXTINF:-1,Don {HD} - Amitabh Bachchan - Zeenat Aman - Pran - Helen - Superhit Old Hindi Movie
-http://51.254.197.40:25461/movie/david/david/9259.mp4
-#EXTINF:-1,Dongri Ka Raja (2016) Hindi [1CD] Pre DvDRip x264 AC3 MAXPRO
-http://51.254.197.40:25461/movie/david/david/9339.mp4
-#EXTINF:-1,Dostana (2008) www.khatrimaza.org 720p BluRay
-http://51.254.197.40:25461/movie/david/david/9260.mp4
-#EXTINF:-1,Dum Laga Ke Haisha 2015 720p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9261.mp4
-#EXTINF:-1,Ek Rishtaa {HD} - Amitabh Bachchan - Akshay Kumar - Karisma Kapoor - Juhi Chawla - Hindi Full Movie(1)
-http://51.254.197.40:25461/movie/david/david/9262.mp4
-#EXTINF:-1,Ek Villain 2014 1080p BluRay x264 AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9263.mp4
-#EXTINF:-1,Entertainment 2014 Full Movie - comedy movies full length english hollywood - best comedy movies
-http://51.254.197.40:25461/movie/david/david/9264.mp4
-#EXTINF:-1,Ex.Machina.2015.1080p.BluRay.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9362.mp4
-#EXTINF:-1,FAN 2016 Hindi DvDScr (No WaterMarks) x264 AAC - Hon3y
-http://51.254.197.40:25461/movie/david/david/9265.mp4
-#EXTINF:-1,Fan.2016.Hindi.720p.BluRay.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9340.mp4
-#EXTINF:-1,Force 2 (2016) 720p - DesiSCR - x264 - AC3 - [DDR]
-http://51.254.197.40:25461/movie/david/david/9342.mp4
-#EXTINF:-1,Gabbar is Back (2015) Hindi 1080p BluRay 6CH - [KIKS]
-http://51.254.197.40:25461/movie/david/david/9266.mp4
-#EXTINF:-1,Ghatak (1996) Full Movie _ Sunny Deol, Meenakshi, Amrish Puri, Mamta Kulkarni
-http://51.254.197.40:25461/movie/david/david/9267.mp4
-#EXTINF:-1,Ghayal Once Again Full Movie _ Hindi Movies 2016 Full Movie _ Sunny Deol Movies _ Bollywood Movies
-http://51.254.197.40:25461/movie/david/david/9268.mp4
-#EXTINF:-1,Gods Of Egypt 2016 BluRay 1080p x264 Dual Audio [English Hindi(Cleaned)]...Hon3y
-http://51.254.197.40:25461/movie/david/david/9269.mp4
-#EXTINF:-1,Gunday.2014.720p.BluRay.x264.ShAaNiG.com
-http://51.254.197.40:25461/movie/david/david/9270.mp4
-#EXTINF:-1,Happy Bhaag Jayegi (2016) 720p DesiSCR Rip - x264 AC3 5.1 - DUS 8th Anniversary
-http://51.254.197.40:25461/movie/david/david/9271.mp4
-#EXTINF:-1,Happy Bhag Jayegi (2016) DesiScr 1CDRIP x264 AAC [DDR]
-http://51.254.197.40:25461/movie/david/david/9272.mp4
-#EXTINF:-1,Happy New Year 2014 720p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9273.mp4
-#EXTINF:-1,Hero.2015.720..WEBRip.x264.Hindi.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9274.mp4
-#EXTINF:-1,Heropanti (2014) Hindi 720p HDRip x264 AAC - Downloadhub
-http://51.254.197.40:25461/movie/david/david/9275.mp4
-#EXTINF:-1,Housefull.3.2016.Hindi.720p.DVDRiP.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9277.mp4
-#EXTINF:-1,I Hate Luv Storys (2010) 720p - BluRay - x264 - SyED
-http://51.254.197.40:25461/movie/david/david/9278.mp4
-#EXTINF:-1,I Love NY (2015) - DVDRiP - 1xCD - x264 - AAC - ESubs - Chapters - [DDR]
-http://51.254.197.40:25461/movie/david/david/9279.mp4
-#EXTINF:-1,Inside.Out.2015.1080p.BluRay.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9363.mp4
-#EXTINF:-1,Jab Tak Hai Jaan 2012 720p BluRay x264 Hindi AAC - Ozlem
-http://51.254.197.40:25461/movie/david/david/9281.mp4
-#EXTINF:-1,JAI HO FULL HD MOVIE
-http://51.254.197.40:25461/movie/david/david/9280.mp4
-#EXTINF:-1,Jamai Raja {HD} - Anil Kapoor - Madhuri Dixit - Hema Malini - Satish Kaushik - Hindi Full Movie
-http://51.254.197.40:25461/movie/david/david/9282.mp4
-#EXTINF:-1,Junooniyat (2016) 720p HEVC DvDRip AAC 5.1 Esub -DDR
-http://51.254.197.40:25461/movie/david/david/9283.mp4
-#EXTINF:-1,Kaalia
-http://51.254.197.40:25461/movie/david/david/9284.mp4
-#EXTINF:-1,Karma
-http://51.254.197.40:25461/movie/david/david/9285.mp4
-#EXTINF:-1,Khiladiyon Ka Khiladi _ Hindi Full Movie _ Akshay Kumar Movies _ Bollywood Action Movies
-http://51.254.197.40:25461/movie/david/david/9286.mp4
-#EXTINF:-1,Kick movie
-http://51.254.197.40:25461/movie/david/david/9287.mp4
-#EXTINF:-1,King of Kings (1961)
-http://51.254.197.40:25461/movie/david/david/9365.mp4
-#EXTINF:-1,Kingsman.The.Secret.Service.2014.720p.BluRay.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9366.mp4
-#EXTINF:-1,Kismat _ Hindi Movies Full Movie _ Bobby Deol _ Priyanka Chopra Movies _ Latest Bollywood Movies
-http://51.254.197.40:25461/movie/david/david/9288.mp4
-#EXTINF:-1,Kites 2010 Hindi 720p BluRay x264 AC3 MAXPRO
-http://51.254.197.40:25461/movie/david/david/9289.mp4
-#EXTINF:-1,KngKng.2005.Extended.BRRipdd
-http://51.254.197.40:25461/movie/david/david/9364.mp4
-#EXTINF:-1,Lagaan 2001 Hindi 720p DvDRip CharmeLeon Silver RG
-http://51.254.197.40:25461/movie/david/david/9290.mp4
-#EXTINF:-1,Loha
-http://51.254.197.40:25461/movie/david/david/9291.mp4
-#EXTINF:-1,London Has Fallen 2016 720p BluRay x264 [Dual Audio][Hindi(Cleaned)][English]...Hon3y
-http://51.254.197.40:25461/movie/david/david/9367.mp4
-#EXTINF:-1,Love.and.Friendship.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9368.mp4
-#EXTINF:-1,M.S Dhoni - The Untold Story (2016) DesiSCR 1GBRIP x264 AAC [DDR]
-http://51.254.197.40:25461/movie/david/david/9343.mp4
-#EXTINF:-1,Madaari.2016.Hindi.1080p.BluRay.6CH.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9345.mp4
-#EXTINF:-1,Mahaan {HD} - Amitabh Bachchan - Waheeda Rehman - Parveen Babi - Zeenat Aman - Hindi Full Movie
-http://51.254.197.40:25461/movie/david/david/9293.mp4
-#EXTINF:-1,Mardaani 2014 Hindi 720p DvDRip x264 AAC...Hon3y
-http://51.254.197.40:25461/movie/david/david/9294.mp4
-#EXTINF:-1,Mela (2000) Full Movie _ Aamir Khan, Aishwarya Rai, Twinkle Khanna, Faisal Khan
-http://51.254.197.40:25461/movie/david/david/9295.mp4
-#EXTINF:-1,Mohenjo Daro (2016) Desi Scr Rip - X264 - [13] - AC 3 5.1 (Upmix) - Team IcTv
-http://51.254.197.40:25461/movie/david/david/9346.mp4
-#EXTINF:-1,Mohenjo Daro {2016} 720p DVDScr x264 AC3 {Team DUS} - jnmjy
-http://51.254.197.40:25461/movie/david/david/9296.mp4
-#EXTINF:-1,Money.Monster.2016.BRRip.XviD-ETRG
-http://51.254.197.40:25461/movie/david/david/9370.mp4
-#EXTINF:-1,Morris.from.America.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9371.mp4
-#EXTINF:-1,Mr. Nobody (2009).ita.eng.sub.ita.iCV-MIRCrew
-http://51.254.197.40:25461/movie/david/david/9386.mp4
-#EXTINF:-1,Muqadar Ka Sikandar Full HD Bollywood Movie _ Amitabh Bachchan _ Vinod Khanna
-http://51.254.197.40:25461/movie/david/david/9297.mp4
-#EXTINF:-1,Namak Halaal {HD} - Amitabh Bachchan - Shashi Kapoor - Smita Patil - Parveen Babi - Old Hindi Films
-http://51.254.197.40:25461/movie/david/david/9298.mp4
-#EXTINF:-1,Nannaku Prematho 720p Hindi
-http://51.254.197.40:25461/movie/david/david/9347.mp4
-#EXTINF:-1,Phantom movie
-http://51.254.197.40:25461/movie/david/david/9300.mp4
-#EXTINF:-1,Pink (2016) Bluray 720p mHD x264 AAC 5.1 ESub [DDR]
-http://51.254.197.40:25461/movie/david/david/9348.mp4
-#EXTINF:-1,Pink Hindi Movies 2016 DVDscr x264-[HQim.in]
-http://51.254.197.40:25461/movie/david/david/9301.mp4
-#EXTINF:-1,PK (2014) 1080p 5.1ch BRRip AAC x264 - [GeekRG]
-http://51.254.197.40:25461/movie/david/david/9299.mp4
-#EXTINF:-1,Pray.For.Death.1985.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9372.mp4
-#EXTINF:-1,Prem.Ratan.Dhan.Payo.2015.Hindi.720p.BluRay.x265.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9302.mp4
-#EXTINF:-1,Pukar {HD} - Amitabh Bachchan - Zeenat Aman - Randhir Kapoor - Tina Munim - Old Hindi Movie
-http://51.254.197.40:25461/movie/david/david/9303.mp4
-#EXTINF:-1,Raaz Reboot Hindi Movies 2016 DVDscr x264-[HQim.in]
-http://51.254.197.40:25461/movie/david/david/9304.mp4
-#EXTINF:-1,Ram Lakhan
-http://51.254.197.40:25461/movie/david/david/9305.mp4
-#EXTINF:-1,Real Tevar (Srimanthudu) Hindi Dubbed DTHRip X264 - Downloadhub
-http://51.254.197.40:25461/movie/david/david/9306.mp4
-#EXTINF:-1,Rowdy Rathore _ Full HD Hindi Movie _ Akshay Kumar _ Sonakshi Sinha
-http://51.254.197.40:25461/movie/david/david/9307.mp4
-#EXTINF:-1,Rustom (2016) 720p DesiSCR Rip - x264 AC3 5.1 - DUS 8th Anniversary
-http://51.254.197.40:25461/movie/david/david/9308.mp4
-#EXTINF:-1,Rustom (2016) Bluray 720p mHD x264 AAC ESub [DDR]
-http://51.254.197.40:25461/movie/david/david/9349.mp4
-#EXTINF:-1,Rustom.2016.Hindi.720p.DVDSCR.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9309.mp4
-#EXTINF:-1,Sarkar movie
-http://51.254.197.40:25461/movie/david/david/9310.mp4
-#EXTINF:-1,Satte Pe Satta {HD} Hindi Comedy Movie - Amitabh Bachchan - Hema Malini
-http://51.254.197.40:25461/movie/david/david/9311.mp4
-#EXTINF:-1,Shahenshah {HD} - Amitabh Bachchan - Amrish Puri - Meenakshi Seshadri - Superhit Hindi Movie
-http://51.254.197.40:25461/movie/david/david/9312.mp4
-#EXTINF:-1,Sholay 1975 Hindi 1080p HDRip x264 AC3 2.0 ESub-Masti
-http://51.254.197.40:25461/movie/david/david/9313.mp4
-#EXTINF:-1,Singh is Kinng
-http://51.254.197.40:25461/movie/david/david/9314.mp4
-#EXTINF:-1,Singh.is.Bliing.2015.Hindi.720p.DVDRiP.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9315.mp4
-#EXTINF:-1,Singham Returns (2014) 720p - BluRay - x264 - SyED
-http://51.254.197.40:25461/movie/david/david/9316.mp4
-#EXTINF:-1,Sooryavansham - Blockbuster Hindi Film _ Amitabh Bachchan _ Soundarya _ Anupam Kher
-http://51.254.197.40:25461/movie/david/david/9317.mp4
-#EXTINF:-1,Space.Junk.3D.2012.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9374.mp4
-#EXTINF:-1,Street.Dance.2010.720p.BluRay.H264.AAC-RARBG
-http://51.254.197.40:25461/movie/david/david/9375.mp4
-#EXTINF:-1,Sultan.2016.720p.BluRay.x264.Hindi.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9318.mp4
-#EXTINF:-1,SWAT.Unit.887.2015.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9373.mp4
-#EXTINF:-1,Talvar.2015.Hindi.720p.BluRay.x265.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9319.mp4
-#EXTINF:-1,Te3n (2016) Desi-PDVDRIP 1CDRIP x264 AAC [DDR]
-http://51.254.197.40:25461/movie/david/david/9320.mp4
-#EXTINF:-1,Tera Surroor (2016) Desi Scr Rip - XviD - [1CD] - Team IcTv Exclusive
-http://51.254.197.40:25461/movie/david/david/9321.mp4
-#EXTINF:-1,The Conjuring 2 HD-TS
-http://51.254.197.40:25461/movie/david/david/9376.mp4
-#EXTINF:-1,The Finest Hours 2016 1080p 3D BluRay Half-OU x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9377.mp4
-#EXTINF:-1,The Hero _ Hindi Full Movie _ Sunny Deol Movies _ Priyanka Chopra _ Bollywood Action Movies
-http://51.254.197.40:25461/movie/david/david/9322.mp4
-#EXTINF:-1,The Host (2013)H264.ita.eng.sub.ita.iCV-MIRCrew
-http://51.254.197.40:25461/movie/david/david/9387.mp4
-#EXTINF:-1,The Jungle Book (2016) 720p HDRip Dual Audio (Hindi cleaned - English) MSU
-http://51.254.197.40:25461/movie/david/david/9323.mp4
-#EXTINF:-1,The Martian - 2015 3D+2D
-http://51.254.197.40:25461/movie/david/david/9379.mp4
-#EXTINF:-1,The.Hollow.2015.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9378.mp4
-#EXTINF:-1,The.Legend.of.Tarzan.2016.1080p.WEB-DL.Rus.Eng.HDCLUB[EtHD]
-http://51.254.197.40:25461/movie/david/david/9324.mp4
-#EXTINF:-1,The.Meddler.2015.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9380.mp4
-#EXTINF:-1,The.Ten.Commandments.1956.720p.BrRip.x264.BOKUTOX.YIFY
-http://51.254.197.40:25461/movie/david/david/9381.mp4
-#EXTINF:-1,Tiny.Giants.2014.1080p.BluRay.H264.AAC-RARBG
-http://51.254.197.40:25461/movie/david/david/9382.mp4
-#EXTINF:-1,titanic.1997.720p.bluray.x264-nezu
-http://51.254.197.40:25461/movie/david/david/9388.mp4
-#EXTINF:-1,Tum.Bin.2.2016.Hindi.DESISCR.800MB.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9350.mp4
-#EXTINF:-1,Udta Punjab 2016 Hindi 1080p BluRay x264 DTS - LOKI - M2Tv
-http://51.254.197.40:25461/movie/david/david/9325.mp4
-#EXTINF:-1,Wanted Hindi Salman Khan Superhit Movie
-http://51.254.197.40:25461/movie/david/david/9326.mp4
-#EXTINF:-1,Wazir Full Hindi Movie 2016
-http://51.254.197.40:25461/movie/david/david/9327.mp4
-#EXTINF:-1,Welcome.Back.2015.1080p.BluRay.x264.Hindi.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9328.mp4
-#EXTINF:-1,Wolf.1994.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9383.mp4
-#EXTINF:-1,X-Men Apocalypse 2016 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9384.mp4
-#EXTINF:-1,X-Men.Apocalypse.2016.720p.BluRay.x264.Hindi.Eng.AC3-ETRG
-http://51.254.197.40:25461/movie/david/david/9329.mp4
-#EXTINF:-1,Yoga.Hosers.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9351.mp4
-#EXTINF:-1,Zameen Full Movie _ Hindi Movies 2015 Full Movie _ Ajay Devgan Full Movies _ Latest Bollywood Movies
-http://51.254.197.40:25461/movie/david/david/9331.mp4
-#EXTINF:-1,Zila Ghaziabad _ Hindi Movies 2016 Full Movie _ Sanjay Dutt Full Movies _ Latest Bollywood Movies
-http://51.254.197.40:25461/movie/david/david/9332.mp4
-#EXTINF:-1,Zoom.2015.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9385.mp4
-#EXTINF:-1,*CAN:Sportnet Pacific HD
-http://51.254.197.40:25461/live/david/david/9396.m3u8
-#EXTINF:-1,*CAN:Sportsnet 360 HD
-http://51.254.197.40:25461/live/david/david/9397.m3u8
-#EXTINF:-1,*CAN:Sportsnet One HD
-http://51.254.197.40:25461/live/david/david/9398.m3u8
-#EXTINF:-1,*CAN:SPORTSNET ONTARIO**
-http://51.254.197.40:25461/live/david/david/9399.m3u8
-#EXTINF:-1,*CAN:Sportsnet West HD
-http://51.254.197.40:25461/live/david/david/9400.m3u8
-#EXTINF:-1,*CAN:Sportsnet World HD
-http://51.254.197.40:25461/live/david/david/9401.m3u8
-#EXTINF:-1,*NOR:TV2 Sport Premium 2 HD.....
-http://51.254.197.40:25461/live/david/david/9414.m3u8
-#EXTINF:-1,*NOR:TV2 Sport Premium 3 HD.....
-http://51.254.197.40:25461/live/david/david/9415.m3u8
-#EXTINF:-1,*NOR:TV2 Sport Premium 4 HD.....
-http://51.254.197.40:25461/live/david/david/9416.m3u8
-#EXTINF:-1,*NOR:TV2 Sport premium 5 HD.....
-http://51.254.197.40:25461/live/david/david/9417.m3u8
-#EXTINF:-1,*NOR:TV2 Sportkanalen HD.....
-http://51.254.197.40:25461/live/david/david/9419.m3u8
-#EXTINF:-1,*NOR:VIASAT SPORT.
-http://51.254.197.40:25461/live/david/david/9421.m3u8
-#EXTINF:-1,UK :Colors
-http://51.254.197.40:25461/live/david/david/9395.m3u8
-#EXTINF:-1,UK :Life oK
-http://51.254.197.40:25461/live/david/david/9394.m3u8
-#EXTINF:-1,UK: SAB
-http://51.254.197.40:25461/live/david/david/9393.m3u8
-#EXTINF:-1,UK: Set Max
-http://51.254.197.40:25461/live/david/david/9392.m3u8
-#EXTINF:-1,UK:Sony UK
-http://51.254.197.40:25461/live/david/david/9390.m3u8
-#EXTINF:-1,UK:Star Plus
-http://51.254.197.40:25461/live/david/david/9391.m3u8
-#EXTINF:-1,300 Rise of an Empire 2014 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9598.mp4
-#EXTINF:-1,31.2016.720p.WEB-DL.950MB.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9642.mp4
-#EXTINF:-1,600.Miles Movie
-http://51.254.197.40:25461/movie/david/david/9643.mp4
-#EXTINF:-1,A Legacy of Whining 2016
-http://51.254.197.40:25461/movie/david/david/9422.mp4
-#EXTINF:-1,A.Haunting.In.Cawdor.2015.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9644.mp4
-#EXTINF:-1,A.History.Of.Sex.2003.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9464.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep01.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9465.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep02.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9466.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep03.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9467.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep04.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9468.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep05.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9469.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep06.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9470.mp4
-#EXTINF:-1,A.History.of.the.Other.Germany.1993.Ep07.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9471.mp4
-#EXTINF:-1,A.Hole.in.a.Fence .2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9472.mp4
-#EXTINF:-1,A.Living.Promise Movie
-http://51.254.197.40:25461/movie/david/david/9645.mp4
-#EXTINF:-1,A.State.of.Mind.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9473.mp4
-#EXTINF:-1,A.Year.and.a.Half.in.the.Life.of.Metallica.1992.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9474.mp4
-#EXTINF:-1,Abattoir (2016) 1080p Blu-Ray x264 DTS-HD 5.1 ESub -DDR)
-http://51.254.197.40:25461/movie/david/david/9650.mp4
-#EXTINF:-1,ABC-Light.between.oceans-tsld.XViD
-http://51.254.197.40:25461/movie/david/david/9734.mp4
-#EXTINF:-1,Absolutely.Fabulous.The.Movie.DVDRip.XviD-EVO
-http://51.254.197.40:25461/movie/david/david/9423.mp4
-#EXTINF:-1,Addicted.To.Fresno.2015.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9424.mp4
-#EXTINF:-1,All.in.Time.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9425.mp4
-#EXTINF:-1,All.Roads.Lead.To.Rome.2015.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9654.mp4
-#EXTINF:-1,All.The.Way.2016.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9652.mp4
-#EXTINF:-1,All.The.Way.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9653.mp4
-#EXTINF:-1,All.Tomorrow's.Parties.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9475.mp4
-#EXTINF:-1,Allegiant Movie
-http://51.254.197.40:25461/movie/david/david/9656.mp4
-#EXTINF:-1,Alpha.and.Omega.The.Big.Fureeze.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9426.mp4
-#EXTINF:-1,Altamira.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9657.mp4
-#EXTINF:-1,American.Conjuring.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9427.mp4
-#EXTINF:-1,American.Masters.Hank.Williams.DVDRIP.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9476.mp4
-#EXTINF:-1,AmeriGeddon.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9658.mp4
-#EXTINF:-1,Angel.of.Reckoning.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9659.mp4
-#EXTINF:-1,Angry.Birds Movie
-http://51.254.197.40:25461/movie/david/david/9630.mp4
-#EXTINF:-1,Anthropoid.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9428.mp4
-#EXTINF:-1,Antibirth.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9660.mp4
-#EXTINF:-1,AR: Dubai Sports HD
-http://51.254.197.40:25461/live/david/david/9807.m3u8
-#EXTINF:-1,AR: Dubai-Sport-2 HD
-http://51.254.197.40:25461/live/david/david/9808.m3u8
-#EXTINF:-1,AR: KTV Sport HD (Kuwait)
-http://51.254.197.40:25461/live/david/david/9806.m3u8
-#EXTINF:-1,AR: KTV Sport Plus
-http://51.254.197.40:25461/live/david/david/9793.m3u8
-#EXTINF:-1,AR: KTV Sport Plus (Kuwait)
-http://51.254.197.40:25461/live/david/david/9805.m3u8
-#EXTINF:-1,AR: Nile Sport
-http://51.254.197.40:25461/live/david/david/9804.m3u8
-#EXTINF:-1,AR: Oman Sport
-http://51.254.197.40:25461/live/david/david/9803.m3u8
-#EXTINF:-1,Arirang.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9477.mp4
-#EXTINF:-1,ARQ 2016 V2 720p WEBRip 650 MB - iExTV
-http://51.254.197.40:25461/movie/david/david/9646.mp4
-#EXTINF:-1,ARQ.2016.1080p.WEBRip.x264.AAC-m2g[PRiME]
-http://51.254.197.40:25461/movie/david/david/9647.mp4
-#EXTINF:-1,ARQ.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9648.mp4
-#EXTINF:-1,ARQ.2016.PROPER.720p.WEBRip.X264-DEFLATE[PRiME]
-http://51.254.197.40:25461/movie/david/david/9649.mp4
-#EXTINF:-1,Ashes.and.Snow.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9478.mp4
-#EXTINF:-1,Bad Moms 2016 HD-TS x264-CPG
-http://51.254.197.40:25461/movie/david/david/9661.mp4
-#EXTINF:-1,Bad.Moms.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9429.mp4
-#EXTINF:-1,Barbie.Star.Light.Adventure.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9662.mp4
-#EXTINF:-1,Before I Wake 2016 1080p BluRay x264 AC3-JYK
-http://51.254.197.40:25461/movie/david/david/9663.mp4
-#EXTINF:-1,Belovy.1994.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9479.mp4
-#EXTINF:-1,Ben Hur 2016 TELESYNC x264-CPG
-http://51.254.197.40:25461/movie/david/david/9664.mp4
-#EXTINF:-1,Best.Of.The.Best.II.1993.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9430.mp4
-#EXTINF:-1,Big.Fun.In.The.Big.Town.1986.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9480.mp4
-#EXTINF:-1,Black.Gold.2006.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9481.mp4
-#EXTINF:-1,Black.Mountain.Side.2014.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9665.mp4
-#EXTINF:-1,Blood.Father.2016.720p.WEBRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9666.mp4
-#EXTINF:-1,Blood.Punch.2014.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9431.mp4
-#EXTINF:-1,Blood.Trap.2015.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9667.mp4
-#EXTINF:-1,Bolt 2008 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9599.mp4
-#EXTINF:-1,Breaking.The.Taboo.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9482.mp4
-#EXTINF:-1,Buddha in a Traffic Jam (2016) Hindi 720p WebHDRip x264 AAC - Downloadhub
-http://51.254.197.40:25461/movie/david/david/9668.mp4
-#EXTINF:-1,Buy.The.Ticket.Take.The.Ride.2006.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9483.mp4
-#EXTINF:-1,Café.Society.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9669.mp4
-#EXTINF:-1,Captain America Civil War 2016 1080p 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9600.mp4
-#EXTINF:-1,Captain.America.Civil.War.2016.BluRay.1080p.AVC.DTS-HD.MA 7.1 x264-ETRG
-http://51.254.197.40:25461/movie/david/david/9670.mp4
-#EXTINF:-1,Center.Stage.On.Pointe.2016.DVDRip.XviD-EVO
-http://51.254.197.40:25461/movie/david/david/9671.mp4
-#EXTINF:-1,Central.Intelligence.2016.UNRATED.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9672.mp4
-#EXTINF:-1,Cinemania.2002.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9484.mp4
-#EXTINF:-1,Classic.Albums.Elvis.Presley.2001.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9485.mp4
-#EXTINF:-1,Come.On.Children.1973.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9486.mp4
-#EXTINF:-1,Complex.Life.Inside.a.Section.8.Apartment.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9487.mp4
-#EXTINF:-1,Criminal.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9673.mp4
-#EXTINF:-1,De.la.Servitude.Moderne.AKA.On.Modern.Servitude.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9488.mp4
-#EXTINF:-1,Dead.Kennedys.The.Lost.Tapes.2003.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9489.mp4
-#EXTINF:-1,Deadpool.2016.UHD.2160p.BluRay.Hindi.Tamil.Telugu.Eng.AC3.x264-ETRG
-http://51.254.197.40:25461/movie/david/david/9674.mp4
-#EXTINF:-1,Deleted Scenes 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9717.mp4
-#EXTINF:-1,Developing The Amazing Spider-Man Video Game 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9718.mp4
-#EXTINF:-1,Dirty.Hands.The.Art.&.Crimes.of.David.Choe.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9490.mp4
-#EXTINF:-1,Divided.Highways.1997.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9491.mp4
-#EXTINF:-1,Doctor Strange 2016 HD-TS x264 AC3-CPG
-http://51.254.197.40:25461/movie/david/david/9432.mp4
-#EXTINF:-1,Double.Dare.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9492.mp4
-#EXTINF:-1,Elephant.Kingdom.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9675.mp4
-#EXTINF:-1,Elvis.'56.1987.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9493.mp4
-#EXTINF:-1,Elvis.Found.Alive.2012.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9494.mp4
-#EXTINF:-1,Elvis.That's.the.Way.It.Is.1970.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9495.mp4
-#EXTINF:-1,Erasing.David.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9496.mp4
-#EXTINF:-1,ETRG
-http://51.254.197.40:25461/movie/david/david/9439.mp4
-#EXTINF:-1,Fantastic Beast and Where To Find Them 2016 HD-TS x264-CPG
-http://51.254.197.40:25461/movie/david/david/9435.mp4
-#EXTINF:-1,Fast.and.Furious.7.2015.HD-TS.XVID.AC3.HQ.Hive-CM8
-http://51.254.197.40:25461/movie/david/david/9676.mp4
-#EXTINF:-1,Finding Dory (2016) English 700MB HDTS x264 AAC - Downloadhub
-http://51.254.197.40:25461/movie/david/david/9631.mp4
-#EXTINF:-1,Finding_Dory_2016
-http://51.254.197.40:25461/movie/david/david/9677.mp4
-#EXTINF:-1,Finding.Dory.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9437.mp4
-#EXTINF:-1,First.Invasion.The.War.Of.1812.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9497.mp4
-#EXTINF:-1,Floored.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9498.mp4
-#EXTINF:-1,Florence Foster Jenkins 2016 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9678.mp4
-#EXTINF:-1,Florence.Foster.Jenkins.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9679.mp4
-#EXTINF:-1,Force.Of.Nature.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9499.mp4
-#EXTINF:-1,Fort.Tilden.2014.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9438.mp4
-#EXTINF:-1,Free.State.of.Jones.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9680.mp4
-#EXTINF:-1,Free.State.of.Jones.2016.HDRip.XViD.AC3-ETRG
-http://51.254.197.40:25461/movie/david/david/9681.mp4
-#EXTINF:-1,Friend.Request.2016.1080p.WEBRip.DD5.1.x264-FGT[EtHD]
-http://51.254.197.40:25461/movie/david/david/9682.mp4
-#EXTINF:-1,Garbo.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9500.mp4
-#EXTINF:-1,Garlic.Is.As.Good.As.Ten.Mothers.1980.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9501.mp4
-#EXTINF:-1,Gashole.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9502.mp4
-#EXTINF:-1,Genius.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9683.mp4
-#EXTINF:-1,George.On.George.2003.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9503.mp4
-#EXTINF:-1,Ghost.Team.2016.720p.WEBRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9684.mp4
-#EXTINF:-1,Ghostbusters.2016.TS.XviD-BiGDADDYVAiN
-http://51.254.197.40:25461/movie/david/david/9685.mp4
-#EXTINF:-1,Girl.Model.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9504.mp4
-#EXTINF:-1,Good.Rockin.Tonight.The.Legacy.of.Sun.Records.2001.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9505.mp4
-#EXTINF:-1,Greek.Pete.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9506.mp4
-#EXTINF:-1,Green Forest Warrior Movie
-http://51.254.197.40:25461/movie/david/david/9686.mp4
-#EXTINF:-1,Happy.Endings.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9507.mp4
-#EXTINF:-1,Hempsters.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9508.mp4
-#EXTINF:-1,Herbie.Hancock.Possibilities.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9509.mp4
-#EXTINF:-1,Hero.of.the.Underworld.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9440.mp4
-#EXTINF:-1,High.Strung.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9441.mp4
-#EXTINF:-1,High.Strung.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9442.mp4
-#EXTINF:-1,Houston.We.Have.A.Problem.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9510.mp4
-#EXTINF:-1,I Robot 2004 3D 1080p BR HOU AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9601.mp4
-#EXTINF:-1,I.T.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9687.mp4
-#EXTINF:-1,I'm.Almost.Not.Crazy.John.Cassavetes.The.Man.and.His.Work.1984.VHSRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9511.mp4
-#EXTINF:-1,Ice.Age.Collision.Course.2016.720p.HDRiP.850MB.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9689.mp4
-#EXTINF:-1,Iggy.Pop.The.Stooges.Escaped.Maniacs.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9512.mp4
-#EXTINF:-1,Image progression Reels 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9719.mp4
-#EXTINF:-1,Imperium.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9443.mp4
-#EXTINF:-1,IN: Star Sports 1 HD
-http://51.254.197.40:25461/live/david/david/9809.m3u8
-#EXTINF:-1,IN: Star Sports 2 HD
-http://51.254.197.40:25461/live/david/david/9810.m3u8
-#EXTINF:-1,IN: Star Sports 3 HD
-http://51.254.197.40:25461/live/david/david/9811.m3u8
-#EXTINF:-1,IN: Star Sports 4 HD
-http://51.254.197.40:25461/live/david/david/9812.m3u8
-#EXTINF:-1,Inception 2010 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9602.mp4
-#EXTINF:-1,Independence.Day.Resurgence.2016.HC.HDRip.XViD.AC3-ETRG
-http://51.254.197.40:25461/movie/david/david/9690.mp4
-#EXTINF:-1,Interrogation.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9691.mp4
-#EXTINF:-1,ISRA.88.2016.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9688.mp4
-#EXTINF:-1,Jason.Bourne.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9444.mp4
-#EXTINF:-1,Jason.Bourne.2016.BRRip.XviD-ETRG
-http://51.254.197.40:25461/movie/david/david/9445.mp4
-#EXTINF:-1,Jason.Bourne.2016.HC.720p.HDRiP.x264.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9692.mp4
-#EXTINF:-1,Jason.Bourne.2016.HC.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9693.mp4
-#EXTINF:-1,Jefftowne.1998.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9513.mp4
-#EXTINF:-1,Jerusalem 2013 3D DOCU Repack 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9603.mp4
-#EXTINF:-1,Jews.and.Baseball.An.American.Love.Story.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9514.mp4
-#EXTINF:-1,Jimmy.Vestvood.Amerikan.Hero.2016.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9694.mp4
-#EXTINF:-1,John.Lee.Hooker.That's.My.Story.2001.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9515.mp4
-#EXTINF:-1,John.Lennon-Love.Is.All.You.Need.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9516.mp4
-#EXTINF:-1,Journey to Space 2015 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9604.mp4
-#EXTINF:-1,Joy.Division.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9517.mp4
-#EXTINF:-1,Jurassic Park 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9605.mp4
-#EXTINF:-1,Jurassic World 2015 1080p BRRip x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9632.mp4
-#EXTINF:-1,Jurassic World 2015 3D 720p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9606.mp4
-#EXTINF:-1,Jurassic.Park.1993.720p.BrRip.264.YIFY
-http://51.254.197.40:25461/movie/david/david/9633.mp4
-#EXTINF:-1,Kickboxer Vengeance 2016 1080p WEB-DL x264 AC3-JYK
-http://51.254.197.40:25461/movie/david/david/9695.mp4
-#EXTINF:-1,Kickboxer.Vengeance.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9696.mp4
-#EXTINF:-1,Kraftwerk.And.The.Electronic.Revolution.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9518.mp4
-#EXTINF:-1,Kung Fu Panda 2 2011 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9634.mp4
-#EXTINF:-1,L'abecedaire.de.Gilles.Deleuze.AKA.Gilles.Deleuze.From.A.to.Z.1996.Ep01.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9519.mp4
-#EXTINF:-1,L'abecedaire.de.Gilles.Deleuze.AKA.Gilles.Deleuze.From.A.to.Z.1996.Ep02.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9520.mp4
-#EXTINF:-1,L'abecedaire.de.Gilles.Deleuze.AKA.Gilles.Deleuze.From.A.to.Z.1996.Ep03.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9521.mp4
-#EXTINF:-1,L'abecedaire.de.Gilles.Deleuze.AKA.Gilles.Deleuze.From.A.to.Z.1996.Ep04.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9522.mp4
-#EXTINF:-1,L'abecedaire.de.Gilles.Deleuze.AKA.Gilles.Deleuze.From.A.to.Z.1996.Ep05.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9523.mp4
-#EXTINF:-1,Late.Summer.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9446.mp4
-#EXTINF:-1,Let The Right One In (2008) HQ 1080p Blu-Ray x264 DTS-HD MSubs -DDR
-http://51.254.197.40:25461/movie/david/david/9697.mp4
-#EXTINF:-1,Life Of Pi.2012 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9607.mp4
-#EXTINF:-1,Life.Art.Of.Charles.Chaplin.2003.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9524.mp4
-#EXTINF:-1,live.with.kelly.2016.09.13.joseph.gordon-levitt.hdtv.x264-crooks[ettv]
-http://51.254.197.40:25461/movie/david/david/9748.mp4
-#EXTINF:-1,Love.Lust.and.Lies.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9525.mp4
-#EXTINF:-1,Loving.2016.HC.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9447.mp4
-#EXTINF:-1,Make.It.Funky.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9526.mp4
-#EXTINF:-1,Make.No.Little.Plans.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9527.mp4
-#EXTINF:-1,Man Of Steel 2013 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9608.mp4
-#EXTINF:-1,Manufacturing.Dissent.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9528.mp4
-#EXTINF:-1,Marilyn.Monroe.The.Final.Days.2001.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9529.mp4
-#EXTINF:-1,Marley.2012.BDRip.576p.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9530.mp4
-#EXTINF:-1,Masterminds.2016.READNFO.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9448.mp4
-#EXTINF:-1,Max.Payne.2008.Unrated.BRRip.XviD.AC3-ETRG
-http://51.254.197.40:25461/movie/david/david/9449.mp4
-#EXTINF:-1,MBC_PROSPORT_1HD_SPO
-http://51.254.197.40:25461/live/david/david/9801.m3u8
-#EXTINF:-1,MBC_PROSPORT_2HD_SPO
-http://51.254.197.40:25461/live/david/david/9802.m3u8
-#EXTINF:-1,Mechanic Resurrection 2016 REAL TELESYNC READNFO x264-CPG
-http://51.254.197.40:25461/movie/david/david/9699.mp4
-#EXTINF:-1,Melissa McCarthy, Rose Byrne, Jude Law - Family Movies English Subtitles
-http://51.254.197.40:25461/movie/david/david/9700.mp4
-#EXTINF:-1,Men in Black 3 2012 3D 720p BluRay Half-OU AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9609.mp4
-#EXTINF:-1,Miles.Electric.A.Different.Kind.of.Blue.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9531.mp4
-#EXTINF:-1,Mine.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9532.mp4
-#EXTINF:-1,Miss.Stevens.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9701.mp4
-#EXTINF:-1,Mondo.Enduro.1996.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9533.mp4
-#EXTINF:-1,Money.Monster.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9702.mp4
-#EXTINF:-1,Monster.Camp.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9534.mp4
-#EXTINF:-1,Monster.High.Welcome.to.Monster.High.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9703.mp4
-#EXTINF:-1,Moog.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9535.mp4
-#EXTINF:-1,Morris.From.America.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9450.mp4
-#EXTINF:-1,Morris.from.America.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9451.mp4
-#EXTINF:-1,Mother.May.I.Sleep.with.Danger.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9704.mp4
-#EXTINF:-1,Motown.The.Early.Years.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9536.mp4
-#EXTINF:-1,Mr.Pig.2016.BDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9452.mp4
-#EXTINF:-1,N.Is.a.Number.1993.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9537.mp4
-#EXTINF:-1,Naked.As.Nature.Intended.1961.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9538.mp4
-#EXTINF:-1,Naked.Making.Lunch.1992.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9539.mp4
-#EXTINF:-1,Need For Speed 3D 1080p BluRay Half-OU AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9610.mp4
-#EXTINF:-1,Neighbors.2.2016.720p.WEB-DL.800MB.ShAaNiG[EtHD]
-http://51.254.197.40:25461/movie/david/david/9705.mp4
-#EXTINF:-1,Neighbors.2.Sorority.Rising.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9706.mp4
-#EXTINF:-1,Night.of.Something.Strange.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9453.mp4
-#EXTINF:-1,Night.Of.The.Living.Deb.2015.720p.10bit.BluRay.6CH.x265.HEVC-PSA
-http://51.254.197.40:25461/movie/david/david/9707.mp4
-#EXTINF:-1,Now.You.See.Me.2.2016.1080p.BluRay.6CH.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9708.mp4
-#EXTINF:-1,Numb.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9709.mp4
-#EXTINF:-1,Officer.Downe.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9454.mp4
-#EXTINF:-1,On.The.Bowery.1953.BDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9540.mp4
-#EXTINF:-1,One.Life.2011.BDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9541.mp4
-#EXTINF:-1,Ouija.Summoning.2016.DVDRip.XviD-EVO
-http://51.254.197.40:25461/movie/david/david/9710.mp4
-#EXTINF:-1,Our.Brand.Is.Crisis.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9542.mp4
-#EXTINF:-1,Outlaws.and.Angels.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9455.mp4
-#EXTINF:-1,Pacific Rim 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9611.mp4
-#EXTINF:-1,Paris.Is.Burning.1990.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9543.mp4
-#EXTINF:-1,Penguins Of Madagascar Operation Search and Rescue 2014 DVDRip x264 AC3-MiLLENiUM
-http://51.254.197.40:25461/movie/david/david/9635.mp4
-#EXTINF:-1,Pixels 2015 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9612.mp4
-#EXTINF:-1,Planet.Dinosaur.3D.2012.1080p.BluRay.x264-SADPANDA
-http://51.254.197.40:25461/movie/david/david/9613.mp4
-#EXTINF:-1,Plastic.Planet.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9544.mp4
-#EXTINF:-1,Pre-visualization 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9720.mp4
-#EXTINF:-1,Primary.1960.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9545.mp4
-#EXTINF:-1,Project.Nim.2011.DVDRip-x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9546.mp4
-#EXTINF:-1,Public.Enemies.The.Golden.Age.of.the.Gangster.Film.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9547.mp4
-#EXTINF:-1,Pucker.Up.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9548.mp4
-#EXTINF:-1,Quackerz.2016.720p.BluRay.H264.AAC-RARBG
-http://51.254.197.40:25461/movie/david/david/9711.mp4
-#EXTINF:-1,Queen.Of.The.Sun.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9549.mp4
-#EXTINF:-1,Radiant.City.2006.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9550.mp4
-#EXTINF:-1,Rage.20.Years.Of.Punk.Rock.West.Coast.Style.2001.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9551.mp4
-#EXTINF:-1,Random.Lunacy.Videos.from.the.Road.Less.Traveled.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9552.mp4
-#EXTINF:-1,RARBG.COM
-http://51.254.197.40:25461/movie/david/david/9597.mp4
-#EXTINF:-1,Resident Evil 5 Retribution 2012 3D 720p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9614.mp4
-#EXTINF:-1,Resurrect.Dead.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9553.mp4
-#EXTINF:-1,Rite of Passage - The Amazing Spider-Man Reborn 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9721.mp4
-#EXTINF:-1,Robot S.E.X Movie
-http://51.254.197.40:25461/movie/david/david/9712.mp4
-#EXTINF:-1,Rush.Exit.Stage.Left.1981.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9554.mp4
-#EXTINF:-1,Sample
-http://51.254.197.40:25461/movie/david/david/9436.mp4
-#EXTINF:-1,Sample 1
-http://51.254.197.40:25461/movie/david/david/9433.mp4
-#EXTINF:-1,Sample 2
-http://51.254.197.40:25461/movie/david/david/9434.mp4
-#EXTINF:-1,Sample Troll (1986) 720p BluRay x264 Eng Subs [Dual Audio] [Hindi 2.0 - English 2.0] -=!Dr.STAR!=-
-http://51.254.197.40:25461/movie/david/david/9462.mp4
-#EXTINF:-1,sample-Abattoir (2016) 1080p Blu-Ray x264 DTS-HD 5.1 ESub -DDR)
-http://51.254.197.40:25461/movie/david/david/9651.mp4
-#EXTINF:-1,sample-Let The Right One In (2008) MULTI HQ 1080p Blu-Ray x264 DTS-HD MSubs -DDR
-http://51.254.197.40:25461/movie/david/david/9698.mp4
-#EXTINF:-1,sample.avki
-http://51.254.197.40:25461/movie/david/david/9655.mp4
-#EXTINF:-1,Search.Engines.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9456.mp4
-#EXTINF:-1,Secret.Lives.Hidden.Children.And.Their.Rescuers.During.WWII.2002.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9555.mp4
-#EXTINF:-1,Sideshow.Alive.On.The.Inside.1999.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9556.mp4
-#EXTINF:-1,Skiptrace.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9713.mp4
-#EXTINF:-1,Solitary.2015.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9457.mp4
-#EXTINF:-1,Steep.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9557.mp4
-#EXTINF:-1,Steve.Jobs.One.Last.Thing.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9558.mp4
-#EXTINF:-1,Stolen.2006.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9559.mp4
-#EXTINF:-1,Street.2015.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9458.mp4
-#EXTINF:-1,Streets.Without.Cars.2005.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9560.mp4
-#EXTINF:-1,Stunt Rehersals 720p BRRip x264-TheRival
-http://51.254.197.40:25461/movie/david/david/9722.mp4
-#EXTINF:-1,Suicide Squad 2016 HD-TS x264-CPG
-http://51.254.197.40:25461/movie/david/david/9714.mp4
-#EXTINF:-1,Sully 2016 HD-TS x264-CPG
-http://51.254.197.40:25461/movie/david/david/9715.mp4
-#EXTINF:-1,Taken.for.a.Ride.1996.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9561.mp4
-#EXTINF:-1,Taste.The.Waste.2010.576p.BDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9562.mp4
-#EXTINF:-1,Teenage.Mutant.Ninja.Turtles.Out.of.the.Shadows.2016.720p.WEBRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9716.mp4
-#EXTINF:-1,Terminator Genisys 2015 3D 1080p BR 60fps HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9615.mp4
-#EXTINF:-1,The Amazing Spider-Man 2 2014 3D 720p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9616.mp4
-#EXTINF:-1,The Do Over 2016 720p WEBRip x264
-http://51.254.197.40:25461/movie/david/david/9723.mp4
-#EXTINF:-1,The Good Dinosaur 2015 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9636.mp4
-#EXTINF:-1,The Good Dinosaur 2015 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9617.mp4
-#EXTINF:-1,The Jungle Book 2016 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9725.mp4
-#EXTINF:-1,The Lion King 1994 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9618.mp4
-#EXTINF:-1,The Nice Guys 2016 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9727.mp4
-#EXTINF:-1,The Polar Express 2004 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9619.mp4
-#EXTINF:-1,The Shallows 2016 1080p WEB-DL x264 AC3-JYK
-http://51.254.197.40:25461/movie/david/david/9728.mp4
-#EXTINF:-1,The Walk 2015 3D 720p BluRay Half-SBS AAC-2.0 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9620.mp4
-#EXTINF:-1,The.Blues.Accordin.to.Lightnin.Hopkins.1970.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9563.mp4
-#EXTINF:-1,The.Captains.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9564.mp4
-#EXTINF:-1,The.Cartoonist.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9565.mp4
-#EXTINF:-1,The.Chosen.2015.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9729.mp4
-#EXTINF:-1,The.City.1939.DVDRip-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9566.mp4
-#EXTINF:-1,The.Cola.Conquest.Part.1.The.Big.Sell.1998.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9567.mp4
-#EXTINF:-1,The.Cola.Conquest.Part.2.Cold.War.and.Peace.1998.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9568.mp4
-#EXTINF:-1,The.Cola.Conquest.Part.3.Coca.Colonization.1998.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9569.mp4
-#EXTINF:-1,The.Conjuring.2.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9730.mp4
-#EXTINF:-1,The.Cove.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9570.mp4
-#EXTINF:-1,The.Darkness.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9731.mp4
-#EXTINF:-1,The.Divine.Michelangelo.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9571.mp4
-#EXTINF:-1,The.Elephant.In.The.Living.Room.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9572.mp4
-#EXTINF:-1,The.Forgetting.2004.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9573.mp4
-#EXTINF:-1,The.Good.Neighbor.2016.720p.WEB-DL.2CH.x265.HEVC-PSA
-http://51.254.197.40:25461/movie/david/david/9732.mp4
-#EXTINF:-1,The.Great.Gilly.Hopkins.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9459.mp4
-#EXTINF:-1,The.Iinterrupters.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9574.mp4
-#EXTINF:-1,The.James.Bond.Story.1999.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9575.mp4
-#EXTINF:-1,The.Jungle.Book.2016.3D.1080p.BluRay.x264-PSYCHD
-http://51.254.197.40:25461/movie/david/david/9637.mp4
-#EXTINF:-1,The.Jungle.Book.2016.3D.HSBS.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9724.mp4
-#EXTINF:-1,The.Jungle.Book.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9733.mp4
-#EXTINF:-1,The.Making.of.One.Flew.Over.the.Cuckoos.Nest.2002.Recut.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9576.mp4
-#EXTINF:-1,The.Man.Nobody.Knew.In.Search.of.My.Father.CIA.Spymaster.William.Colby.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9577.mp4
-#EXTINF:-1,The.Meddler.2015.1080p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9726.mp4
-#EXTINF:-1,The.Neighbor.2016.720p.WEBRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9735.mp4
-#EXTINF:-1,The.Neighbor.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9460.mp4
-#EXTINF:-1,The.Order.Of.Myths.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9578.mp4
-#EXTINF:-1,The.Phenom.2016.720p.BRRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9736.mp4
-#EXTINF:-1,The.Purge.Election.Year.2016.720p.WEBRip.x264.AAC-ETRG
-http://51.254.197.40:25461/movie/david/david/9737.mp4
-#EXTINF:-1,The.Purge.Election.Year.2016.HC.720p.HDRiP.900MB.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9738.mp4
-#EXTINF:-1,The.Purge.Election.Year.2016.HDRip.XViD-ETRG
-http://51.254.197.40:25461/movie/david/david/9739.mp4
-#EXTINF:-1,The.Remains.2016.BRRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9461.mp4
-#EXTINF:-1,The.Secret.Life.of.Pets.2016.1080p.HDRip.x264.AAC-JYK
-http://51.254.197.40:25461/movie/david/david/9740.mp4
-#EXTINF:-1,The.Shallows.2016.1080p.BluRay.6CH.ShAaNiG
-http://51.254.197.40:25461/movie/david/david/9741.mp4
-#EXTINF:-1,The.Shallows.2016.Bluray.1080p.DTS-HD.x264-Grym
-http://51.254.197.40:25461/movie/david/david/9742.mp4
-#EXTINF:-1,The.Standoff.2016.HDRip.XviD.AC3-EVO
-http://51.254.197.40:25461/movie/david/david/9743.mp4
-#EXTINF:-1,The.Town.That.Was.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9579.mp4
-#EXTINF:-1,The.Wobblies.1979.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9580.mp4
-#EXTINF:-1,Theremin.1994.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9581.mp4
-#EXTINF:-1,They.Killed.Sister.Dorothy.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9582.mp4
-#EXTINF:-1,This.Is.Not.A.Film.2011.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9583.mp4
-#EXTINF:-1,Thomas.Hart.Benton.1988.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9584.mp4
-#EXTINF:-1,Thor The Dark World 2013 3D 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9621.mp4
-#EXTINF:-1,Thunder.Soul.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9585.mp4
-#EXTINF:-1,Titanic 1997 3D LMT.EDT. 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9622.mp4
-#EXTINF:-1,Toy Story 1 1995 3D 1080p BR 60fps HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9623.mp4
-#EXTINF:-1,Toy Story 2 1999 3D 1080p BR 60fps HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9624.mp4
-#EXTINF:-1,Toy Story 3 2010 1080p BR HSBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9625.mp4
-#EXTINF:-1,Toy.Story.1995.1080p.BRrip.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9638.mp4
-#EXTINF:-1,Toy.Story.2.1999.1080p.BRrip.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9639.mp4
-#EXTINF:-1,Toy.Story.3.2010.1080p.BRrip.x264.YIFY
-http://51.254.197.40:25461/movie/david/david/9640.mp4
-#EXTINF:-1,Toy.Story.of.Terror.2014.BDRip.XVID.Audio.Latino-JcGoku21
-http://51.254.197.40:25461/movie/david/david/9641.mp4
-#EXTINF:-1,Train To Busan 2016 720p HC ENG HDRIP x264 AC3 TiTAN
-http://51.254.197.40:25461/movie/david/david/9744.mp4
-#EXTINF:-1,Transformers 3 Dark of the Moon 2011 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9626.mp4
-#EXTINF:-1,Transformers 4 Age of Extinction 2014 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9627.mp4
-#EXTINF:-1,Troll (1986) 720p BluRay x264 Eng Subs [Dual Audio] [Hindi 2.0 - English 2.0] -=!Dr.STAR!=-
-http://51.254.197.40:25461/movie/david/david/9463.mp4
-#EXTINF:-1,Turtle.The.Incredible.Journey.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9586.mp4
-#EXTINF:-1,Under.The.Boardwalk.The.Monoply.Story.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9587.mp4
-#EXTINF:-1,United.We.Fall.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9588.mp4
-#EXTINF:-1,Unmistaken.Child.2008.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9589.mp4
-#EXTINF:-1,Vanishing.of.the.Bees.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9590.mp4
-#EXTINF:-1,Waco.The.Rules.of.Engagement.1997.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9591.mp4
-#EXTINF:-1,War Dogs 2016 HD-TS x264-CPG
-http://51.254.197.40:25461/movie/david/david/9745.mp4
-#EXTINF:-1,Warcraft 2016 1080p 3D BluRay Half-OU x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9628.mp4
-#EXTINF:-1,Warcraft 2016 1080p BluRay x264 DTS-JYK
-http://51.254.197.40:25461/movie/david/david/9746.mp4
-#EXTINF:-1,Warrendale.1967.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9592.mp4
-#EXTINF:-1,We.Remember.Marilyn.1996.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9593.mp4
-#EXTINF:-1,Why.Be.Good.Sexuality.&.Censorship.in.Early.Cinema.2007.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9594.mp4
-#EXTINF:-1,Wishful.Drinking.2010.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9595.mp4
-#EXTINF:-1,With.One.Voice.2009.DVDRip.x264-HANDJOB
-http://51.254.197.40:25461/movie/david/david/9596.mp4
-#EXTINF:-1,X-Men Apocalypse 2016 3D 1080p BluRay Half-SBS AC3-5.1 HEVC x265-LGC
-http://51.254.197.40:25461/movie/david/david/9629.mp4
-#EXTINF:-1,X-Men.Apocalypse.2016.720p.BluRay.x264-[YTS.AG]
-http://51.254.197.40:25461/movie/david/david/9747.mp4
-#EXTINF:-1,AL: Super Sport 1
-http://51.254.197.40:25461/live/david/david/9903.m3u8
-#EXTINF:-1,AL: Super Sport 2
-http://51.254.197.40:25461/live/david/david/9902.m3u8
-#EXTINF:-1,AL: Super Sport 3
-http://51.254.197.40:25461/live/david/david/9901.m3u8
-#EXTINF:-1,AL: Super Sport 4
-http://51.254.197.40:25461/live/david/david/9900.m3u8
-#EXTINF:-1,AL: Super Sport4
-http://51.254.197.40:25461/live/david/david/9899.m3u8
-#EXTINF:-1,AL: SuperSport 2 HD
-http://51.254.197.40:25461/live/david/david/9898.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://51.254.197.40:25461/live/david/david/9889.m3u8
-#EXTINF:-1,Arena Sport 1 SRB
-http://51.254.197.40:25461/live/david/david/9888.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://51.254.197.40:25461/live/david/david/9891.m3u8
-#EXTINF:-1,Arena Sport 2 SRB
-http://51.254.197.40:25461/live/david/david/9890.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://51.254.197.40:25461/live/david/david/9893.m3u8
-#EXTINF:-1,Arena Sport 3 SRB
-http://51.254.197.40:25461/live/david/david/9892.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://51.254.197.40:25461/live/david/david/9895.m3u8
-#EXTINF:-1,Arena Sport 4 SRB
-http://51.254.197.40:25461/live/david/david/9894.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://51.254.197.40:25461/live/david/david/9897.m3u8
-#EXTINF:-1,Arena Sport 5 SRB
-http://51.254.197.40:25461/live/david/david/9896.m3u8
-#EXTINF:-1,DE Sky Sport 1 HD
-http://51.254.197.40:25461/live/david/david/9883.m3u8
-#EXTINF:-1,DE Sky Sport 2 HD
-http://51.254.197.40:25461/live/david/david/9884.m3u8
-#EXTINF:-1,DE Sport1 HD
-http://51.254.197.40:25461/live/david/david/9882.m3u8
-#EXTINF:-1,DIGITV ROMANIA:Digi_Sport_1
-http://51.254.197.40:25461/live/david/david/9878.m3u8
-#EXTINF:-1,DIGITV ROMANIA:Digi_Sport_2
-http://51.254.197.40:25461/live/david/david/9879.m3u8
-#EXTINF:-1,DIGITV ROMANIA:Digi_Sport_3
-http://51.254.197.40:25461/live/david/david/9880.m3u8
-#EXTINF:-1,DIGITV ROMANIA:Digi_Sport_4
-http://51.254.197.40:25461/live/david/david/9881.m3u8
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://51.254.197.40:25461/live/david/david/9885.m3u8
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://51.254.197.40:25461/live/david/david/9886.m3u8
-#EXTINF:-1,FR: Bein Sports 3 HD
-http://51.254.197.40:25461/live/david/david/9887.m3u8
-#EXTINF:-1,FR: Canal  Sport HD
-http://51.254.197.40:25461/live/david/david/9877.m3u8
-#EXTINF:-1,IL: Sport 2 HD IL
-http://51.254.197.40:25461/live/david/david/9875.m3u8
-#EXTINF:-1,IL: Sport 5 HD IL
-http://51.254.197.40:25461/live/david/david/9876.m3u8
-#EXTINF:-1,IN: Ten-2 HD
-http://51.254.197.40:25461/live/david/david/9872.m3u8
-#EXTINF:-1,IN: Ten-3 HD
-http://51.254.197.40:25461/live/david/david/9873.m3u8
-#EXTINF:-1,IN: Ten-Golf
-http://51.254.197.40:25461/live/david/david/9874.m3u8
-#EXTINF:-1,IT Euro Sport 1
-http://51.254.197.40:25461/live/david/david/9870.m3u8
-#EXTINF:-1,IT Euro Sport 2
-http://51.254.197.40:25461/live/david/david/9871.m3u8
-#EXTINF:-1,IT Sky Sport 1
-http://51.254.197.40:25461/live/david/david/9867.m3u8
-#EXTINF:-1,IT Sky Sport 2
-http://51.254.197.40:25461/live/david/david/9868.m3u8
-#EXTINF:-1,IT Sky Sport 24 HD
-http://51.254.197.40:25461/live/david/david/9866.m3u8
-#EXTINF:-1,IT Sky Sport 3 HD
-http://51.254.197.40:25461/live/david/david/9869.m3u8
-#EXTINF:-1,NL:FOX SPORT 1  HD
-http://51.254.197.40:25461/live/david/david/9861.m3u8
-#EXTINF:-1,NL:FOX SPORT 2
-http://51.254.197.40:25461/live/david/david/9862.m3u8
-#EXTINF:-1,NL:FOX SPORT 3
-http://51.254.197.40:25461/live/david/david/9863.m3u8
-#EXTINF:-1,NL:FOX SPORT 4
-http://51.254.197.40:25461/live/david/david/9864.m3u8
-#EXTINF:-1,NL:FOX SPORT 5
-http://51.254.197.40:25461/live/david/david/9865.m3u8
-#EXTINF:-1,PORTUGAL:SPORTTV 1 HD
-http://51.254.197.40:25461/live/david/david/9839.m3u8
-#EXTINF:-1,PORTUGAL:SPORTTV 2 HD
-http://51.254.197.40:25461/live/david/david/9840.m3u8
-#EXTINF:-1,PORTUGAL:SPORTTV 3 HD
-http://51.254.197.40:25461/live/david/david/9841.m3u8
-#EXTINF:-1,PORTUGAL:SPORTTV 4 HD
-http://51.254.197.40:25461/live/david/david/9842.m3u8
-#EXTINF:-1,PORTUGAL:SPORTTV 5 HD
-http://51.254.197.40:25461/live/david/david/9843.m3u8
-#EXTINF:-1,SRB: SPORT KLUB 1 HD
-http://51.254.197.40:25461/live/david/david/9858.m3u8
-#EXTINF:-1,SRB: SPORT KLUB 2 HD
-http://51.254.197.40:25461/live/david/david/9859.m3u8
-#EXTINF:-1,SRB: SPORT KLUB 3 HD
-http://51.254.197.40:25461/live/david/david/9860.m3u8
-#EXTINF:-1,UK TV3 IE
-http://51.254.197.40:25461/live/david/david/9916.m3u8
-#EXTINF:-1,UK: ALIBI
-http://51.254.197.40:25461/live/david/david/9944.m3u8
-#EXTINF:-1,UK: BBC One HD
-http://51.254.197.40:25461/live/david/david/9904.m3u8
-#EXTINF:-1,UK: BOX-Nation
-http://51.254.197.40:25461/live/david/david/9829.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://51.254.197.40:25461/live/david/david/9818.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://51.254.197.40:25461/live/david/david/9819.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://51.254.197.40:25461/live/david/david/9823.m3u8
-#EXTINF:-1,UK: BT SPORTS 1HD
-http://51.254.197.40:25461/live/david/david/9820.m3u8
-#EXTINF:-1,UK: BT SPORTS 2HD
-http://51.254.197.40:25461/live/david/david/9821.m3u8
-#EXTINF:-1,UK: BT SPORTS 3 HD
-http://51.254.197.40:25461/live/david/david/9822.m3u8
-#EXTINF:-1,UK: BT Sports Extra
-http://51.254.197.40:25461/live/david/david/9824.m3u8
-#EXTINF:-1,UK: CHANNEL 5
-http://51.254.197.40:25461/live/david/david/9918.m3u8
-#EXTINF:-1,UK: Chelsea TV
-http://51.254.197.40:25461/live/david/david/9828.m3u8
-#EXTINF:-1,UK: DAVE
-http://51.254.197.40:25461/live/david/david/9926.m3u8
-#EXTINF:-1,UK: Discovery Investigation HD
-http://51.254.197.40:25461/live/david/david/9967.m3u8
-#EXTINF:-1,UK: Discovery Science HD
-http://51.254.197.40:25461/live/david/david/9965.m3u8
-#EXTINF:-1,UK: Discovery Turbo HD
-http://51.254.197.40:25461/live/david/david/9964.m3u8
-#EXTINF:-1,UK: Discovery-History-HD
-http://51.254.197.40:25461/live/david/david/9963.m3u8
-#EXTINF:-1,UK: Euro Sports 1
-http://51.254.197.40:25461/live/david/david/9825.m3u8
-#EXTINF:-1,UK: Irish TV
-http://51.254.197.40:25461/live/david/david/9930.m3u8
-#EXTINF:-1,UK: ITV 3 HD
-http://51.254.197.40:25461/live/david/david/9914.m3u8
-#EXTINF:-1,UK: ITV BE
-http://51.254.197.40:25461/live/david/david/9915.m3u8
-#EXTINF:-1,UK: ITV1 HD
-http://51.254.197.40:25461/live/david/david/9912.m3u8
-#EXTINF:-1,UK: ITV4 HD
-http://51.254.197.40:25461/live/david/david/9911.m3u8
-#EXTINF:-1,UK: LIVERPOOL FC
-http://51.254.197.40:25461/live/david/david/9832.m3u8
-#EXTINF:-1,UK: M2O Music
-http://51.254.197.40:25461/live/david/david/10009.m3u8
-#EXTINF:-1,UK: More 4
-http://51.254.197.40:25461/live/david/david/9938.m3u8
-#EXTINF:-1,UK: MOVIES SHOW CASE
-http://51.254.197.40:25461/live/david/david/9975.m3u8
-#EXTINF:-1,UK: MTV Hits
-http://51.254.197.40:25461/live/david/david/9955.m3u8
-#EXTINF:-1,UK: Nat Geographic HD
-http://51.254.197.40:25461/live/david/david/10004.m3u8
-#EXTINF:-1,UK: NICK JR
-http://51.254.197.40:25461/live/david/david/9952.m3u8
-#EXTINF:-1,UK: PREMIERE SPORT
-http://51.254.197.40:25461/live/david/david/9831.m3u8
-#EXTINF:-1,UK: RACING UK
-http://51.254.197.40:25461/live/david/david/9827.m3u8
-#EXTINF:-1,UK: Setanta Sport
-http://51.254.197.40:25461/live/david/david/9830.m3u8
-#EXTINF:-1,UK: SKY ARTS 1
-http://51.254.197.40:25461/live/david/david/9937.m3u8
-#EXTINF:-1,UK: Sky Atlantic HD
-http://51.254.197.40:25461/live/david/david/9972.m3u8
-#EXTINF:-1,UK: Sky Living
-http://51.254.197.40:25461/live/david/david/9922.m3u8
-#EXTINF:-1,UK: SKY NEWS
-http://51.254.197.40:25461/live/david/david/9958.m3u8
-#EXTINF:-1,UK: Sky Thriller
-http://51.254.197.40:25461/live/david/david/10002.m3u8
-#EXTINF:-1,UK: SKY TWO
-http://51.254.197.40:25461/live/david/david/9921.m3u8
-#EXTINF:-1,UK: TLC
-http://51.254.197.40:25461/live/david/david/9935.m3u8
-#EXTINF:-1,UK: TRAVEL CHANNEL
-http://51.254.197.40:25461/live/david/david/9934.m3u8
-#EXTINF:-1,UK: Watch
-http://51.254.197.40:25461/live/david/david/9932.m3u8
-#EXTINF:-1,UK:MIO_STADIUM_1
-http://51.254.197.40:25461/live/david/david/9833.m3u8
-#EXTINF:-1,UK:MIO_STADIUM_2
-http://51.254.197.40:25461/live/david/david/9834.m3u8
-#EXTINF:-1,UK:MIO_STADIUM_3
-http://51.254.197.40:25461/live/david/david/9835.m3u8
-#EXTINF:-1,UK:MIO_STADIUM_4
-http://51.254.197.40:25461/live/david/david/9836.m3u8
-#EXTINF:-1,USA : Bein USA HD
-http://51.254.197.40:25461/live/david/david/9838.m3u8
-#EXTINF:-1,USA : BTN SPORTS HD
-http://51.254.197.40:25461/live/david/david/9837.m3u8
-#EXTINF:-1,USA : ESPN HD
-http://51.254.197.40:25461/live/david/david/9857.m3u8
-#EXTINF:-1,USA : ESPN HD 2
-http://51.254.197.40:25461/live/david/david/9856.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 1
-http://51.254.197.40:25461/live/david/david/9850.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 3
-http://51.254.197.40:25461/live/david/david/9852.m3u8
-#EXTINF:-1,USA: FOX SPORT 2 HD
-http://51.254.197.40:25461/live/david/david/9849.m3u8
-#EXTINF:-1,USA: TSN 2 HD
-http://51.254.197.40:25461/live/david/david/9845.m3u8
-#EXTINF:-1,USA: TSN 3 HD
-http://51.254.197.40:25461/live/david/david/9846.m3u8
-#EXTINF:-1,USA: TSN 4 HD
-http://51.254.197.40:25461/live/david/david/9847.m3u8
-#EXTINF:-1,USA: TSN 5 HD
-http://51.254.197.40:25461/live/david/david/9848.m3u8
-#EXTINF:-1,USA: TSN1 HD
-http://51.254.197.40:25461/live/david/david/9844.m3u8
-#EXTINF:-1,UK : STAR GOLD
-http://51.254.197.40:25461/live/david/david/10028.m3u8
-#EXTINF:-1,UK : STAR JALSHA
-http://51.254.197.40:25461/live/david/david/10029.m3u8
-#EXTINF:-1,UK : STAR LIFE OK
-http://51.254.197.40:25461/live/david/david/10030.m3u8
-#EXTINF:-1,UK : STAR PLUS
-http://51.254.197.40:25461/live/david/david/10031.m3u8
-#EXTINF:-1,UK : ZEE PUNJABI
-http://51.254.197.40:25461/live/david/david/10032.m3u8
-#EXTINF:-1,UK : ZEE TV
-http://51.254.197.40:25461/live/david/david/10033.m3u8
-#EXTINF:-1,UK : ZING
-http://51.254.197.40:25461/live/david/david/10034.m3u8
-#EXTINF:-1,Baby TV
-http://51.254.197.40:25461/live/david/david/10052.m3u8
-#EXTINF:-1,BBC One Northern Ireland
-http://51.254.197.40:25461/live/david/david/10077.m3u8
-#EXTINF:-1,BBC One Scotland
-http://51.254.197.40:25461/live/david/david/10076.m3u8
-#EXTINF:-1,BBC One Wales
-http://51.254.197.40:25461/live/david/david/10075.m3u8
-#EXTINF:-1,BBC World News
-http://51.254.197.40:25461/live/david/david/10061.m3u8
-#EXTINF:-1,Bloomberg
-http://51.254.197.40:25461/live/david/david/10060.m3u8
-#EXTINF:-1,CNBC Europe
-http://51.254.197.40:25461/live/david/david/10059.m3u8
-#EXTINF:-1,CNN
-http://51.254.197.40:25461/live/david/david/10058.m3u8
-#EXTINF:-1,Disney XD
-http://51.254.197.40:25461/live/david/david/10051.m3u8
-#EXTINF:-1,Fox News
-http://51.254.197.40:25461/live/david/david/10057.m3u8
-#EXTINF:-1,ITV HD Backup
-http://51.254.197.40:25461/live/david/david/10074.m3u8
-#EXTINF:-1,NHK News HD
-http://51.254.197.40:25461/live/david/david/10056.m3u8
-#EXTINF:-1,Russia Today HD
-http://51.254.197.40:25461/live/david/david/10055.m3u8
-#EXTINF:-1,Sky Action Movies
-http://51.254.197.40:25461/live/david/david/10071.m3u8
-#EXTINF:-1,Sky Comedy Movies
-http://51.254.197.40:25461/live/david/david/10070.m3u8
-#EXTINF:-1,Sky DramaRom Movies
-http://51.254.197.40:25461/live/david/david/10069.m3u8
-#EXTINF:-1,Sky Family Movies
-http://51.254.197.40:25461/live/david/david/10068.m3u8
-#EXTINF:-1,Sky Greats Movies
-http://51.254.197.40:25461/live/david/david/10067.m3u8
-#EXTINF:-1,Sky Movies Disney
-http://51.254.197.40:25461/live/david/david/10066.m3u8
-#EXTINF:-1,Sky News Arabia
-http://51.254.197.40:25461/live/david/david/10054.m3u8
-#EXTINF:-1,Sky News UK
-http://51.254.197.40:25461/live/david/david/10053.m3u8
-#EXTINF:-1,Sky Premiere Movies
-http://51.254.197.40:25461/live/david/david/10065.m3u8
-#EXTINF:-1,Sky ScFiHorror Movies
-http://51.254.197.40:25461/live/david/david/10064.m3u8
-#EXTINF:-1,Sky Select Movies
-http://51.254.197.40:25461/live/david/david/10063.m3u8
-#EXTINF:-1,Sky sport news hd
-http://51.254.197.40:25461/live/david/david/10040.m3u8
-#EXTINF:-1,Sky Sports Box Office
-http://51.254.197.40:25461/live/david/david/10044.m3u8
-#EXTINF:-1,Sky Thriller Movies
-http://51.254.197.40:25461/live/david/david/10062.m3u8
-#EXTINF:-1,UK : RTE NEWS
-http://51.254.197.40:25461/live/david/david/10073.m3u8
-#EXTINF:-1,UK : RTE ONE
-http://51.254.197.40:25461/live/david/david/10072.m3u8
-#EXTINF:-1,VIP : RANGERS FV TV ( LIVE ON MATCHES )
-http://51.254.197.40:25461/live/david/david/10041.m3u8
-#EXTINF:-1,VIP : TSN HD 1
-http://51.254.197.40:25461/live/david/david/10039.m3u8
-#EXTINF:-1,VIP : TSN HD 2
-http://51.254.197.40:25461/live/david/david/10038.m3u8
-#EXTINF:-1,VIP : TSN HD 3
-http://51.254.197.40:25461/live/david/david/10037.m3u8
-#EXTINF:-1,VIP : TSN HD 4
-http://51.254.197.40:25461/live/david/david/10036.m3u8
-#EXTINF:-1,VIP : TSN HD 5
-http://51.254.197.40:25461/live/david/david/10035.m3u8
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+ 
+#EXTINF:-1,HOLATV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,FASHION TV
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,AZCINEMA
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Cinecanal (W)
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TNT
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,The Film Zone (W)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,De Película
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Space
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Cinecanal (W)
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Cinemax (O)
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Telehit
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV HITS
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,1CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Kiss tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+#EXTINF:-1,A-ONE
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,VEVO MUSIC
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,VEVO MUSIC
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,VEVO MUSIC
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV HD
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,MTV HITS HD
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,1CLASSICS HD
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:-1,CANAL +
+http://185.26.175.200:5000/udp/239.200.1.77:10000
 
 
