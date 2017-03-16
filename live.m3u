@@ -1,239 +1,167 @@
 #EXTM3U
- 
-#EXTINF:-1, Cops
-http://vaughnlive.tv/profe3196
-#EXTINF:-1, PARAMOUNT COMEDY
-http://151.249.206.35:81/udp/224.200.246.53:3527
-#EXTINF:-1, FILMON
-http://ksportiptv.com:1557/live/fisi/fisi/1824.ts
-#EXTINF:-1, OSN CINEMA 2
-http://ipsatpro.com:8000/live/mesut/mesut/176.ts
-#EXTINF:-1, FILMON US
-http://ksportiptv.com:1557/live/fisi/fisi/1824.ts
-#EXTINF:-1, FILMON ?
-http://selling01.ddns.net:8000/live/simon1/simon1/10863.ts
-#EXTINF:-1, C MORE HITS
-http://iptv.tjurk.com:8000/live/beker/metin/223.ts
-#EXTINF:-1, C MORE ACTION
-http://iptv.ndasat.com:88/live/101/101/898.ts
-#EXTINF:-1, C MORE FIRST
-http://195.67.215.39:8001/1:0:1:12D:3:46:E080000:0:0:0:
-#EXTINF:-1, PINK MOVIES
-http://51.254.47.234:8000/live/beker/metin/254.ts
-#EXTINF:-1, SONY MOVIES USA
-http://camerta.com:8000/live/8811/8811/2115.ts
-#EXTINF:-1, PARAMOUNT CHANNEL
-http://212.164.143.199:1234/udp/225.54.41.31:5000
-#EXTINF:-1, OSN MOVIES ACTION
-http://iptv.am000.tv:8000/live/add14/add14/26.ts
-#EXTINF:-1, FILM PREMIERE
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/908.ts
-#EXTINF:-1, CBS DRAMA
-http://31.135.237.149:1234/udp/224.0.44.197:1234
-#EXTINF:-1, FOX MOVIES
-http://minitv.noip.me:8000/live/baba/baba/159.ts
-#EXTINF:-1, Fox HD
-http://37.9.150.19:4022/udp/232.0.1.35:1234
-#EXTINF:-1, Fox
-http://5.139.25.169:81/udp/224.1.2.156:6000
-#EXTINF:-1, Fox Life
-http://94.241.197.191:55555/udp/233.99.61.228:5000
-#EXTINF:-1, NL: HBO 1 HD
-http://164.132.14.126:8080/live/bacha/bacha/4156.ts
-#EXTINF:-1,NL: HBO 2 HD
-http://163.172.16.246:9998/live/hasan/hasan/1656.ts
-#EXTINF:-1, HBO USA HD
-http://hyper.de1-eu.com:8000/live/1936/1936/3078.ts
-#EXTINF:-1, (EN) HBO HD
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/906.ts
-#EXTINF:-1, HBO 3
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/881.ts
-#EXTINF:-1, SKY CINEMA 1 HD
-http://151.80.18.181:80/live/dony/dony/225.ts
-#EXTINF:-1, SKY SELECT 9
-http://ksportiptv.com:1557/live/fisi/fisi/1776.ts
-#EXTINF:-1, SKY SELECT HD 2
-http://minitv.noip.me:8000/live/baba/baba/259.ts
-#EXTINF:-1, SKY ONE
-http://164.132.14.126:8080/live/bacha/bacha/3571.ts
-#EXTINF:-1, SKY NEWS
-http://37.59.155.97:8000/live/aa/aa/710.ts
-#EXTINF:-1, SKY ACTION
-http://51.254.47.234:8000/live/beker/metin/134.ts
-#EXTINF:-1, SKY II
-http://xtream.iptv-streamer.com:8000/live/vlad/vlad/682.ts
-#EXTINF:-1, SKY ONE
-http://149.202.77.60:8000/live/halim1/halim1/289.ts
-#EXTINF:-1, SKY
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/549.ts
-#EXTINF:-1, SKY MOVIES
-http://176.100.88.46:8881/udp/239.1.1.121:1234
-#EXTINF:-1, SKY MOVIES SELECT
-http://ghaasi.com:8000/live/ali1/123456/599.ts
-#EXTINF:-1, SKY MOVIES*
-http://62.210.162.88:80/live/DE139/112526032016/2113.ts
-#EXTINF:-1, SKY SYFY
-http://ksportiptv.com:1557/live/fisi/fisi/1123.ts
-#EXTINF:-1, SKY CINEMA
-http://62.210.162.88:80/live/DE139/112526032016/2113.ts
-#EXTINF:-1, SKY SELECT 9
-http://ksportiptv.com:1557/live/fisi/fisi/1776.ts
-#EXTINF:-1, SKY CINEMA 1 HD (ITA)
-http://pciptv.blogdns.com:34505/live/vella/vella/1381.ts
-#EXTINF:-1, SKY SELECT 2 HD
-http://minitv.noip.me:8000/live/baba/baba/259.ts
-#EXTINF:-1, SKY ACTION (DE)
-http://51.254.47.234:8000/live/beker/metin/134.ts
-#EXTINF:-1, SKY SPORT HD 1
-http://ipsatpro.com:8000/live/1975/1975/482.m3u8
-#EXTINF:-1, UK ?
-http://electro-tunis.biz:8000/live/33193/33193/1601.ts
-#EXTINF:-1, BBC WORLD NEWS
-http://95.189.131.63:1234/udp/225.54.23.10:5000
-#EXTINF:-1, BIKE CHANNEL HD
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2864.ts
-#EXTINF:-1, BRIGDE TV HD
-http://95.163.160.226:5050/udp/239.77.0.121:1234
-#EXTINF:-1, VIASAT MOVIES
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1609.ts
-#EXTINF:-1, VIASAT FOOTBOLL
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1610.ts
-#EXTINF:-1, VIASAT MOVIES PREMIERE
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1611.ts
-#EXTINF:-1, DISNEY JUNIOR
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1613.ts
-#EXTINF:-1, VIASAT EXPLODER
-http://92.127.237.52:1234/udp/225.54.23.55:5000
-#EXTINF:-1, VIASAT NATURE
-http://109.163.219.16:81/udp/238.2.1.127:1234
-#EXTINF:-1, VIASAT HISTORY
-http://5.139.25.169:81/udp/224.1.1.42:6000
-#EXTINF:-1, VIASAT TV 1000
-http://94.241.197.191:55555/udp/233.99.61.206:5000
-#EXTINF:-1, VIASAT EXPLODER RU
-http://178.184.253.240:81/udp/225.54.23.55:5000
-#EXTINF:-1, TV 1000 MEGA HIT
-http://176.51.120.178:1234/udp/225.54.41.21:5000
-#EXTINF:-1, TV4 FAKTA SWEDEN
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1615.ts
-#EXTINF:-1, (SE or NO)  TV 10
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1616.ts
-#EXTINF:-1, (NO) TV N
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1617.ts
-#EXTINF:-1, (SE) SVT 2
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1619.ts
-#EXTINF:-1, (SE) SVT 1
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1620.ts
-#EXTINF:-1, (NO) NRK 2
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1621.ts
-#EXTINF:-1, (NO) NRK 1
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1622.ts
-#EXTINF:-1, (NO) MAX
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1624.ts
-#EXTINF:-1, (SE) KUNSKABSKANALEN
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1625.ts
-#EXTINF:-1, (SE) TV 4
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1614.ts
-#EXTINF:-1, VOX NORWAY
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1595.ts
-#EXTINF:-1, CHANNEL 10 SWEDEN
-http://sat.010e.net:8000/live/mimi/mimi/1413.ts
-#EXTINF:-1, SWEDEN ?
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1624.ts
-#EXTINF:-1, NORWAY ?
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1626.ts
-#EXTINF:-1, (NO) NRK "
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1633.ts
-#EXTINF:-1, (SE) SWEDEN ?
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/904.ts
-#EXTINF:-1, VOX NORWAY
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1595.ts
-#EXTINF:-1, (DK) DR2
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1626.ts
-#EXTINF:-1, VIASAT MOVIES PREMIERE
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1598.ts
-#EXTINF:-1, ABC/BBC NEWS
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1605.ts
-#EXTINF:-1, VIASAT MOVIES COMENDY
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1610.ts
-#EXTINF:-1, (DE) VIASAT HISTORY
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1611.ts
-#EXTINF:-1, (DK) TV 3+
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1617.ts
-#EXTINF:-1, (DK) TV 3
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1618.ts
-#EXTINF:-1, (DK) TV 2
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1620.ts
-#EXTINF:-1, (DK) TV 2 CHARLIE
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1621.ts
-#EXTINF:-1, (DK) TV 2 NEWS
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/1622.ts
-#EXTINF:-1, DR 1 DENMARK
-http://5.128.130.64:81/udp/239.1.9.2:1234
-#EXTINF:-1, TV 3 DENMARK HD
-http://5.128.139.101:81/udp/239.1.9.2:1234
-#EXTINF:-1, (DK) DK 3
-http://s1.ukhdtv.com:7860/live/nZMshdHvTC/Q4lgQibwwj/913.ts
-#EXTINF:-1, DISNEY CHANNEL
-http://5.254.243.189:81/udp/238.1.1.9:1234
-#EXTINF:-1, (RU) DISCOVERY
-http://95.163.160.226:5050/udp/239.77.0.45:1234
-#EXTINF:-1, (RU) DISCOVERY HD
-http://212.164.153.227:1234/udp/225.54.41.18:5000
-#EXTINF:-1, (RU) DISCOVERY SCIENCE
-http://151.249.206.35:81/udp/224.200.246.48:3527
-#EXTINF:-1, (RU) DISCOVERY HD
-http://176.118.153.182:81/udp/231.1.1.9:1234
-#EXTINF:-1, (RU) DISCOVERY SCIENCE
-http://live-1112.la2.edge.filmon.com/live/7.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec36d142f27bb02d6fe23b4e38495ac302304c9a19fd03563e940f9237549c406e957e80e45c7bbeed0f79e172cff4862968f0357bffe77ae3934bfe16f17771eb89c6190cfb9c0dd579121766e7cc1b63a7291d3c07f71c4228c8f570758ab88836c9d8bde7bd6a88498db2576a2de7f73f7365ba2793cb6a5b91d3500e2cbc1befbd795ccee3b45cb95b48a960184ee
-#EXTINF:-1, HISTORY CHANNEL
-http://212.164.2.216:1234/udp/225.54.41.26:5000
-#EXTINF:-1, HISTORY
-http://95.191.137.177:1234/udp/225.54.41.26:5000
-#EXTINF:-1, SUPER TENNIS HD
-http://ipsatpro.com:8000/live/123456/123456/643.ts
-#EXTINF:-1, CANAL + ?
-http://149.202.201.2:8877/live/emi/emi/2470.ts
-#EXTINF:-1, SPORT USA
-http://62.210.162.88:80/live/SPORT140/114926032016/1836.ts
-#EXTINF:-1, DIGI SPORT 1
-http://62.210.162.88:80/live/SPORT140/114926032016/2054.ts
-#EXTINF:-1, DIGI SPORT 2
-http://62.210.162.88:80/live/SPORT140/114926032016/2055.ts
-#EXTINF:-1, DIGI SPORT 3
-http://62.210.162.88:80/live/SPORT140/114926032016/2056.ts
-#EXTINF:-1, A MEDIA 1 HD
-http://193.187.82.250:9999/amedia?https://vk.com/iptv_telek
-#EXTINF:-1, BLUE HUSTLER
-http://151.249.206.35:81/udp/224.200.101.2:1234
-#EXTINF:-1, CTC
-http://37.9.147.25:4022/udp/232.0.1.12:1234
-#EXTINF:-1, CTC LOVE
-http://95.189.131.63:1234/udp/225.54.23.20:5000
-#EXTINF:-1, DISC ?
-http://109.74.172.114:81/udp/239.255.0.40:1234
-#EXTINF:-1, (RU) D CHANNEL
-http://37.9.147.25:4022/udp/232.0.1.11:1234
-#EXTINF:-1, DANCE TV
-http://193.187.82.250:9999/dangetv?https://vk.com/iptv_telek
-#EXTINF:-1, DEUTSCHE WELLE
-http://95.189.131.63:1234/udp/225.54.23.7:5000
-#EXTINF:-1, (IT) DRIVE IN
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2813.ts
-#EXTINF:-1, EUROPA TV PLUS
-http://37.18.60.231:8000/udp/239.1.9.11:1234
-#EXTINF:-1, (IT) ?
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/574.ts
-#EXTINF:-1, EURO SPORT 2 HD
-http://94.245.164.54:34040/udp/239.4.1.13:2020
-#EXTINF:-1, THT CHANNEL
-http://213.178.53.251:4022/udp/232.0.1.35:1234
-#EXTINF:-1, EOURO SPORT 1
-http://109.74.172.114:81/udp/239.255.0.100:1234
-#EXTINF:-1, (RU) HUMOR BOX
-http://95.67.145.103:80/udp/233.99.61.76:5000
-#EXTINF:-1, (RU) MUSIC BOX
-http://91.244.30.129:9999/udp/239.255.250.35:1234
-
+#EXTINF:-1,UK: BBC Three
+http://am-iptv.club:25461/live/soft4sat/testme1/771.ts
+#EXTINF:-1,UK: BBC Four
+http://am-iptv.club:25461/live/soft4sat/testme1/772.ts
+#EXTINF:-1,UK:ITV_1_HD
+http://am-iptv.club:25461/live/soft4sat/testme1/667.ts
+#EXTINF:-1,UK:ITV_2_HD
+http://am-iptv.club:25461/live/soft4sat/testme1/668.ts
+#EXTINF:-1,UK: ITV 3
+http://am-iptv.club:25461/live/soft4sat/testme1/778.ts
+#EXTINF:-1,UK: ITV 4
+http://am-iptv.club:25461/live/soft4sat/testme1/779.ts
+#EXTINF:-1,UK: ITV BE
+http://am-iptv.club:25461/live/soft4sat/testme1/780.ts
+#EXTINF:-1,UK: E4
+http://am-iptv.club:25461/live/soft4sat/testme1/1660.ts
+#EXTINF:-1,UK: RTE 1
+http://am-iptv.club:25461/live/soft4sat/testme1/773.ts
+#EXTINF:-1,UK: RTE 2
+http://am-iptv.club:25461/live/soft4sat/testme1/774.ts
+#EXTINF:-1,UK RTE JR
+http://am-iptv.club:25461/live/soft4sat/testme1/4768.ts
+#EXTINF:-1,UK: FOX HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4767.ts
+#EXTINF:-1,UK: CBS Action
+http://am-iptv.club:25461/live/soft4sat/testme1/781.ts
+#EXTINF:-1,UK: CBS Reality
+http://am-iptv.club:25461/live/soft4sat/testme1/782.ts
+#EXTINF:-1,UK: _Syfy_UK
+http://am-iptv.club:25461/live/soft4sat/testme1/798.ts
+#EXTINF:-1,UK: _Film4_UK
+http://am-iptv.club:25461/live/soft4sat/testme1/791.ts
+#EXTINF:-1,UK-DISCOVERY-HISTORY+1
+http://am-iptv.club:25461/live/soft4sat/testme1/660.ts
+#EXTINF:-1,UK: Boomerang
+http://am-iptv.club:25461/live/soft4sat/testme1/796.ts
+#EXTINF:-1,UK: Cartoon Network
+http://am-iptv.club:25461/live/soft4sat/testme1/793.ts
+#EXTINF:-1,UK: Comedy Central
+http://am-iptv.club:25461/live/soft4sat/testme1/783.ts
+#EXTINF:-1,UK: Discovery History
+http://am-iptv.club:25461/live/soft4sat/testme1/784.ts
+#EXTINF:-1,UK: Disney XD
+http://am-iptv.club:25461/live/soft4sat/testme1/792.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://am-iptv.club:25461/live/soft4sat/testme1/795.ts
+#EXTINF:-1,UK-MORE4
+http://am-iptv.club:25461/live/soft4sat/testme1/663.ts
+#EXTINF:-1,UK:bt sports espn
+http://am-iptv.club:25461/live/soft4sat/testme1/665.ts
+#EXTINF:-1,UK:Sky_Thriller
+http://am-iptv.club:25461/live/soft4sat/testme1/666.ts
+#EXTINF:-1,UK Sky Action Movies
+http://am-iptv.club:25461/live/soft4sat/testme1/323.ts
+#EXTINF:-1,UK Sky DramaRom Movies
+http://am-iptv.club:25461/live/soft4sat/testme1/326.ts
+#EXTINF:-1,UK Sky Movies Showcase
+http://am-iptv.club:25461/live/soft4sat/testme1/322.ts
+#EXTINF:-1,UK Sky Movies Comedy
+http://am-iptv.club:25461/live/soft4sat/testme1/324.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://am-iptv.club:25461/live/soft4sat/testme1/439.ts
+#EXTINF:-1,UK: _Sky.Movies.Action.&.Adventure
+http://am-iptv.club:25461/live/soft4sat/testme1/789.ts
+#EXTINF:-1,UK: _Sky.Movies.Family.UK
+http://am-iptv.club:25461/live/soft4sat/testme1/787.ts
+#EXTINF:-1,UK: _Sky.Movies.Modern.HD
+http://am-iptv.club:25461/live/soft4sat/testme1/785.ts
+#EXTINF:-1,UK: _Sky.Movies.Premiere.UK
+http://am-iptv.club:25461/live/soft4sat/testme1/786.ts
+#EXTINF:-1,UK: _Sky.Movies.Sci-Fi.&.Horror
+http://am-iptv.club:25461/live/soft4sat/testme1/790.ts
+#EXTINF:-1,UK; HISTORY HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4765.ts
+#EXTINF:-1,UK: Alibi HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4743.ts
+#EXTINF:-1,UK: AMC
+http://am-iptv.club:25461/live/soft4sat/testme1/4751.ts
+#EXTINF:-1,UK: BBC ALBA
+http://am-iptv.club:25461/live/soft4sat/testme1/4752.ts
+#EXTINF:-1,UK: BT Sports3 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4747.ts
+#EXTINF:-1,UK: CNN HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4753.ts
+#EXTINF:-1,UK: DAVE HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4754.ts
+#EXTINF:-1,UK: Discovery Shed
+http://am-iptv.club:25461/live/soft4sat/testme1/4741.ts
+#EXTINF:-1,UK: EDEN HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4755.ts
+#EXTINF:-1,UK: Eir Sport1
+http://am-iptv.club:25461/live/soft4sat/testme1/4746.ts
+#EXTINF:-1,UK: H2
+http://am-iptv.club:25461/live/soft4sat/testme1/4766.ts
+#EXTINF:-1,UK: ID+
+http://am-iptv.club:25461/live/soft4sat/testme1/4739.ts
+#EXTINF:-1,UK: KIX
+http://am-iptv.club:25461/live/soft4sat/testme1/4744.ts
+#EXTINF:-1,UK: NAT GEO HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4756.ts
+#EXTINF:-1,UK: NatGeo Wild HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4745.ts
+#EXTINF:-1,UK: Nick Jr
+http://am-iptv.club:25461/live/soft4sat/testme1/4736.ts
+#EXTINF:-1,UK: Nick Jrtoo
+http://am-iptv.club:25461/live/soft4sat/testme1/4738.ts
+#EXTINF:-1,UK: Quest+1
+http://am-iptv.club:25461/live/soft4sat/testme1/4740.ts
+#EXTINF:-1,UK: SKY1
+http://am-iptv.club:25461/live/soft4sat/testme1/4749.ts
+#EXTINF:-1,uk: SKY2
+http://am-iptv.club:25461/live/soft4sat/testme1/4750.ts
+#EXTINF:-1,UK: SONY CHANNEL
+http://am-iptv.club:25461/live/soft4sat/testme1/4757.ts
+#EXTINF:-1,UK: TLC
+http://am-iptv.club:25461/live/soft4sat/testme1/4758.ts
+#EXTINF:-1,UK: TLC+1
+http://am-iptv.club:25461/live/soft4sat/testme1/4742.ts
+#EXTINF:-1,UK: TRU TV
+http://am-iptv.club:25461/live/soft4sat/testme1/4760.ts
+#EXTINF:-1,UK: TRUE MOVIES
+http://am-iptv.club:25461/live/soft4sat/testme1/4759.ts
+#EXTINF:-1,UK: UNIVERSAL HD
+http://am-iptv.club:25461/live/soft4sat/testme1/4761.ts
+#EXTINF:-1,UK: VH1
+http://am-iptv.club:25461/live/soft4sat/testme1/4762.ts
+#EXTINF:-1,UK:  Movies-4men Uk
+http://am-iptv.club:25461/live/soft4sat/testme1/794.ts
+#EXTINF:-1,UK Disney Channel
+http://am-iptv.club:25461/live/soft4sat/testme1/317.ts
+#EXTINF:-1,UK Disney Junior
+http://am-iptv.club:25461/live/soft4sat/testme1/318.ts
+#EXTINF:-1,UK Animal Planet
+http://am-iptv.club:25461/live/soft4sat/testme1/321.ts
+#EXTINF:-1,UK Discovery
+http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
+#EXTINF:-1,UK: Discovery_Investigation_HD
+http://am-iptv.club:25461/live/soft4sat/testme1/433.ts
+#EXTINF:-1,UK: FOOD_NETWORK
+http://am-iptv.club:25461/live/soft4sat/testme1/434.ts
+#EXTINF:-1,UK: Sky Disney channel
+http://am-iptv.club:25461/live/soft4sat/testme1/436.ts
+#EXTINF:-1,UK National Geographic UK
+http://am-iptv.club:25461/live/soft4sat/testme1/320.ts
+#EXTINF:-1,UK: Sky News
+http://am-iptv.club:25461/live/soft4sat/testme1/606.ts
+#EXTINF:-1,UK-BT-Sports-1-HD
+http://am-iptv.club:25461/live/soft4sat/testme1/655.ts
+#EXTINF:-1,UK-BT Sport 2 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/656.ts
+#EXTINF:-1,UK SKY SPORTS 1 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/329.ts
+#EXTINF:-1,UK SKY SPORTS 2 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/330.ts
+#EXTINF:-1,UK SKY SPORTS 3 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/331.ts
+#EXTINF:-1,UK SKY SPORTS 4 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/332.ts
+#EXTINF:-1,UK SKY SPORTS 5 HD
+http://am-iptv.club:25461/live/soft4sat/testme1/333.ts
+#EXTINF:-1,UK: _Sky_Sports_F1_UK
+http://am-iptv.club:25461/live/soft4sat/testme1/776.ts
+#EXTINF:-1,UK: Boxnation_HD
+http://am-iptv.club:25461/live/soft4sat/testme1/1347.ts
 
 
